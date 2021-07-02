@@ -1,8 +1,8 @@
 <application>
-  <component name="ImportFilteringUsageViewSetting">
-    <option name="SHOW_IMPORTS" value="false" />
-  </component>
   <component name="ShowUsagesSettings">
     <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
+  </component>
+  <component name="UsageInGeneratedCodeFilteringSetting">
+    <option name="enabled" value="false" />
   </component>
 </application>

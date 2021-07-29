@@ -13,6 +13,29 @@
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="42W4DR0JVF" />
+          </Key>
+        </key>
+        <name value="rockchip rk3399-all" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.2.111:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-07-29T06:20:21.399263Z" />
+        <name value="rockchip rk3399-all" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>

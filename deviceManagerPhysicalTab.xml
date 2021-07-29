@@ -20,6 +20,7 @@
             <value value="42W4DR0JVF" />
           </Key>
         </key>
+        <lastOnlineTime value="2021-07-29T08:07:37.208905Z" />
         <name value="rockchip rk3399-all" />
         <target value="Android 7.1.1" />
         <api value="25" />
@@ -31,7 +32,6 @@
             <value value="192.168.2.111:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-07-29T06:20:21.399263Z" />
         <name value="rockchip rk3399-all" />
         <target value="Android 7.1.1" />
         <api value="25" />

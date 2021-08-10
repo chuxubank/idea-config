@@ -36,6 +36,30 @@
         <target value="Android 7.1.1" />
         <api value="25" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.2.109:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-08-10T01:29:49.889820Z" />
+        <name value="rockchip rk3399-all" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+        <resolution>
+          <Resolution>
+            <width value="1920" />
+            <height value="1080" />
+          </Resolution>
+        </resolution>
+        <density value="240" />
+        <abis>
+          <option value="arm64-v8a" />
+          <option value="armeabi-v7a" />
+          <option value="armeabi" />
+        </abis>
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>

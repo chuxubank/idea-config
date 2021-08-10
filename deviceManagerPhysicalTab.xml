@@ -12,12 +12,6 @@
         <name value="rockchip rk3399-all" />
         <target value="Android 7.1.1" />
         <api value="25" />
-        <resolution>
-          <Resolution>
-            <width value="1920" />
-            <height value="1080" />
-          </Resolution>
-        </resolution>
         <density value="240" />
         <abis>
           <option value="arm64-v8a" />
@@ -32,7 +26,7 @@
             <value value="AVFGNU1507404859" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-08-10T08:29:50.260774Z" />
+        <lastOnlineTime value="2021-08-10T09:09:12.623495Z" />
         <name value="HONOR AGM3-W09HN" />
         <target value="Android 10.0" />
         <api value="29" />

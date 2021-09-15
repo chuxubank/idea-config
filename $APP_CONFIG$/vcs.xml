@@ -1,0 +1,19 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://code.zhiyan.com" />
+          <option name="userName" value="Jerry.Chu" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.zhiyan.com&quot;" />
+          <option name="userName" value="jchu" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+</application>

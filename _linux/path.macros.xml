@@ -1,6 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="MAVEN_REPOSITORY" value="/home/misaka/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="/home/misaka/.local/share/Google/AndroidStudioPreview2021.1/Kotlin/kotlinc" />
-  </component>
-</application>

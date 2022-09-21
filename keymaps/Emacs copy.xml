@@ -1,0 +1,11 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift ctrl o" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+</keymap>

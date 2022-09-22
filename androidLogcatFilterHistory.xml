@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine GET PROGRESS" />
         <option value="package:mine" />
         <option value="package:mine serial" />
         <option value="package:mine appfea" />

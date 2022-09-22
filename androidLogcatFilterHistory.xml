@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine serial" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:mine serial" />
+        <option value="package:mine appfea" />
         <option value="package:mine 2.0.3" />
         <option value="package:mine UserHandbook" />
         <option value="package:mine getSerialNumber" />

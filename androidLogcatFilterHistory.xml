@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine firmware" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine firmware" />
         <option value="package:mine " />
-        <option value="package:mine GET PROGRESS" />
         <option value="package:mine" />
+        <option value="package:mine enableOTA" />
+        <option value="package:mine GET PROGRESS" />
         <option value="package:mine serial" />
         <option value="package:mine appfea" />
         <option value="package:mine 2.0.3" />

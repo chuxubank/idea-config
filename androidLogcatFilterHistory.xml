@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine Webview" />
         <option value="package:mine " />
         <option value="package:mine OTA | Lock" />
         <option value="package:mine OTA" />
         <option value="package:mine OTAUiS" />
         <option value="package:mine OTAUiState" />
-        <option value="package:mine" />
         <option value="package:mine firmware" />
         <option value="package:mine enableOTA" />
         <option value="package:mine GET PROGRESS" />

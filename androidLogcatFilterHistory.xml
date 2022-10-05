@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine EVENT_ON" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine EVENT_ON" />
         <option value="package:mine" />
+        <option value="package:mine EVENT_ON" />
         <option value="package:mine " />
         <option value="package:mine lockid" />
         <option value="package:mine Branded" />

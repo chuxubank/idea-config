@@ -1,9 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:okhttp.OkHttpClient " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:mine tag:okhttp.OkHttpClient " />
+        <option value="package:mine -tag:okhttp.OkHttpClient " />
+        <option value="package:mine level:error " />
+        <option value="package:mine tag:OTARepository " />
+        <option value="package:mine tag:okhttp.OkHttpClient" />
+        <option value="package:mine tag:okhttp.OkHttpClient tag:OTARepository " />
+        <option value="package:mine okhttp" />
+        <option value="package:mine OTARepository|OkHttp" />
+        <option value="package:mine OTARepo" />
         <option value="package:mine " />
+        <option value="package:mine OTARepository" />
         <option value="package:mine EVENT_ON" />
         <option value="package:mine lockid" />
         <option value="package:mine Branded" />
@@ -12,16 +23,6 @@
         <option value="package:mine Webview" />
         <option value="package:mine OTA | Lock" />
         <option value="package:mine OTA" />
-        <option value="package:mine OTAUiS" />
-        <option value="package:mine OTAUiState" />
-        <option value="package:mine firmware" />
-        <option value="package:mine enableOTA" />
-        <option value="package:mine GET PROGRESS" />
-        <option value="package:mine serial" />
-        <option value="package:mine appfea" />
-        <option value="package:mine 2.0.3" />
-        <option value="package:mine UserHandbook" />
-        <option value="package:mine getSerialNumber" />
       </list>
     </option>
   </component>

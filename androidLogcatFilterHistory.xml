@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:OTARepository " />
+    <option name="mostRecentlyUsed" value="package:mine tag:EuropaFirmwareUpdateTask tag:OTARepository tag:Calculator" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:EuropaFirmwareUpdateTask tag:OTARepository tag:Calculator" />
+        <option value="package:mine tag:EuropaFirmwareUpdateTask tag:OTARepository tag:Progress" />
+        <option value="package:mine tag:EuropaFirmwareUpdateTask tag:" />
+        <option value="package:mine tag:EuropaFirmwareUpdateTask" />
+        <option value="package:mine tag:Euro" />
+        <option value="package:mine tag:" />
+        <option value="package:mine" />
         <option value="package:mine tag:OTARepository " />
         <option value="tag:ReactNativeJS | package:mine " />
         <option value="tag:ReactNativeJS" />
@@ -10,19 +17,12 @@
         <option value="tag:ReactNativeJS " />
         <option value="level:error " />
         <option value="package:com.ainirobot.home " />
-        <option value="package:mine" />
         <option value="package:mine tag:okhttp.OkHttpClient " />
         <option value="package:mine -tag:okhttp.OkHttpClient " />
         <option value="package:mine level:error " />
         <option value="package:mine tag:okhttp.OkHttpClient" />
         <option value="package:mine tag:okhttp.OkHttpClient tag:OTARepository " />
         <option value="package:mine okhttp" />
-        <option value="package:mine OTARepository|OkHttp" />
-        <option value="package:mine OTARepo" />
-        <option value="package:mine " />
-        <option value="package:mine OTARepository" />
-        <option value="package:mine EVENT_ON" />
-        <option value="package:mine lockid" />
       </list>
     </option>
   </component>

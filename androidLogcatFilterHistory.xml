@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ReactNativeJS | package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:OTARepository " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:OTARepository " />
         <option value="tag:ReactNativeJS | package:mine " />
         <option value="tag:ReactNativeJS" />
         <option value="tag:ReactNativeJS ShadowScreen" />
@@ -13,7 +14,6 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
         <option value="package:mine -tag:okhttp.OkHttpClient " />
         <option value="package:mine level:error " />
-        <option value="package:mine tag:OTARepository " />
         <option value="package:mine tag:okhttp.OkHttpClient" />
         <option value="package:mine tag:okhttp.OkHttpClient tag:OTARepository " />
         <option value="package:mine okhttp" />

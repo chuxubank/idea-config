@@ -2,12 +2,15 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine tag:OTARepository tag:Calculator tag:EuropaFirmwareUpdateTask " />
+        <option value="package:mine tag:OTARepository" />
       </list>
     </option>
     <option name="mostRecentlyUsed" value="package:mine tag:OTARepository tag:Calculator tag:EuropaFirmwareUpdateTask " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:OTARepository tag:Calculator tag:EuropaFirmwareUpdateTask " />
+        <option value="package:mine tag:OTARepository " />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:OTARepository tag:Calculator" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:OTARepository tag:Calculator" />
@@ -16,7 +19,6 @@
         <option value="package:mine tag:EuropaFirmwareUpdateTask" />
         <option value="package:mine tag:Euro" />
         <option value="package:mine tag:" />
-        <option value="package:mine tag:OTARepository " />
         <option value="tag:ReactNativeJS | package:mine " />
         <option value="tag:ReactNativeJS" />
         <option value="tag:ReactNativeJS ShadowScreen" />
@@ -26,7 +28,6 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
         <option value="package:mine -tag:okhttp.OkHttpClient " />
         <option value="package:mine level:error " />
-        <option value="package:mine tag:okhttp.OkHttpClient" />
       </list>
     </option>
   </component>

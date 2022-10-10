@@ -5,13 +5,12 @@
         <option value="package:mine tag:OTARepository" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:OTARepository tag:Calculator tag:EuropaFirmwareUpdateTask " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:OTARepository tag:Calculator tag:EuropaFirmwareUpdateTask " />
         <option value="package:mine tag:OTARepository " />
         <option value="package:mine " />
-        <option value="package:mine" />
         <option value="package:mine tag:OTARepository tag:Calculator" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:OTARepository tag:Calculator" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:OTARepository tag:Progress" />

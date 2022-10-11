@@ -5,9 +5,12 @@
         <option value="package:mine tag:OTARepository" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.aaecosys.apac_leo " />
         <option value="package:mine" />
+        <option value="package:" />
         <option value="package:mine tag:OTARepository tag:Calculator tag:EuropaFirmwareUpdateTask " />
         <option value="package:mine tag:OTARepository " />
         <option value="package:mine " />
@@ -25,8 +28,6 @@
         <option value="level:error " />
         <option value="package:com.ainirobot.home " />
         <option value="package:mine tag:okhttp.OkHttpClient " />
-        <option value="package:mine -tag:okhttp.OkHttpClient " />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>

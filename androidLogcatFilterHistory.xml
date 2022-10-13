@@ -8,8 +8,8 @@
     <option name="mostRecentlyUsed" value="package:mine tag:LockUnityInstallationViewModel " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:LockUnityInstallationViewModel " />
         <option value="package:mine" />
+        <option value="package:mine tag:LockUnityInstallationViewModel " />
         <option value="package:mine tag:ViewModel" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:OTARepository tag:Calculator tag:LockFirmwareUpdateViewModel " />

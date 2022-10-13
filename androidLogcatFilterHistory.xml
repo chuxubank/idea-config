@@ -5,8 +5,11 @@
         <option value="package:mine tag:OTARepository" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:ViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ViewModel" />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine" />
         <option value="package:mine tag:OTARepository tag:Calculator tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine -tag:ThreadUtil -tag:Connection -tag:Calculator -tag:Progress -tag:Manager -tag:EuropaFirmwareUpdateTask " />
@@ -25,8 +28,6 @@
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask" />
         <option value="package:mine tag:Euro" />
-        <option value="package:mine tag:" />
-        <option value="tag:ReactNativeJS | package:mine " />
       </list>
     </option>
   </component>

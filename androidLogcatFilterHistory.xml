@@ -5,9 +5,13 @@
         <option value="package:mine tag:OTARepository" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:ManagedLockConnection " />
+    <option name="mostRecentlyUsed" value="package:mine tag:OTARepository tag:LockFirmwareUpdateViewModel tag:ManagedLockConnection " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:OTARepository tag:LockFirmwareUpdateViewModel tag:ManagedLockConnection " />
+        <option value="package:mine tag:OTARepository tag:LockFirmwareUpdateViewModel " />
+        <option value="package:mine " />
+        <option value="package:mine tag:OTA" />
         <option value="package:mine tag:ManagedLockConnection " />
         <option value="package:mine tag:OTARepository " />
         <option value="package:mine" />
@@ -19,15 +23,11 @@
         <option value="package:mine -tag:ThreadUtil -tag:Connection -tag:Calculator -tag:Progress" />
         <option value="package:mine -tag:ThreadUtil -tag:EuropaFirmwareUpdateTask" />
         <option value="package:mine -tag:ThreadUtil" />
-        <option value="package:mine tag:OTARepository tag:LockFirmwareUpdateViewModel " />
         <option value="package:" />
         <option value="package:com.aaecosys.apac_leo " />
         <option value="package:mine tag:OTARepository tag:Calculator tag:EuropaFirmwareUpdateTask " />
-        <option value="package:mine " />
         <option value="package:mine tag:OTARepository tag:Calculator" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:OTARepository tag:Calculator" />
-        <option value="package:mine tag:EuropaFirmwareUpdateTask tag:OTARepository tag:Progress" />
-        <option value="package:mine tag:EuropaFirmwareUpdateTask tag:" />
       </list>
     </option>
   </component>

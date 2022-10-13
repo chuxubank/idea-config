@@ -5,8 +5,10 @@
         <option value="package:mine tag:OTARepository" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:LockUnityInstallationViewModel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LockUnityInstallationViewModel " />
         <option value="package:mine" />
         <option value="package:mine tag:ViewModel" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
@@ -26,7 +28,6 @@
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:OTARepository tag:Progress" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask" />
-        <option value="package:mine tag:Euro" />
       </list>
     </option>
   </component>

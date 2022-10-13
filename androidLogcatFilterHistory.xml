@@ -8,6 +8,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:mine tag:OTARepository tag:Calculator tag:LockFirmwareUpdateViewModel " />
+        <option value="package:mine -tag:ThreadUtil -tag:Connection -tag:Calculator -tag:Progress -tag:Manager -tag:EuropaFirmwareUpdateTask " />
+        <option value="package:mine -tag:ThreadUtil -tag:Connection -tag:Calculator -tag:Progress" />
+        <option value="package:mine -tag:ThreadUtil -tag:EuropaFirmwareUpdateTask" />
+        <option value="package:mine -tag:ThreadUtil" />
+        <option value="package:mine tag:OTARepository tag:LockFirmwareUpdateViewModel " />
         <option value="package:" />
         <option value="package:com.aaecosys.apac_leo " />
         <option value="package:mine tag:OTARepository tag:Calculator tag:EuropaFirmwareUpdateTask " />
@@ -21,12 +27,6 @@
         <option value="package:mine tag:Euro" />
         <option value="package:mine tag:" />
         <option value="tag:ReactNativeJS | package:mine " />
-        <option value="tag:ReactNativeJS" />
-        <option value="tag:ReactNativeJS ShadowScreen" />
-        <option value="tag:ReactNativeJS " />
-        <option value="level:error " />
-        <option value="package:com.ainirobot.home " />
-        <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
   </component>

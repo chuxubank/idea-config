@@ -7,13 +7,13 @@
     </option>
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:ManagedLockConnection " />
         <option value="package:mine" />
+        <option value="package:mine " />
+        <option value="package:mine tag:ManagedLockConnection " />
         <option value="package:mine tag:LockFirmware" />
         <option value="package:mine tag:Lock" />
         <option value="package:mine tag:OTARepository tag:LockFirmwareUpdateViewModel tag:ManagedLockConnection " />
         <option value="package:mine tag:OTARepository tag:LockFirmwareUpdateViewModel " />
-        <option value="package:mine " />
         <option value="package:mine tag:OTA" />
         <option value="package:mine tag:OTARepository " />
         <option value="package:mine tag:LockUnityInstallationViewModel " />

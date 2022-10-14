@@ -5,16 +5,16 @@
         <option value="package:mine" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LockFirmwareUpdateHelper " />
+        <option value="package:mine crc" />
         <option value="package:mine tag:OTARepository" />
         <option value="package:mine Firmware update failed" />
         <option value="package:mine GET PROGRESS" />
         <option value="package:mine tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:okHttp" />
         <option value="package:mine tag:Firmware" />
-        <option value="package:mine tag:LockFirmwareUpdateHelper " />
         <option value="package:mine tag:OkHttp" />
         <option value="package:mine " />
         <option value="package:mine tag:ManagedLockConnection " />
@@ -27,7 +27,6 @@
         <option value="package:mine tag:LockUnityInstallationViewModel " />
         <option value="package:mine tag:ViewModel" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
-        <option value="package:mine tag:OTARepository tag:Calculator tag:LockFirmwareUpdateViewModel " />
       </list>
     </option>
   </component>

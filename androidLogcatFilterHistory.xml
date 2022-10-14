@@ -2,13 +2,15 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:LockFirmwareUpdateHelper" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.aaecosys.apac_leo " />
+        <option value="package:mine" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:OTARepository " />
         <option value="package:mine " />
         <option value="package:mine tag:LockFirmwareUpdateHelper " />
@@ -27,7 +29,6 @@
         <option value="package:mine tag:OTARepository tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:OTA" />
         <option value="package:mine tag:OTARepository " />
-        <option value="package:mine tag:LockUnityInstallationViewModel " />
       </list>
     </option>
   </component>

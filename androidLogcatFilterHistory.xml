@@ -6,9 +6,13 @@
         <option value="package:mine tag:LockFirmwareUpdateHelper" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:OTARepository tag:ManagedLockConnection tag:LockFirmware" />
+    <option name="mostRecentlyUsed" value="package:mine tag:EuropaFirmwareUpdateTask tag:Calculator " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:EuropaFirmwareUpdateTask tag:Calculator " />
+        <option value="package:mine tag:EuropaFirmwareUpdateTask tag:" />
+        <option value="package:mine tag:EuropaFirmwareUpdateTask" />
+        <option value="package:mine tag:EuropaFirmwareUpdateTask tag:Progress" />
         <option value="package:mine" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask level:debug    " />
         <option value="package:mine tag:EuropaFirmwareUpdateTask " />
@@ -25,10 +29,6 @@
         <option value="package:mine tag:LockFirmwareUpdateHelper " />
         <option value="package:mine Full CRC" />
         <option value="package:mine crc" />
-        <option value="package:mine tag:OTARepository" />
-        <option value="package:mine Firmware update failed" />
-        <option value="package:mine GET PROGRESS" />
-        <option value="package:mine tag:okHttp" />
       </list>
     </option>
   </component>

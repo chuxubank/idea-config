@@ -5,11 +5,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:LockFirmwareUpdateHelper" />
         <option value="package:mine" />
+        <option value="package:mine onProgressEvent" />
+        <option value="package:mine tag:LockFirmwareUpdateHelper" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:Calculator" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:Calculator " />
@@ -27,7 +27,6 @@
         <option value="package:com.aaecosys.apac_leo " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:OTARepository " />
         <option value="package:mine " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper " />
       </list>
     </option>
   </component>

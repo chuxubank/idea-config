@@ -10,9 +10,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:EuropaFirmwareUpdateTask level:debug    " />
+        <option value="package:mine tag:EuropaFirmwareUpdateTask " />
         <option value="package:mine tag:EuropaFirmwareUpdateTask   " />
         <option value="package:mine tag:EuropaFirmwareUpdateTask level:debug   " />
-        <option value="package:mine tag:EuropaFirmwareUpdateTask " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:OTARepository tag:ManagedLockConnection tag:LockFirmware" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:OTARepository tag:ManagedLockConnection" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:OTARepository tag:ManagedLockConnection tag:" />

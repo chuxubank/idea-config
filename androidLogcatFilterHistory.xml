@@ -6,13 +6,13 @@
         <option value="package:mine tag:LockFirmwareUpdateHelper" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:EuropaFirmwareUpdateTask tag:Calculator" />
+    <option name="mostRecentlyUsed" value="package:mine tag:EuropaFirmwareUpdateTask" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:EuropaFirmwareUpdateTask" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:Calculator" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:Calculator " />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:" />
-        <option value="package:mine tag:EuropaFirmwareUpdateTask" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:Progress" />
         <option value="package:mine" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask level:debug    " />

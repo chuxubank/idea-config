@@ -7,9 +7,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection  " />
+    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingsActivityV2   " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingsActivityV2   " />
+        <option value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection tag:LockSettingsActivityV2   " />
         <option value="package:mine" />
         <option value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection  " />
         <option value="package:mine tag:LockFirmwareUpdateHelper | Clear | tag:LockConnection " />
@@ -28,8 +30,6 @@
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:Progress" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask level:debug    " />
-        <option value="package:mine tag:EuropaFirmwareUpdateTask " />
-        <option value="package:mine tag:EuropaFirmwareUpdateTask   " />
       </list>
     </option>
   </component>

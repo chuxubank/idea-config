@@ -10,8 +10,8 @@
     <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection  " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection  " />
         <option value="package:mine" />
+        <option value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection  " />
         <option value="package:mine tag:LockFirmwareUpdateHelper | Clear | tag:LockConnection " />
         <option value="package:mine tag:LockFirmwareUpdateHelper | Clear | tag:ManagedLockConnection " />
         <option value="package:mine tag:LockFirmwareUpdateHelper" />

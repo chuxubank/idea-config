@@ -7,13 +7,18 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel  " />
+    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LockFirmwareUpdateHelper" />
         <option value="package:mine" />
+        <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel  " />
+        <option value="package:mine tag:LockFirmwareUpdateHelper tag:Connection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel  " />
+        <option value="package:mine tag:com.august.ble2" />
+        <option value="package:mine tag:com.august.ble2 " />
+        <option value="package:mine LockConnection" />
         <option value="package:mine tag:LockFirmwareUpdateHelper " />
         <option value="package:mine onProgressEvent" />
-        <option value="package:mine tag:LockFirmwareUpdateHelper" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:Calculator" />
         <option value="package:mine tag:EuropaFirmwareUpdateTask tag:Calculator " />
@@ -25,10 +30,6 @@
         <option value="package:mine tag:EuropaFirmwareUpdateTask level:debug   " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:OTARepository tag:ManagedLockConnection tag:LockFirmware" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:OTARepository tag:ManagedLockConnection" />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:OTARepository tag:ManagedLockConnection tag:" />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:OTARepository tag:ManagedLockConnection " />
-        <option value="package:mine Background" />
-        <option value="package:com.aaecosys.apac_leo " />
       </list>
     </option>
   </component>

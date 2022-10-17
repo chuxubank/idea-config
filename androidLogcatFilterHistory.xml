@@ -11,10 +11,10 @@
     <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingsActivityV2 tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingsActivityV2 tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel    " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingsActivityV2   " />
         <option value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection tag:LockSettingsActivityV2   " />
-        <option value="package:mine" />
         <option value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection  " />
         <option value="package:mine tag:LockFirmwareUpdateHelper | Clear | tag:LockConnection " />
         <option value="package:mine tag:LockFirmwareUpdateHelper | Clear | tag:ManagedLockConnection " />

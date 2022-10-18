@@ -7,9 +7,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState  " />
+    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState tag:LockConnection  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState tag:LockConnection  " />
         <option value="package:mine" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel  " />
         <option value="package:mine BackgroundSyncTask" />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:LockFirmwareUpdateHelper" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel  " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:Connection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel  " />
-        <option value="package:mine tag:com.august.ble2" />
       </list>
     </option>
   </component>

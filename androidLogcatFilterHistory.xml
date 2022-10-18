@@ -2,12 +2,13 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState  " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel  " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection " />
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel  " />
+    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState  " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />

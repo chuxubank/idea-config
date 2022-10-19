@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="rule" value="@ExperimentalCoroutinesApi&#10;    @get: Rule&#10;    val rule: RuleChain = RuleChain&#10;        .outerRule(MainCoroutineRule())&#10;        .around(InstantTaskExecutorRule())&#10;        .around(MockKRule(this))" description="Rule for UnitTest" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>

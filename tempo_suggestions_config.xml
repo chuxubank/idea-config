@@ -1,6 +1,6 @@
 <application>
   <component name="TempoSuggestionsConfig">
-    <option name="ignoredRepos" value="$USER_HOME$/Developer/AA/luna,/Users/xuchu1/Developer/Examples/sunflower,/Users/xuchu1/Developer/ZY/SelfCheck,/Users/xuchu1/Developer/AA/ComposePlayground,/Users/xuchu1/Developer/AA/MaterialPlayground,/Users/xuchu1/Developer/ZY/FaceRegister,/Users/xuchu1/Developer/ZY/RobotDroid,/Users/xuchu1/Developer/ZY/EBook,/Users/xuchu1/Developer/ZY/Inventory_HF" />
+    <option name="ignoredRepos" value="$USER_HOME$/Developer/AA/luna,/Users/xuchu1/Developer/Examples/sunflower,/Users/xuchu1/Developer/ZY/SelfCheck,/Users/xuchu1/Developer/AA/ComposePlayground,/Users/xuchu1/Developer/AA/MaterialPlayground,/Users/xuchu1/Developer/ZY/FaceRegister,/Users/xuchu1/Developer/ZY/EBook,/Users/xuchu1/Developer/ZY/Inventory_HF,/Users/xuchu1/Developer/ZY/LibraryDroid" />
     <option name="trackedRepos" value="$USER_HOME$/Developer/AA/ecosystem-android" />
   </component>
 </application>

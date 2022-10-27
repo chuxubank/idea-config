@@ -7,12 +7,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:okhttp.OkHttpClient " />
+    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection " />
-        <option value="package:mine" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState tag:LockConnection  " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel  " />
         <option value="package:mine BackgroundSyncTask" />

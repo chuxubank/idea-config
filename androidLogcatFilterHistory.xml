@@ -9,9 +9,11 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine waiting" />
+        <option value="package:mine GNP" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState tag:EuropaFirmwareUpdateTask " />
-        <option value="package:mine" />
         <option value="package:mine yalest" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection " />
@@ -27,8 +29,6 @@
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingsActivityV2 tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingsActivityV2 tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel    " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingsActivityV2   " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection tag:LockSettingsActivityV2   " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection  " />
       </list>
     </option>
   </component>

@@ -2,15 +2,17 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState  " />
+        <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection " />
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState" />
+        <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState tag:EuropaFirmwareUpdateTask " />
         <option value="package:mine" />
+        <option value="package:mine yalest" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState tag:LockConnection  " />
@@ -27,9 +29,6 @@
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingsActivityV2   " />
         <option value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection tag:LockSettingsActivityV2   " />
         <option value="package:mine tag:LockFirmwareUpdateHelper | clear | resume | tag:LockConnection  " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper | Clear | tag:LockConnection " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper | Clear | tag:ManagedLockConnection " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper" />
       </list>
     </option>
   </component>

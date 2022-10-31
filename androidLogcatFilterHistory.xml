@@ -11,8 +11,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:ScanQR tag:CameraSourceOverlayAdapter" />
-        <option value="package:mine tag:ScanQR " />
         <option value="package:mine tag:ScanQR" />
+        <option value="package:mine -tag:GRALLOC -tag:CameraSourceOverlayAdapter " />
+        <option value="package:mine tag:ScanQR " />
         <option value="package:mine" />
         <option value="package:mine waiting" />
         <option value="package:mine GNP" />
@@ -29,7 +30,6 @@
         <option value="package:mine " />
         <option value="package:mine Uploading firmware" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel tag:EuropaFirmwareUpdateTask   " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingsActivityV2 tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState tag:LockFirmwareUpdateActivity " />
       </list>
     </option>
   </component>

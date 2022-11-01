@@ -7,14 +7,15 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:ScanQR tag:CameraSourceOverlayAdapter" />
+    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState  " />
+        <option value="package:mine" />
         <option value="package:mine tag:ScanQR tag:CameraSourceOverlayAdapter" />
         <option value="package:mine tag:ScanQR" />
         <option value="package:mine -tag:GRALLOC -tag:CameraSourceOverlayAdapter " />
         <option value="package:mine tag:ScanQR " />
-        <option value="package:mine" />
         <option value="package:mine waiting" />
         <option value="package:mine GNP" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState" />
@@ -29,7 +30,6 @@
         <option value="tag:EuropaFirmwareUpdateTask " />
         <option value="package:mine " />
         <option value="package:mine Uploading firmware" />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel tag:EuropaFirmwareUpdateTask   " />
       </list>
     </option>
   </component>

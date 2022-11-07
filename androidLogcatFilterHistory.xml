@@ -7,10 +7,16 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine Background" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Background" />
         <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:mine setEna" />
+        <option value="package:mine tag:" />
+        <option value="package:mine BackgroundSyncTask is " />
+        <option value="package:mine BackgroundSyncTask is" />
         <option value="package:mine tag:ScanQR tag:CameraXOverlayAdapter tag:CameraOrientationUtil tag:Barcode" />
         <option value="package:mine tag:ScanQR tag:CameraXOverlayAdapter tag:CameraOrientationUtil" />
         <option value="package:mine tag:CameraOrientationUtil " />
@@ -24,11 +30,6 @@
         <option value="package:mine tag:ScanQR " />
         <option value="package:mine waiting" />
         <option value="package:mine GNP" />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState" />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState tag:EuropaFirmwareUpdateTask " />
-        <option value="package:mine yalest" />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:okhttp.OkHttpClient " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection " />
       </list>
     </option>
   </component>

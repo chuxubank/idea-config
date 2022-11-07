@@ -10,6 +10,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:mine " />
         <option value="package:mine tag:ScanQR tag:CameraXOverlayAdapter tag:CameraOrientationUtil tag:Barcode" />
         <option value="package:mine tag:ScanQR tag:CameraXOverlayAdapter tag:CameraOrientationUtil" />
         <option value="package:mine tag:CameraOrientationUtil " />
@@ -28,7 +29,6 @@
         <option value="package:mine yalest" />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState tag:LockConnection  " />
       </list>
     </option>
   </component>

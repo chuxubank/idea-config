@@ -11,8 +11,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:mine Background" />
+        <option value="package:mine -tag:PreviewView " />
         <option value="package:mine" />
+        <option value="package:mine Background" />
         <option value="package:mine setEna" />
         <option value="package:mine tag:" />
         <option value="package:mine BackgroundSyncTask is " />
@@ -29,7 +30,6 @@
         <option value="package:mine -tag:GRALLOC -tag:CameraSourceOverlayAdapter " />
         <option value="package:mine tag:ScanQR " />
         <option value="package:mine waiting" />
-        <option value="package:mine GNP" />
       </list>
     </option>
   </component>

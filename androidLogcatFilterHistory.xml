@@ -7,9 +7,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine ImageAnalysis" />
+    <option name="mostRecentlyUsed" value="package:mine tag:ScanQRCodeFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ScanQRCodeFragment " />
         <option value="package:mine ImageAnalysis" />
         <option value="package:mine " />
         <option value="package:mine -tag:PreviewView " />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:ScanQR tag:CameraSourceOverlayAdapter" />
         <option value="package:mine tag:ScanQR" />
         <option value="package:mine -tag:GRALLOC -tag:CameraSourceOverlayAdapter " />
-        <option value="package:mine tag:ScanQR " />
       </list>
     </option>
   </component>

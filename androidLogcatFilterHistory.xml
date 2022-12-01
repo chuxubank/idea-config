@@ -7,8 +7,14 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:HtmlUrlCreator " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HtmlUrlCreator " />
+        <option value="package:mine getBrand" />
+        <option value="package:mine tag:" />
+        <option value="package:mine tag:Html" />
+        <option value="package:mine tag:HtmlUrlCreator" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine tag:LockFirmwareUpdateHelper " />
@@ -19,16 +25,11 @@
         <option value="package:mine -tag:PreviewView " />
         <option value="package:mine Background" />
         <option value="package:mine setEna" />
-        <option value="package:mine tag:" />
         <option value="package:mine BackgroundSyncTask is " />
         <option value="package:mine BackgroundSyncTask is" />
         <option value="package:mine tag:ScanQR tag:CameraXOverlayAdapter tag:CameraOrientationUtil tag:Barcode" />
         <option value="package:mine tag:ScanQR tag:CameraXOverlayAdapter tag:CameraOrientationUtil" />
         <option value="package:mine tag:CameraOrientationUtil " />
-        <option value="package:mine tag:ScanQR tag:CameraXOverlayAdapter " />
-        <option value="package:mine productid" />
-        <option value="package:mine Error setting progress" />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:LockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState  " />
       </list>
     </option>
   </component>

@@ -1,4 +1,10 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="ActivateNotificationsToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt n" />
+  </action>
+  <action id="ActivatescrcpyToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift ctrl o" />
   </action>

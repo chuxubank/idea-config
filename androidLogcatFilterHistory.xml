@@ -7,9 +7,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Luna " />
         <option value="package:mine" />
         <option value="package:mine tag:EmptyHouseListViewModel" />
         <option value="package:mine " />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:ScanQRCodeFragment" />
         <option value="package:mine ImageAnalysis" />
         <option value="package:mine -tag:PreviewView " />
-        <option value="package:mine Background" />
       </list>
     </option>
   </component>

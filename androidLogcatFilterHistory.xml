@@ -7,15 +7,17 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine tag:EmptyHouseListViewModel" />
         <option value="package:mine " />
         <option value="package:mine tag:EmptyHouseListViewModel " />
         <option value="package:mine tag:EmptyHouse" />
         <option value="package:mine tag:BIMethod" />
         <option value="package:mine tag:com.august.ble2.AugustBluetoothAgent " />
         <option value="package:mine tag:" />
-        <option value="package:mine" />
         <option value="package:mine tag:LockFragment " />
         <option value="package:mine tag:HtmlUrlCreator " />
         <option value="package:mine getBrand" />
@@ -28,7 +30,6 @@
         <option value="package:mine ImageAnalysis" />
         <option value="package:mine -tag:PreviewView " />
         <option value="package:mine Background" />
-        <option value="package:mine setEna" />
       </list>
     </option>
   </component>

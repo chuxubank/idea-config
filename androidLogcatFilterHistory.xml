@@ -7,12 +7,13 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:EmptyHouseListViewModel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:EmptyHouseListViewModel " />
         <option value="package:mine " />
         <option value="package:mine Keychain asked for a database sync" />
         <option value="package:mine" />
-        <option value="package:mine tag:EmptyHouseListViewModel " />
         <option value="package:mine tag:Luna" />
         <option value="package:mine tag:Luna Initializing" />
         <option value="package:mine tag:Luna " />

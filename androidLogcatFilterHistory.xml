@@ -11,8 +11,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:EmptyHouseListViewModel tag:OkHttp " />
-        <option value="package:mine tag:EmptyHouseListViewModel " />
         <option value="package:mine " />
+        <option value="package:mine tag:EmptyHouseListViewModel " />
         <option value="package:mine Keychain asked for a database sync" />
         <option value="package:mine" />
         <option value="package:mine tag:Luna" />

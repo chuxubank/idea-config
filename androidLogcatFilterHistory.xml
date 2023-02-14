@@ -7,9 +7,11 @@
         <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:okhttp.OkHttpClient " />
+    <option name="mostRecentlyUsed" value="package:mine -tag:okhttp.OkHttpClient tag:Executor" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:okhttp.OkHttpClient tag:Executor" />
+        <option value="package:mine -tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:OKHTTP " />
         <option value="package:mine " />
         <option value="package:mine tag:EmptyHouseListViewModel tag:OkHttp " />
@@ -28,8 +30,6 @@
         <option value="package:mine tag:HtmlUrlCreator " />
         <option value="package:mine getBrand" />
         <option value="package:mine tag:Html" />
-        <option value="package:mine tag:HtmlUrlCreator" />
-        <option value="package:mine tag:LockFirmwareUpdateHelper " />
       </list>
     </option>
   </component>

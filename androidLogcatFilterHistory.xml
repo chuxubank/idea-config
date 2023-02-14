@@ -3,17 +3,15 @@
     <option name="favorites">
       <list>
         <option value="package:mine tag:okhttp.OkHttpClient " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection tag:LockSettingViewModel tag:LockFirmwareUpdateViewModel -line:OTAUiState  " />
-        <option value="package:mine tag:LockFirmwareUpdateHelper tag:ManagedLockConnection " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:okhttp.OkHttpClient tag:Executor" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:okhttp.OkHttpClient tag:Executor" />
+        <option value="package:mine " />
         <option value="package:mine -tag:okhttp.OkHttpClient tag:Executor" />
         <option value="package:mine -tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:OKHTTP " />
-        <option value="package:mine " />
         <option value="package:mine tag:EmptyHouseListViewModel tag:OkHttp " />
         <option value="package:mine tag:EmptyHouseListViewModel " />
         <option value="package:mine Keychain asked for a database sync" />
@@ -29,7 +27,6 @@
         <option value="package:mine tag:LockFragment " />
         <option value="package:mine tag:HtmlUrlCreator " />
         <option value="package:mine getBrand" />
-        <option value="package:mine tag:Html" />
       </list>
     </option>
   </component>

@@ -7,8 +7,8 @@
     </option>
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:okhttp.OkHttpClient tag:Executor" />
         <option value="package:mine " />
+        <option value="package:mine tag:okhttp.OkHttpClient tag:Executor" />
         <option value="package:mine -tag:okhttp.OkHttpClient tag:Executor" />
         <option value="package:mine -tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:OKHTTP " />

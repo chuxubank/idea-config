@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'RobotDroid'" />
-    <option name="defaultScopeName" value="Project 'RobotDroid'" />
-    <option name="SEARCH_SCOPE" value="Project 'RobotDroid'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>

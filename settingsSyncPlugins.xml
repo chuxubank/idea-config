@@ -72,6 +72,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.smartbear.swaggerhub.intellij.plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="io.tempo.jetbrains-time-tracking">
           <value>
             <PluginData>

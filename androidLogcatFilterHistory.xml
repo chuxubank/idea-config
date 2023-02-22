@@ -5,9 +5,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine claims" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine claims" />
         <option value="package:mine " />
+        <option value="package:mine rawJson" />
         <option value="package:mine tag:okhttp.OkHttpClient tag:Executor" />
         <option value="package:mine -tag:okhttp.OkHttpClient tag:Executor" />
         <option value="package:mine -tag:okhttp.OkHttpClient " />
@@ -25,8 +28,6 @@
         <option value="package:mine tag:com.august.ble2.AugustBluetoothAgent " />
         <option value="package:mine tag:" />
         <option value="package:mine tag:LockFragment " />
-        <option value="package:mine tag:HtmlUrlCreator " />
-        <option value="package:mine getBrand" />
       </list>
     </option>
   </component>

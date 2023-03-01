@@ -2,13 +2,13 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine -tag:okhttp.OkHttpClient -tag:com.august.ble2" />
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
     <option name="mostRecentlyUsed" value="package:mine -tag:okhttp.OkHttpClient -tag:com.august.ble2" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:okhttp.OkHttpClient -tag:com.august.ble2" />
         <option value="package:mine -tag:okhttp.OkHttpClient -tag:AugustBluetooth" />
         <option value="package:mine -tag:okhttp.OkHttpClient " />
         <option value="package:mine" />

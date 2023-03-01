@@ -5,16 +5,18 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:okhttp.OkHttpClient -tag:com.august.ble2" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:okhttp.OkHttpClient -tag:com.august.ble2" />
+        <option value="package:mine -tag:okhttp.OkHttpClient -tag:AugustBluetooth" />
+        <option value="package:mine -tag:okhttp.OkHttpClient " />
         <option value="package:mine" />
         <option value="package:mine claims" />
         <option value="package:mine " />
         <option value="package:mine rawJson" />
         <option value="package:mine tag:okhttp.OkHttpClient tag:Executor" />
         <option value="package:mine -tag:okhttp.OkHttpClient tag:Executor" />
-        <option value="package:mine -tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:OKHTTP " />
         <option value="package:mine tag:EmptyHouseListViewModel tag:OkHttp " />
         <option value="package:mine tag:EmptyHouseListViewModel " />
@@ -26,8 +28,6 @@
         <option value="package:mine tag:EmptyHouse" />
         <option value="package:mine tag:BIMethod" />
         <option value="package:mine tag:com.august.ble2.AugustBluetoothAgent " />
-        <option value="package:mine tag:" />
-        <option value="package:mine tag:LockFragment " />
       </list>
     </option>
   </component>

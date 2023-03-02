@@ -7,7 +7,7 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:CoreExecutor -tag:okhttp.OkHttpClient tag:AccessSaveManager " />
+    <option name="mostRecentlyUsed" value="package:mine tag:CoreExecutor tag:okhttp.OkHttpClient tag:AccessSaveManager " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:CoreExecutor tag:okhttp.OkHttpClient tag:AccessSaveManager " />

@@ -10,6 +10,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:CoreExecutor -tag:okhttp.OkHttpClient tag:AccessSaveManager " />
+        <option value="package:mine tag:CoreExecutor tag:okhttp.OkHttpClient tag:AccessSaveManager " />
         <option value="package:mine tag:CoreExecutor tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:CoreExecutor " />
         <option value="package:mine -tag:okhttp.OkHttpClient -tag:AugustBluetooth" />
@@ -28,7 +29,6 @@
         <option value="package:mine tag:Luna Initializing" />
         <option value="package:mine tag:Luna " />
         <option value="package:mine tag:EmptyHouseListViewModel" />
-        <option value="package:mine tag:EmptyHouse" />
       </list>
     </option>
   </component>

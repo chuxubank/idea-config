@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine tag:CoreExecutor -tag:okhttp.OkHttpClient tag:AccessSaveManager " />
         <option value="package:mine -tag:okhttp.OkHttpClient -tag:com.august.ble2" />
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
@@ -9,7 +10,6 @@
     <option name="mostRecentlyUsed" value="package:mine tag:CoreExecutor -tag:okhttp.OkHttpClient tag:AccessSaveManager " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:CoreExecutor -tag:okhttp.OkHttpClient tag:AccessSaveManager " />
         <option value="package:mine tag:CoreExecutor tag:okhttp.OkHttpClient tag:AccessSaveManager " />
         <option value="package:mine tag:CoreExecutor tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:CoreExecutor " />

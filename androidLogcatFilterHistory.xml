@@ -7,16 +7,16 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:com.august.luna.lockmanager.SeamlessController " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:com.august.luna.lockmanager.SeamlessController " />
         <option value="package:mine tag:CoreExecutor tag:okhttp.OkHttpClient tag:AccessSaveManager " />
         <option value="package:mine tag:CoreExecutor tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:CoreExecutor " />
         <option value="package:mine -tag:okhttp.OkHttpClient -tag:AugustBluetooth" />
         <option value="package:mine -tag:okhttp.OkHttpClient " />
-        <option value="package:mine" />
         <option value="package:mine claims" />
         <option value="package:mine " />
         <option value="package:mine rawJson" />

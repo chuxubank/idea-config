@@ -8,9 +8,15 @@
   <action id="ActivatescrcpyToolWindow">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
+  <action id="Gradle.ExecuteTask">
+    <keyboard-shortcut first-keystroke="shift alt semicolon" />
+  </action>
   <action id="Logcat.ToggleViewFormat" />
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="shift ctrl o" />
+  </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />

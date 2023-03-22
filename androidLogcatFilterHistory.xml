@@ -7,9 +7,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:PolicyWebviewActivity " />
+    <option name="mostRecentlyUsed" value="package:mine getBrandedUri" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine getBrandedUri" />
+        <option value="package:mine get" />
         <option value="package:mine tag:PolicyWebviewActivity " />
         <option value="package:mine tag:BIMethod Connection" />
         <option value="package:mine tag:BIMethod " />
@@ -28,8 +30,6 @@
         <option value="package:mine tag:okhttp.OkHttpClient tag:Executor" />
         <option value="package:mine -tag:okhttp.OkHttpClient tag:Executor" />
         <option value="package:mine tag:OKHTTP " />
-        <option value="package:mine tag:EmptyHouseListViewModel tag:OkHttp " />
-        <option value="package:mine tag:EmptyHouseListViewModel " />
       </list>
     </option>
   </component>

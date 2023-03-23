@@ -7,9 +7,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine MiPush" />
+    <option name="mostRecentlyUsed" value="package:mine 84e6b231-e55c-49fd-a4af-60555e3d3274" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 84e6b231-e55c-49fd-a4af-60555e3d3274" />
         <option value="package:mine MiPush" />
         <option value="package:mine AppFeaturesModel" />
         <option value="package:mine" />
@@ -29,7 +30,6 @@
         <option value="package:mine claims" />
         <option value="package:mine " />
         <option value="package:mine rawJson" />
-        <option value="package:mine tag:okhttp.OkHttpClient tag:Executor" />
       </list>
     </option>
   </component>

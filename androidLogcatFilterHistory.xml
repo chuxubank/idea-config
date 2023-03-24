@@ -7,14 +7,14 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine OPush" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine OPush" />
         <option value="package:mine 84e6b231-e55c-49fd-a4af-60555e3d3274" />
         <option value="package:mine MiPush" />
         <option value="package:mine AppFeaturesModel" />
-        <option value="package:mine" />
         <option value="package:mine getBrandedUri" />
         <option value="package:mine get" />
         <option value="package:mine tag:PolicyWebviewActivity " />

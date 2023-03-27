@@ -23,6 +23,17 @@
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R5CT52G2AHZ" />
+          </Key>
+        </key>
+        <name value="samsung SM-S9010" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>

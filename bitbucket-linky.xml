@@ -9,4 +9,12 @@
     <lookup />
   </component>
   <component name="Instance" id="664f7bb4-5b1f-4c00-b7d9-e1595da3fd8b" version="2022.1.224" />
+  <component name="UsageLog">
+    <event name="OpenCommit" place="Vcs.Log.ContextMenu" timestamp="2023-04-11T02:57:38.364950Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="FindRelatedPullRequests" place="Vcs.Log.ContextMenu" timestamp="2023-04-11T02:57:49.913105Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+  </component>
 </application>

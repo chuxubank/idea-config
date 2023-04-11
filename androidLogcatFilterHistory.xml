@@ -7,8 +7,13 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:UserHandbookViewModel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:UserHandbookViewModel " />
+        <option value="package:mine tag:UserHandbookViewModel" />
+        <option value="package:mine tag:" />
+        <option value="package:mine tag:UserHand" />
         <option value="package:mine " />
         <option value="package:mine tag:SecuritySettingsViewModel tag:AuthenticateWithBiometricUseCase" />
         <option value="package:mine tag:SecuritySettingsViewModel" />
@@ -25,10 +30,6 @@
         <option value="package:mine tag:BIMethod Connection" />
         <option value="package:mine tag:BIMethod " />
         <option value="package:mine tag:LockAccessScheduleViewModel tag:LockAccessLevelViewModel" />
-        <option value="package:mine tag:LockAccessScheduleViewModel tag:" />
-        <option value="package:mine tag:com.august.luna.lockmanager.SeamlessController " />
-        <option value="package:mine tag:CoreExecutor tag:okhttp.OkHttpClient tag:AccessSaveManager " />
-        <option value="package:mine tag:CoreExecutor tag:okhttp.OkHttpClient " />
       </list>
     </option>
   </component>

@@ -7,9 +7,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:SecuritySettingsViewModel tag:AuthenticateWithBiometricUseCase " />
+    <option name="mostRecentlyUsed" value="package:mine tag:AuthenticateWithBiometricUseCase " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:AuthenticateWithBiometricUseCase " />
         <option value="package:mine tag:SecuritySettingsViewModel tag:AuthenticateWithBiometricUseCase " />
         <option value="package:mine tag:SecuritySettingsViewModel " />
         <option value="package:mine" />
@@ -29,7 +30,6 @@
         <option value="package:mine get" />
         <option value="package:mine tag:PolicyWebviewActivity " />
         <option value="package:mine tag:BIMethod Connection" />
-        <option value="package:mine tag:BIMethod " />
       </list>
     </option>
   </component>

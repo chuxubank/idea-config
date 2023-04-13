@@ -7,9 +7,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:com.august.luna.lockmanager.SeamlessController tag:com.august.luna.lockmanager.LockFragment " />
+    <option name="mostRecentlyUsed" value="package:mine User attempted to operate lock in state" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine User attempted to operate lock in state" />
         <option value="package:mine tag:com.august.luna.lockmanager.SeamlessController tag:com.august.luna.lockmanager.LockFragment " />
         <option value="package:mine tag:com.august.luna.lockmanager.SeamlessController " />
         <option value="package:mine" />
@@ -29,7 +30,6 @@
         <option value="package:mine MiPush" />
         <option value="package:mine AppFeaturesModel" />
         <option value="package:mine getBrandedUri" />
-        <option value="package:mine get" />
       </list>
     </option>
   </component>

@@ -8,15 +8,15 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:com.august.luna.model.Lock tag:com.august.luna.lockmanager.SeamlessController tag:com.august.luna.lockmanager.LockFragment " />
+    <option name="mostRecentlyUsed" value="package:mine tag:AuthenticateWithBiometricUseCase " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:AuthenticateWithBiometricUseCase " />
         <option value="package:mine tag:com.august.luna.model.Lock tag:" />
         <option value="package:mine" />
         <option value="package:mine User attempted to operate lock in state" />
         <option value="package:mine tag:com.august.luna.lockmanager.SeamlessController tag:com.august.luna.lockmanager.LockFragment " />
         <option value="package:mine tag:com.august.luna.lockmanager.SeamlessController " />
-        <option value="package:mine tag:AuthenticateWithBiometricUseCase " />
         <option value="package:mine tag:SecuritySettingsViewModel tag:AuthenticateWithBiometricUseCase " />
         <option value="package:mine tag:SecuritySettingsViewModel " />
         <option value="package:mine tag:UserHandbookViewModel " />

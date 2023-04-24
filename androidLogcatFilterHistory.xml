@@ -8,9 +8,13 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:BIMethod" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:BIMethod" />
+        <option value="package:mine tag:BIMethod AddFP_TaponLockPageStayTime" />
+        <option value="package:mine AddFP_TaponLockPageStayTime" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:" />
         <option value="package:mine -tag:okhttp.OkHttpClient " />
@@ -25,12 +29,8 @@
         <option value="package:mine tag:UserHandbookViewModel " />
         <option value="package:mine tag:UserHandbookViewModel" />
         <option value="package:mine tag:UserHand" />
-        <option value="package:mine " />
         <option value="package:mine tag:SecuritySettingsViewModel tag:AuthenticateWithBiometricUseCase" />
         <option value="package:mine tag:SecuritySettingsViewModel" />
-        <option value="package:mine getBra" />
-        <option value="package:mine OPush" />
-        <option value="package:mine 84e6b231-e55c-49fd-a4af-60555e3d3274" />
       </list>
     </option>
   </component>

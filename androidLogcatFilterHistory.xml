@@ -8,11 +8,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:WebUrlViewModel " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine tag:WebUrlViewModel " />
+        <option value="package:mine" />
         <option value="package:mine tag:BIMethod" />
         <option value="package:mine tag:BIMethod AddFP_TaponLockPageStayTime" />
         <option value="package:mine AddFP_TaponLockPageStayTime" />

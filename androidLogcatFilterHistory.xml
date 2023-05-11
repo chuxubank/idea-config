@@ -8,12 +8,15 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine app feature" />
+    <option name="mostRecentlyUsed" value="package:mine MPS:hua" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MPS:hua" />
+        <option value="package:mine tag:MPS" />
+        <option value="package:mine tag:MPS:Hua" />
+        <option value="package:mine" />
         <option value="package:mine app feature" />
         <option value="package:mine " />
-        <option value="package:mine" />
         <option value="package:mine tag:WebUrlViewModel " />
         <option value="package:mine tag:BIMethod" />
         <option value="package:mine tag:BIMethod AddFP_TaponLockPageStayTime" />
@@ -28,9 +31,6 @@
         <option value="package:mine tag:com.august.luna.lockmanager.SeamlessController " />
         <option value="package:mine tag:SecuritySettingsViewModel tag:AuthenticateWithBiometricUseCase " />
         <option value="package:mine tag:SecuritySettingsViewModel " />
-        <option value="package:mine tag:UserHandbookViewModel " />
-        <option value="package:mine tag:UserHandbookViewModel" />
-        <option value="package:mine tag:UserHand" />
       </list>
     </option>
   </component>

@@ -16,5 +16,32 @@
     <event name="OpenPullRequest" place="unknown" timestamp="2023-06-12T08:59:55.068797Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="FindRelatedPullRequests" place="EditorAnnotationsAreaPopup" timestamp="2023-06-12T09:17:02.292360Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="OpenPullRequest" place="FileHistoryViewToolbar" timestamp="2023-06-12T09:17:11.859865Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="LinkToPullRequest" place="FileHistoryViewToolbar" timestamp="2023-06-12T09:17:14.104400Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="FindRelatedPullRequests" place="Vcs.Log.ContextMenu" timestamp="2023-06-12T09:23:19.242635Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="OpenPullRequest" place="FileHistoryViewToolbar" timestamp="2023-06-12T09:23:22.177274Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="LinkToPullRequest" place="FileHistoryViewToolbar" timestamp="2023-06-12T09:25:02.117467Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="OpenPullRequest" place="FileHistoryViewToolbar" timestamp="2023-06-12T09:25:06.748630Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="FindRelatedPullRequests" place="Vcs.Log.ContextMenu" timestamp="2023-06-12T09:31:37.583891Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="OpenPullRequest" place="FileHistoryViewToolbar" timestamp="2023-06-12T09:31:41.101501Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>

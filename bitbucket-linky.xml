@@ -10,7 +10,7 @@
   </component>
   <component name="Instance" id="664f7bb4-5b1f-4c00-b7d9-e1595da3fd8b" version="2022.1.240" />
   <component name="UsageLog">
-    <event name="FindRelatedPullRequests" place="Vcs.Log.ContextMenu" timestamp="2023-06-13T06:06:39.912709Z">
+    <event name="OpenPullRequest" place="FileHistoryViewToolbar" timestamp="2023-06-13T06:20:49.627932Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
   </component>

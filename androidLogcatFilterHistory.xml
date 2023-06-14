@@ -8,11 +8,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine auto" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine auto" />
         <option value="package:mine" />
+        <option value="package:mine auto" />
         <option value="package:mine tag:EntryCodeOperation tag:EntryCodeSequenceDriverV2" />
         <option value="package:mine tag:EntryCodeOperation tag:EntryCodeSequenceDriverV2 creating command pairs for" />
         <option value="package:mine tag:EntryCodeOperation tag:EntryCodeSequenceDriverV2 " />

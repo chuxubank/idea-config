@@ -8,15 +8,15 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LunaHelper" />
+    <option name="mostRecentlyUsed" value="package:mine tag:com.august.luna.promt.review.LunaHelper " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:LunaHelper" />
+        <option value="package:mine tag:com.august.luna.promt.review.LunaHelper " />
         <option value="package:mine" />
+        <option value="package:mine tag:LunaHelper" />
         <option value="package:mine " />
         <option value="package:mine AppF" />
         <option value="package:mine inApp" />
-        <option value="package:mine tag:com.august.luna.promt.review.LunaHelper " />
         <option value="package:mine ReviewInfo" />
         <option value="package:mine tag:com.august.luna.ui.setup.lock.unity.UnityModuleRegistrationViewModel " />
         <option value="package:mine auto" />

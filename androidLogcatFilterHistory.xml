@@ -8,12 +8,15 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:LunaHelper tag:com.august.luna.model.intermediary.AppFeaturesModel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LunaHelper tag:com.august.luna.model.intermediary.AppFeaturesModel " />
+        <option value="package:mine tag:LunaHelper tag:" />
+        <option value="package:mine tag:LunaHelper" />
         <option value="package:mine " />
         <option value="package:mine tag:com.august.luna.promt.review.LunaHelper " />
         <option value="package:mine" />
-        <option value="package:mine tag:LunaHelper" />
         <option value="package:mine AppF" />
         <option value="package:mine inApp" />
         <option value="package:mine ReviewInfo" />
@@ -28,8 +31,6 @@
         <option value="package:mine MPS:hua" />
         <option value="package:mine tag:MPS" />
         <option value="package:mine tag:MPS:Hua" />
-        <option value="package:mine app feature" />
-        <option value="package:mine tag:WebUrlViewModel " />
       </list>
     </option>
   </component>

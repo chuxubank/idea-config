@@ -37,5 +37,20 @@
     <event name="OpenPullRequest" place="FileHistoryViewToolbar" timestamp="2023-07-25T09:04:35.180849Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="OpenFile" place="ChangesBrowser" timestamp="2023-07-25T10:11:50.094736Z">
+      <attribute name="editor">false</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="FindRelatedPullRequests" place="EditorAnnotationsAreaPopup" timestamp="2023-07-25T10:11:55.923438Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="OpenPullRequest" place="FileHistoryViewToolbar" timestamp="2023-07-25T10:12:00.456570Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="OpenPullRequest" place="FileHistoryViewToolbar" timestamp="2023-07-25T10:20:27.484468Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>

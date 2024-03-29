@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="AND-10639 [AND][One Factor User]The highlighted mark doesn’t disappear immediately on My Account ..." />
-    <option name="defaultScopeName" value="AND-10639 [AND][One Factor User]The highlighted mark doesn’t disappear immediately on My Account ..." />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="AND-10639 [AND][One Factor User]The highlighted mark doesn’t disappear immediately on My Account ..." />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.java</mask>
     <mask>!*.txt</mask>
     <mask>!*.xml</mask>

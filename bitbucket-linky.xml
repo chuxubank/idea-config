@@ -19,5 +19,11 @@
       <attribute name="multipleCarets">false</attribute>
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-03-29T04:55:19.881886Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-03-29T04:59:13.336129Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>

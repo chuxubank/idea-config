@@ -8,28 +8,5 @@
     <instances />
     <lookup />
   </component>
-  <component name="Instance" id="664f7bb4-5b1f-4c00-b7d9-e1595da3fd8b" version="2022.1.240" />
-  <component name="UsageLog">
-    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-03-27T06:15:01.374262Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="OpenFile" place="Vcs.FileHistory.ContextMenu" timestamp="2024-03-28T02:55:13.925372Z">
-      <attribute name="editor">false</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-03-29T04:55:19.881886Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-03-29T04:59:13.336129Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-04-02T08:57:04.656897Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-04-03T02:48:35.838794Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-  </component>
+  <component name="Instance" id="664f7bb4-5b1f-4c00-b7d9-e1595da3fd8b" version="2023.1.281" />
 </application>

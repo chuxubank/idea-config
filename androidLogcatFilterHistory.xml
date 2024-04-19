@@ -8,8 +8,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:com.aaecosystem.luna.ui.setup.reskin.SerialNumberCollectorNavigation " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:com.aaecosystem.luna.ui.setup.reskin.SerialNumberCollectorNavigation " />
+        <option value="package:mine tag:S" />
+        <option value="package:mine t" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine [Setup.step]" />
@@ -27,9 +31,6 @@
         <option value="package:mine tag:EntryCodeOperation tag:EntryCodeSequenceDriverV2" />
         <option value="package:mine tag:EntryCodeOperation tag:EntryCodeSequenceDriverV2 creating command pairs for" />
         <option value="package:mine tag:EntryCodeOperation tag:EntryCodeSequenceDriverV2 " />
-        <option value="package:mine tag:EntryCodeOperation" />
-        <option value="package:mine tag:com.august.luna.lockmanager.LockFragment " />
-        <option value="package:mine tag:BIMethod " />
       </list>
     </option>
   </component>

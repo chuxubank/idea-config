@@ -13,5 +13,11 @@
     <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-04-29T01:52:54.866720Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="FindRelatedPullRequests" place="Vcs.Log.ContextMenu" timestamp="2024-04-29T02:17:30.171445Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="OpenPullRequest" place="unknown" timestamp="2024-04-29T02:17:32.286257Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>

@@ -3,5 +3,6 @@
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>

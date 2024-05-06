@@ -1,0 +1,43 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="contextSharingMode" value="ALWAYS_SHARE" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1714985630960">private fun startExitDelayTimer(
+        exitTime: Long,
+        newArmState: ArmState,
+        isArmingAllAreas: Boolean,
+        armingAreaIds: List&lt;String&gt;,
+    ) {
+        exitDelayTimer?.cancel()
+        val now = System.currentTimeMillis()
+        val countDownTime = exitTime - now
+        createExitDelayTimer(countDownTime, newArmState, isArmingAllAreas, armingAreaIds)
+        exitDelayTimer?.start()
+    }
+
+    private fun createExitDelayTimer(
+        countDownTime: Long,
+        newArmState: ArmState,
+        isArmingAllAreas: Boolean,
+        armingAreaIds: List&lt;String&gt;,
+    ) {
+        exitDelayTimer = object : CountDownTimer(countDownTime, ONE_SECOND) {
+            override fun onTick(millisUntilFinished: Long) {
+                val armingAreaNames = getArmingAreaNames(isArmingAllAreas, armingAreaIds)
+                val exitDelayTimer =
+                    ExitDelayTimer(millisUntilFinished, newArmState, armingAreaNames)
+                updateExitDelayTimerFlow(exitDelayTimer)
+            }
+
+            override fun onFinish() {
+                updateExitDelayTimerFlow(getZeroExitDelayTimer(newArmState))
+            }
+        }
+    }</historyEntry>
+        <historyEntry timestamp="1714985599109">使用 flow 或者 suspend 方法替换选中的代码</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>

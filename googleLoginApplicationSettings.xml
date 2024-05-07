@@ -6,10 +6,10 @@
         <entry key="xu.chu@assaabloy.com">
           <value>
             <set>
-              <option value="Android Vitals" />
+              <option value="User Info" />
               <option value="Gemini" />
               <option value="Firebase" />
-              <option value="User Info" />
+              <option value="Android Vitals" />
             </set>
           </value>
         </entry>

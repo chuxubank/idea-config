@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="AND-10955 [Android]Still can go on the flow when the country code(SE) is not synced with the manu..." />
+    <option name="defaultScopeName" value="AND-10955 [Android]Still can go on the flow when the country code(SE) is not synced with the manu..." />
+    <option name="SEARCH_SCOPE" value="AND-10955 [Android]Still can go on the flow when the country code(SE) is not synced with the manu..." />
     <mask>*.java</mask>
     <mask>!*.txt</mask>
     <mask>!*.xml</mask>

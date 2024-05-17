@@ -8,12 +8,15 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:PermissionResultLauncher " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PermissionResultLauncher " />
+        <option value="package:mine tag:P" />
+        <option value="package:mine t" />
         <option value="package:mine " />
         <option value="package:mine tag:SyncOfflineKeyUseCase " />
         <option value="package:mine tag:S" />
-        <option value="package:mine t" />
         <option value="package:mine tag:com.aaecosystem.luna.ui.setup.reskin.SerialNumberCollectorNavigation " />
         <option value="package:mine" />
         <option value="package:mine [Setup.step]" />
@@ -28,8 +31,6 @@
         <option value="package:mine ReviewInfo" />
         <option value="package:mine tag:com.august.luna.ui.setup.lock.unity.UnityModuleRegistrationViewModel " />
         <option value="package:mine auto" />
-        <option value="package:mine tag:EntryCodeOperation tag:EntryCodeSequenceDriverV2" />
-        <option value="package:mine tag:EntryCodeOperation tag:EntryCodeSequenceDriverV2 creating command pairs for" />
       </list>
     </option>
   </component>

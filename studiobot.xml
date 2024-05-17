@@ -4,6 +4,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1715914338466">Explain: FATAL EXCEPTION: main
+Process: com.assaabloy.yale, PID: 2801
+java.lang.SecurityException: Permission Denial: starting Intent { act=android.media.action.IMAGE_CAPTURE flg=0x3 cmp=com.google.android.GoogleCamera/com.android.camera.activity.CaptureActivity clip={text/uri-list hasLabel(0) {U(content)}} (has extras) } from ProcessRecord{a183c89 2801:com.assaabloy.yale/u0a446} (pid=2801, uid=10446) with revoked permission android.permission.CAMERA
+at android.os.Parcel.createExceptionOrNull(Parcel.java:3183)
+at android.os.Parcel.createException(Parcel.java:3167) with tag AndroidRuntime</historyEntry>
         <historyEntry timestamp="1714985630960">private fun startExitDelayTimer(
         exitTime: Long,
         newArmState: ArmState,

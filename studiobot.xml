@@ -4,6 +4,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1716817960889">KMQTTCenterDataSource 这个类中如何在初始化 flow 的时候就初始化 client ？</historyEntry>
         <historyEntry timestamp="1716211405472">Explain: 
 DefaultDispatcher-worker-1, com.xingzhi.robot.work.SeedDatabaseWorker$doWork$2.invokeSuspend(SeedDatabaseWorker.kt:89)
 android.system.ErrnoException: open failed: ENOENT (No such file or directory)

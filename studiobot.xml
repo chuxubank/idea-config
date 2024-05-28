@@ -2,58 +2,5 @@
   <component name="StudioBotSettings">
     <option name="contextSharingMode" value="ALWAYS_SHARE" />
     <option name="onboardedVersion" value="3" />
-    <option name="queryHistory">
-      <list>
-        <historyEntry timestamp="1716817960889">KMQTTCenterDataSource 这个类中如何在初始化 flow 的时候就初始化 client ？</historyEntry>
-        <historyEntry timestamp="1716211405472">Explain: 
-DefaultDispatcher-worker-1, com.xingzhi.robot.work.SeedDatabaseWorker$doWork$2.invokeSuspend(SeedDatabaseWorker.kt:89)
-android.system.ErrnoException: open failed: ENOENT (No such file or directory)
-at libcore.io.Linux.open(Native Method)
-at libcore.io.ForwardingOs.open(ForwardingOs.java:563) with tag SeedDatabaseWorker</historyEntry>
-        <historyEntry timestamp="1716211367210">Explain: FATAL EXCEPTION: main
-Process: com.xingzhi.robot, PID: 18388
-java.lang.IllegalStateException: Vertically scrollable component was measured with an infinity maximum height constraints, which is disallowed. One of the common reasons is nesting layouts like LazyColumn and Column(Modifier.verticalScroll()). If you want to add a header before the list of items please add a header as a separate item() before the main items() inside the LazyColumn scope. There are could be other reasons for this to happen: your ComposeView was added into a LinearLayout with some weight, you applied Modifier.wrapContentSize(unbounded = true) or wrote a custom layout. Please try to remove the source of infinite constraints in the hierarchy above the scrolling container.
-at androidx.compose.foundation.CheckScrollableContainerConstraintsKt.checkScrollableContainerConstraints-K40F9xA(CheckScrollableContainerConstraints.kt:35)
-at androidx.compose.foundation.lazy.LazyListKt$rememberLazyListMeasurePolicy$1$1.invoke-0kLqBqw(LazyList.kt:181) with tag AndroidRuntime</historyEntry>
-        <historyEntry timestamp="1715914338466">Explain: FATAL EXCEPTION: main
-Process: com.assaabloy.yale, PID: 2801
-java.lang.SecurityException: Permission Denial: starting Intent { act=android.media.action.IMAGE_CAPTURE flg=0x3 cmp=com.google.android.GoogleCamera/com.android.camera.activity.CaptureActivity clip={text/uri-list hasLabel(0) {U(content)}} (has extras) } from ProcessRecord{a183c89 2801:com.assaabloy.yale/u0a446} (pid=2801, uid=10446) with revoked permission android.permission.CAMERA
-at android.os.Parcel.createExceptionOrNull(Parcel.java:3183)
-at android.os.Parcel.createException(Parcel.java:3167) with tag AndroidRuntime</historyEntry>
-        <historyEntry timestamp="1714985630960">private fun startExitDelayTimer(
-        exitTime: Long,
-        newArmState: ArmState,
-        isArmingAllAreas: Boolean,
-        armingAreaIds: List&lt;String&gt;,
-    ) {
-        exitDelayTimer?.cancel()
-        val now = System.currentTimeMillis()
-        val countDownTime = exitTime - now
-        createExitDelayTimer(countDownTime, newArmState, isArmingAllAreas, armingAreaIds)
-        exitDelayTimer?.start()
-    }
-
-    private fun createExitDelayTimer(
-        countDownTime: Long,
-        newArmState: ArmState,
-        isArmingAllAreas: Boolean,
-        armingAreaIds: List&lt;String&gt;,
-    ) {
-        exitDelayTimer = object : CountDownTimer(countDownTime, ONE_SECOND) {
-            override fun onTick(millisUntilFinished: Long) {
-                val armingAreaNames = getArmingAreaNames(isArmingAllAreas, armingAreaIds)
-                val exitDelayTimer =
-                    ExitDelayTimer(millisUntilFinished, newArmState, armingAreaNames)
-                updateExitDelayTimerFlow(exitDelayTimer)
-            }
-
-            override fun onFinish() {
-                updateExitDelayTimerFlow(getZeroExitDelayTimer(newArmState))
-            }
-        }
-    }</historyEntry>
-        <historyEntry timestamp="1714985599109">使用 flow 或者 suspend 方法替换选中的代码</historyEntry>
-      </list>
-    </option>
   </component>
 </application>

@@ -4,6 +4,15 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1717490618004">Explain: FATAL EXCEPTION: main
+Process: com.august.gateman, PID: 8595
+java.lang.RuntimeException: Unable to create application com.aaecosystem.luna.Luna: java.lang.NullPointerException: Attempt to invoke interface method 'void com.aaecosystem.luna.crashlytics.CrashlyticsHelper.setEnable(boolean)' on a null object reference
+at android.app.ActivityThread.handleBindApplication(ActivityThread.java:7312)
+at android.app.ActivityThread.-$$Nest$mhandleBindApplication(Unknown Source:0) with tag AndroidRuntime</historyEntry>
+        <historyEntry timestamp="1717488899746">I'm using dagger, and I'm injecting to a companion object</historyEntry>
+        <historyEntry timestamp="1717488865840">How to replace FirebaseCrashlytics.getInstance().recordException(exception) with DI injected CrashlyticsHelper?</historyEntry>
+        <historyEntry timestamp="1717485868917">Java class use DI</historyEntry>
+        <historyEntry timestamp="1717463296069">Make attributes: Map&lt;String, Any?&gt;? to a bundle</historyEntry>
         <historyEntry timestamp="1717049646219">AndroidApplicationGoogleServiceConventionPlugin to apply plugin according to flavor</historyEntry>
       </list>
     </option>

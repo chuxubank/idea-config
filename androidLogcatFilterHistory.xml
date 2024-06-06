@@ -8,9 +8,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.aaecosys.apac_leo" />
+        <option value="package:com.aaecosys.apac_leo tag:L" />
+        <option value="package:com.aaecosys.apac_leo t" />
         <option value="package:mine" />
         <option value="package:mine tag:PermissionResultLauncher " />
         <option value="package:mine tag:P" />
@@ -28,9 +31,6 @@
         <option value="package:mine tag:com.august.luna.promt.review.LunaHelper " />
         <option value="package:mine AppF" />
         <option value="package:mine inApp" />
-        <option value="package:mine ReviewInfo" />
-        <option value="package:mine tag:com.august.luna.ui.setup.lock.unity.UnityModuleRegistrationViewModel " />
-        <option value="package:mine auto" />
       </list>
     </option>
   </component>

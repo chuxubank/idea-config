@@ -9,4 +9,21 @@
     <lookup />
   </component>
   <component name="Instance" id="664f7bb4-5b1f-4c00-b7d9-e1595da3fd8b" version="2023.1.282" />
+  <component name="UsageLog">
+    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-06-14T01:58:26.941557Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-06-14T01:58:43.805558Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-06-14T02:02:27.951025Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-06-14T02:07:19.641603Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-06-14T02:08:06.957875Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+  </component>
 </application>

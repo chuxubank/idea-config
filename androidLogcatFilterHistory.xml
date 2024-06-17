@@ -8,9 +8,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug tag:MQTT" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug" />
         <option value="package:mine level:debug tag:MQTT" />
         <option value="package:mine level:debug  tag:MQTT" />
         <option value="package:mine level:d tag:MQTT" />
@@ -30,7 +31,6 @@
         <option value="package:mine tag:V" />
         <option value="package:com.xingzhi.robot tag:DebugViewModel tag:VGuangRepository" />
         <option value="package:com.xingzhi.robot tag:DebugViewModel tag" />
-        <option value="package:com.xingzhi.robot tag:DebugViewModel tag:V" />
       </list>
     </option>
   </component>

@@ -1,9 +1,29 @@
 <application>
   <component name="StudioBotSettings">
-    <option name="contextSharingMode" value="ALWAYS_SHARE" />
+    <option name="contextSharingMode" value="AlwaysShare" />
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1719045017831">Explain: 
+main, com.xingzhi.robot.ui.license.LicenseViewModel$checkLicense$3.invokeSuspend(LicenseViewModel.kt:74)
+java.io.IOException: Stream Closed
+at java.io.FileInputStream.read(FileInputStream.java:321)
+at java.io.BufferedInputStream.fill(BufferedInputStream.java:239) with tag LicenseViewModel</historyEntry>
+        <historyEntry timestamp="1719025184420">Explain: 
+main, com.xingzhi.robot.usecase.CheckLicenseUseCase.verifySignature-0E7RQCE(CheckLicenseUseCase.kt:49)
+java.security.NoSuchAlgorithmException: Ed25519 KeyFactory not available
+at java.security.KeyFactory.&lt;init&gt;(KeyFactory.java:161)
+at java.security.KeyFactory.getInstance(KeyFactory.java:195) with tag CheckLicenseUseCase</historyEntry>
+        <historyEntry timestamp="1719025071194">Explain: 
+main, com.xingzhi.robot.usecase.CheckLicenseUseCase.verifySignature-0E7RQCE(CheckLicenseUseCase.kt:46)
+java.security.NoSuchAlgorithmException: Ed25519 KeyFactory not available
+at java.security.KeyFactory.&lt;init&gt;(KeyFactory.java:161)
+at java.security.KeyFactory.getInstance(KeyFactory.java:195) with tag CheckLicenseUseCase</historyEntry>
+        <historyEntry timestamp="1719025049280">Explain: 
+l.resumeWith(ContinuationImpl.kt:33)
+at kotlinx.coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:231)
+at kotlinx.coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:187)
+at kotlinx.coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:159) with tag CheckLicenseUseCase</historyEntry>
         <historyEntry timestamp="1718374901217">Explain this log entry: DefaultDispatcher-worker-3, com.xingzhi.robot.data.transport.mqtt.HMQTTCenterDataSource$mqttFlow$2.invokeSuspend(HMQTTCenterDataSource.kt:60)
 Received message: MqttPublish{topic=mqtt-io/status, payload=7byte, qos=AT_LEAST_ONCE, retain=false} with tag HMQTTCenterDataSource</historyEntry>
       </list>

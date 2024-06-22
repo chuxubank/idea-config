@@ -8,29 +8,29 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:debug" />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:debug" />
-        <option value="package:mine level:debug tag:MQTT" />
-        <option value="package:mine level:debug  tag:MQTT" />
-        <option value="package:mine level:d tag:MQTT" />
-        <option value="package:mine level:verbose tag:MQTT" />
-        <option value="package:mine level:verbose tag:M" />
-        <option value="package:mine level:verbose t" />
-        <option value="package:mine level:verbose " />
-        <option value="package:mine level:v" />
-        <option value="package:mine level:debug " />
-        <option value="package:mine l" />
+        <option value="package:com.xingzhi.robot" />
+        <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase " />
+        <option value="package:com.xingzhi.robot tag:C" />
+        <option value="package:com.xingzhi.robot t" />
+        <option value="package:com.xingzhi.robot " />
+        <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase tag:LicenseViewModel " />
+        <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase tag:L" />
+        <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase t" />
+        <option value="package:mine tag:LocalFileHelper " />
         <option value="package:mine tag:L" />
         <option value="package:mine t" />
-        <option value="package:mine level:debug tag:V" />
-        <option value="package:mine level:debug t" />
-        <option value="package:mine level:d" />
-        <option value="package:mine " />
-        <option value="package:mine tag:V" />
-        <option value="package:com.xingzhi.robot tag:DebugViewModel tag:VGuangRepository" />
-        <option value="package:com.xingzhi.robot tag:DebugViewModel tag" />
+        <option value="package:com.xingzhi.robot tag:RobotDroidApplication " />
+        <option value="package:com.xingzhi.robot tag:R" />
+        <option value="package:com.xingzhi.robot tag:ConfigRepository   " />
+        <option value="package:com.xingzhi.robot tag:C  " />
+        <option value="package:com.xingzhi.robot tag:LocalFileHelper  " />
+        <option value="package:com.xingzhi.robot tag:L " />
+        <option value="package:com.xingzhi.robot tag:ConfigRepository " />
+        <option value="package:com.xingzhi.robot tag:LocalFileHelper " />
+        <option value="package:com.xingzhi.robot tag:L" />
       </list>
     </option>
   </component>

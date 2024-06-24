@@ -8,15 +8,15 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot" />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot " />
         <option value="package:com.xingzhi.robot" />
         <option value="package:com.xingzhi.robot tag:C" />
         <option value="package:com.xingzhi.robot t" />
         <option value="package:com.xingzhi.robot c" />
         <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase " />
-        <option value="package:com.xingzhi.robot " />
         <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase tag:LicenseViewModel " />
         <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase tag:L" />
         <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase t" />

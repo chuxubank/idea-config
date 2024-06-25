@@ -8,17 +8,19 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot" />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot " />
+        <option value="package:com.xingzhi.robot tag:TimeRepository " />
+        <option value="package:com.xingzhi.robot tag:T" />
+        <option value="package:com.xingzhi.robot t" />
         <option value="package:com.xingzhi.robot" />
         <option value="package:com.xingzhi.robot tag:L" />
-        <option value="package:com.xingzhi.robot t" />
         <option value="package:com.xingzhi.robot tag:U" />
         <option value="package:com.xingzhi.robot tag:C" />
         <option value="package:com.xingzhi.robot L" />
         <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase " />
-        <option value="package:com.xingzhi.robot " />
         <option value="package:com.xingzhi.robot tag:ConfigRepository " />
         <option value="package:com.xingzhi.robot Config" />
         <option value="package:com.xingzhi.robot c" />
@@ -29,8 +31,6 @@
         <option value="package:mine tag:L" />
         <option value="package:mine t" />
         <option value="package:com.xingzhi.robot tag:RobotDroidApplication " />
-        <option value="package:com.xingzhi.robot tag:R" />
-        <option value="package:com.xingzhi.robot tag:ConfigRepository   " />
       </list>
     </option>
   </component>

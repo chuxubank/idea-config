@@ -4,6 +4,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1719301395905">Explain: FATAL EXCEPTION: main
+Process: com.xingzhi.robot, PID: 23811
+java.lang.RuntimeException: StrictMode ThreadPolicy violation
+at android.os.StrictMode$AndroidBlockGuardPolicy.onThreadPolicyViolation(StrictMode.java:1878)
+at android.os.StrictMode$AndroidBlockGuardPolicy.lambda$handleViolationWithTimingAttempt$0(StrictMode.java:1792) with tag AndroidRuntime</historyEntry>
         <historyEntry timestamp="1719045017831">Explain: 
 main, com.xingzhi.robot.ui.license.LicenseViewModel$checkLicense$3.invokeSuspend(LicenseViewModel.kt:74)
 java.io.IOException: Stream Closed

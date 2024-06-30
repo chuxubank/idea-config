@@ -9,11 +9,14 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode" />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.xingzhi.robot -tag:StrictMode tag:T" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:RobotDroidAppState " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:R" />
         <option value="package:com.xingzhi.robot -tag:StrictMode t" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:T" />
         <option value="package:com.xingzhi.robot " />
         <option value="package:com.xingzhi.robot -tag:M" />
         <option value="package:com.xingzhi.robot -tag:R" />
@@ -29,9 +32,6 @@
         <option value="package:com.xingzhi.robot L" />
         <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase " />
         <option value="package:com.xingzhi.robot tag:ConfigRepository " />
-        <option value="package:com.xingzhi.robot Config" />
-        <option value="package:com.xingzhi.robot c" />
-        <option value="package:com.xingzhi.robot tag:CheckLicenseUseCase tag:LicenseViewModel " />
       </list>
     </option>
   </component>

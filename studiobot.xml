@@ -4,6 +4,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1719715179248">Explain: FATAL EXCEPTION: main
+Process: com.xingzhi.robot, PID: 11228
+java.lang.IllegalStateException: ViewModelStore should be set before setGraph call
+at androidx.navigation.NavController.setViewModelStore(NavController.kt:2378)
+at androidx.navigation.NavHostController.setViewModelStore(NavHostController.kt:101) with tag AndroidRuntime</historyEntry>
         <historyEntry timestamp="1719323716982">How to use it in Retrofit?</historyEntry>
         <historyEntry timestamp="1719323664190">Explain: StrictMode policy violation: android.os.strictmode.UntaggedSocketViolation: Untagged socket detected; use TrafficStats.setTrafficStatsTag() to track all network usage
 at android.os.StrictMode.onUntaggedSocket(StrictMode.java:2286)

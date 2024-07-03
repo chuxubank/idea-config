@@ -9,14 +9,14 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository " />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot -tag:StrictMode " />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository " />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:W" />
         <option value="package:com.xingzhi.robot -tag:StrictMode t" />
         <option value="package:com.xingzhi.robot" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode " />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:RobotDroidAppState " />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:R" />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:T" />

@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status" />
         <option value="package:com.xingzhi.robot -tag:StrictMode" />
         <option value="package:mine tag:com.august.luna.model.Lock tag:com.august.luna.lockmanager.SeamlessController tag:com.august.luna.lockmanager.LockFragment " />
         <option value="package:mine tag:CoreExecutor -tag:okhttp.OkHttpClient tag:AccessSaveManager " />
@@ -9,29 +10,29 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode " />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -message~:/status" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status level:debug" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status l" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -m" />
         <option value="package:com.xingzhi.robot -tag:StrictMode " />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository " />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:W" />
         <option value="package:com.xingzhi.robot -tag:StrictMode t" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository level:debug  " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository l " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository tag:MQTTDataSource " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository tag:MQ" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository tag:M" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository tag:D" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository t" />
         <option value="package:com.xingzhi.robot" />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:RobotDroidAppState " />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:R" />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:T" />
-        <option value="package:com.xingzhi.robot " />
-        <option value="package:com.xingzhi.robot -tag:M" />
-        <option value="package:com.xingzhi.robot -tag:R" />
-        <option value="package:com.xingzhi.robot -t" />
-        <option value="package:com.xingzhi.robot f" />
-        <option value="package:com.xingzhi.robot tag:L" />
-        <option value="package:com.xingzhi.robot t" />
-        <option value="package:com.xingzhi.robot tag:TimeRepository " />
-        <option value="package:com.xingzhi.robot tag:T" />
-        <option value="package:com.xingzhi.robot tag:U" />
-        <option value="package:com.xingzhi.robot tag:C" />
-        <option value="package:com.xingzhi.robot L" />
       </list>
     </option>
   </component>

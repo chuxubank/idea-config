@@ -1,0 +1,11 @@
+<application>
+  <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
+    <option name="adbPath" value="/usr/local/bin/adb" />
+    <option name="recordingFileExtension" value="mp4" />
+    <option name="recordingFileName" value="screen" />
+    <option name="recordingPath" value="$USER_HOME$/Downloads" />
+    <option name="scrcpyPath" value="/usr/local/bin" />
+    <option name="showTouches" value="true" />
+    <option name="stayAwake" value="true" />
+  </component>
+</application>

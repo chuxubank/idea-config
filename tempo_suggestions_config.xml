@@ -1,0 +1,6 @@
+<application>
+  <component name="TempoSuggestionsConfig">
+    <option name="ignoredRepos" value="$USER_HOME$/Developer/AA/Archive/luna,/Users/xuchu1/Developer/Examples/sunflower,/Users/xuchu1/Developer/ZY/SelfCheck,/Users/xuchu1/Developer/AA/ComposePlayground,/Users/xuchu1/Developer/AA/MaterialPlayground,/Users/xuchu1/Developer/ZY/FaceRegister,/Users/xuchu1/Developer/ZY/EBook,/Users/xuchu1/Developer/ZY/Inventory_HF,/Users/xuchu1/Developer/ZY/LibraryDroid,/Users/xuchu1/Developer/Examples/mlkit,/Users/xuchu1/Developer/Examples/compose-samples,/Users/xuchu1/Developer/ZY/RobotDroid/m3-pullrefresh,/Users/xuchu1/Developer/ZY/RobotDroid/m3-pullrefresh,/Users/xuchu1/Developer/XZ/RobotDroid" />
+    <option name="trackedRepos" value="$USER_HOME$/Developer/AA/luna,/Users/xuchu1/Developer/AA/ecosystem-android,/Users/xuchu1/Developer/AA/luwu" />
+  </component>
+</application>

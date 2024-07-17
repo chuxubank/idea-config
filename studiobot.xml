@@ -1,0 +1,59 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="contextSharingMode" value="AlwaysShare" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1720014478118">Explain: FATAL EXCEPTION: main
+Process: com.xingzhi.robot, PID: 6639
+java.lang.NullPointerException: Attempt to invoke interface method 'int java.lang.CharSequence.length()' on a null object reference
+at android.text.SpannableString.&lt;init&gt;(SpannableString.java:34)
+at android.text.SpannableString.&lt;init&gt;(SpannableString.java:43) with tag AndroidRuntime</historyEntry>
+        <historyEntry timestamp="1720014326982">Explain: at android.view.View.draw(View.java:24629)
+at android.view.View.updateDisplayListIfDirty(View.java:23492)
+at android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4560)
+at android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4533)
+at android.view.View.updateDisplayListIfDirty(View.java:23448) with tag AndroidRuntime</historyEntry>
+        <historyEntry timestamp="1719802501208">Smart cast to 'EventTriggerTimeUiState.Normal' is impossible, because 'uiState' is a property that has open or custom getter</historyEntry>
+        <historyEntry timestamp="1719715179248">Explain: FATAL EXCEPTION: main
+Process: com.xingzhi.robot, PID: 11228
+java.lang.IllegalStateException: ViewModelStore should be set before setGraph call
+at androidx.navigation.NavController.setViewModelStore(NavController.kt:2378)
+at androidx.navigation.NavHostController.setViewModelStore(NavHostController.kt:101) with tag AndroidRuntime</historyEntry>
+        <historyEntry timestamp="1719323716982">How to use it in Retrofit?</historyEntry>
+        <historyEntry timestamp="1719323664190">Explain: StrictMode policy violation: android.os.strictmode.UntaggedSocketViolation: Untagged socket detected; use TrafficStats.setTrafficStatsTag() to track all network usage
+at android.os.StrictMode.onUntaggedSocket(StrictMode.java:2286)
+at android.os.StrictMode.noteUntaggedSocket(StrictMode.java:2740)
+at android.net.TrafficStats$SocketTagger.tag(TrafficStats.java:255)
+at libcore.io.BlockGuardOs.tagSocket(BlockGuardOs.java:55) with tag StrictMode</historyEntry>
+        <historyEntry timestamp="1719301395905">Explain: FATAL EXCEPTION: main
+Process: com.xingzhi.robot, PID: 23811
+java.lang.RuntimeException: StrictMode ThreadPolicy violation
+at android.os.StrictMode$AndroidBlockGuardPolicy.onThreadPolicyViolation(StrictMode.java:1878)
+at android.os.StrictMode$AndroidBlockGuardPolicy.lambda$handleViolationWithTimingAttempt$0(StrictMode.java:1792) with tag AndroidRuntime</historyEntry>
+        <historyEntry timestamp="1719045017831">Explain: 
+main, com.xingzhi.robot.ui.license.LicenseViewModel$checkLicense$3.invokeSuspend(LicenseViewModel.kt:74)
+java.io.IOException: Stream Closed
+at java.io.FileInputStream.read(FileInputStream.java:321)
+at java.io.BufferedInputStream.fill(BufferedInputStream.java:239) with tag LicenseViewModel</historyEntry>
+        <historyEntry timestamp="1719025184420">Explain: 
+main, com.xingzhi.robot.usecase.CheckLicenseUseCase.verifySignature-0E7RQCE(CheckLicenseUseCase.kt:49)
+java.security.NoSuchAlgorithmException: Ed25519 KeyFactory not available
+at java.security.KeyFactory.&lt;init&gt;(KeyFactory.java:161)
+at java.security.KeyFactory.getInstance(KeyFactory.java:195) with tag CheckLicenseUseCase</historyEntry>
+        <historyEntry timestamp="1719025071194">Explain: 
+main, com.xingzhi.robot.usecase.CheckLicenseUseCase.verifySignature-0E7RQCE(CheckLicenseUseCase.kt:46)
+java.security.NoSuchAlgorithmException: Ed25519 KeyFactory not available
+at java.security.KeyFactory.&lt;init&gt;(KeyFactory.java:161)
+at java.security.KeyFactory.getInstance(KeyFactory.java:195) with tag CheckLicenseUseCase</historyEntry>
+        <historyEntry timestamp="1719025049280">Explain: 
+l.resumeWith(ContinuationImpl.kt:33)
+at kotlinx.coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:231)
+at kotlinx.coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:187)
+at kotlinx.coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:159) with tag CheckLicenseUseCase</historyEntry>
+        <historyEntry timestamp="1718374901217">Explain this log entry: DefaultDispatcher-worker-3, com.xingzhi.robot.data.transport.mqtt.HMQTTCenterDataSource$mqttFlow$2.invokeSuspend(HMQTTCenterDataSource.kt:60)
+Received message: MqttPublish{topic=mqtt-io/status, payload=7byte, qos=AT_LEAST_ONCE, retain=false} with tag HMQTTCenterDataSource</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>

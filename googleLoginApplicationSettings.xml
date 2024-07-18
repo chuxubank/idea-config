@@ -15,9 +15,9 @@
           <value>
             <set>
               <option value="Gemini" />
+              <option value="User Info" />
               <option value="Firebase" />
               <option value="Android Vitals" />
-              <option value="User Info" />
             </set>
           </value>
         </entry>

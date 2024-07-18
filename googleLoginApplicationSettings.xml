@@ -14,8 +14,8 @@
         <entry key="xu.chu@assaabloy.com">
           <value>
             <set>
-              <option value="Gemini" />
               <option value="User Info" />
+              <option value="Gemini" />
               <option value="Firebase" />
               <option value="Android Vitals" />
             </set>

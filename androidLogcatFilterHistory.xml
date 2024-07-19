@@ -13,6 +13,7 @@
     <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -message~:/status" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.aaecosys.apac_leo" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status " />
         <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status level:debug" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status l" />
@@ -32,7 +33,6 @@
         <option value="package:com.xingzhi.robot" />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:RobotDroidAppState " />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:R" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode tag:T" />
       </list>
     </option>
   </component>

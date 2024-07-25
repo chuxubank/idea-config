@@ -4,6 +4,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1721897830749">Explain: FATAL EXCEPTION: Thread-3
+Process: com.xingzhi.robot, PID: 22887
+pk.farimarwat.anrspy.agent.ANRSpyException: Method: nSyncAndDrawFrame is blocking main thread for at least 3500 ms
+at android.graphics.HardwareRenderer.nSyncAndDrawFrame(Native Method)
+at android.graphics.HardwareRenderer.syncAndDrawFrame(HardwareRenderer.java:425) with tag AndroidRuntime</historyEntry>
         <historyEntry timestamp="1721468127632">Explain: 
 DefaultDispatcher-worker-1, com.xingzhi.robot.data.library.sip.ACSRepository$checkStatus$2.invokeSuspend(ACSRepository.kt:82)
 java.lang.ClassNotFoundException: Didn't find class &quot;java.awt.Choice&quot; on path: DexPathList[[zip file &quot;/data/app/~~f9E_eJY1kb9ibfPG1furMg==/com.xingzhi.robot-6mXX3v9fP4wZd3VQKdkKjw==/base.apk&quot;],nativeLibraryDirectories=[/data/app/~~f9E_eJY1kb9ibfPG1furMg==/com.xingzhi.robot-6mXX3v9fP4wZd3VQKdkKjw==/lib/arm64, /data/app/~~f9E_eJY1kb9ibfPG1furMg==/com.xingzhi.robot-6mXX3v9fP4wZd3VQKdkKjw==/base.apk!/lib/arm64-v8a, /system/lib64, /system_ext/lib64]]

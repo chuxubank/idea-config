@@ -1,6 +1,31 @@
 <application>
   <component name="TempoSuggestionsConfig">
+    <option name="cloudIds">
+      <list>
+        <JiraInstance>
+          <option name="avatarUrl" value="https://site-admin-avatar-cdn.prod.public.atl-paas.net/avatars/240/lightbulb.png" />
+          <option name="id" value="05c4e468-88e1-4ff7-97f7-b494b24b6163" />
+          <option name="name" value="aaecosystem" />
+          <option name="scopes">
+            <list>
+              <option value="read:jira-work" />
+              <option value="write:jira-work" />
+              <option value="read:jira-user" />
+            </list>
+          </option>
+          <option name="url" value="https://aaecosystem.atlassian.net" />
+        </JiraInstance>
+      </list>
+    </option>
     <option name="ignoredRepos" value="$USER_HOME$/Developer/AA/Archive/luna,/Users/xuchu1/Developer/Examples/sunflower,/Users/xuchu1/Developer/ZY/SelfCheck,/Users/xuchu1/Developer/AA/ComposePlayground,/Users/xuchu1/Developer/AA/MaterialPlayground,/Users/xuchu1/Developer/ZY/FaceRegister,/Users/xuchu1/Developer/ZY/EBook,/Users/xuchu1/Developer/ZY/Inventory_HF,/Users/xuchu1/Developer/ZY/LibraryDroid,/Users/xuchu1/Developer/Examples/mlkit,/Users/xuchu1/Developer/Examples/compose-samples,/Users/xuchu1/Developer/ZY/RobotDroid/m3-pullrefresh,/Users/xuchu1/Developer/ZY/RobotDroid/m3-pullrefresh,/Users/xuchu1/Developer/XZ/RobotDroid" />
+    <option name="jiraInstances">
+      <list>
+        <NamedJiraInstance>
+          <option name="id" value="05c4e468-88e1-4ff7-97f7-b494b24b6163" />
+          <option name="name" value="aaecosystem" />
+        </NamedJiraInstance>
+      </list>
+    </option>
     <option name="trackedRepos" value="$USER_HOME$/Developer/AA/luna,/Users/xuchu1/Developer/AA/ecosystem-android,/Users/xuchu1/Developer/AA/luwu" />
   </component>
 </application>

@@ -10,14 +10,18 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot" />
+    <option name="mostRecentlyUsed" value="package:com.assaabloy.yale handshake" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.xingzhi.robot" />
-        <option value="package:com.xingzhi.robot tag:okhttp.OkHttpClient " />
-        <option value="package:com.xingzhi.robot tag:O" />
+        <option value="package:com.assaabloy.yale handshake" />
+        <option value="package:com.xingzhi.robot tag:SelfCheckViewModel " />
+        <option value="package:com.xingzhi.robot tag:S" />
         <option value="package:com.xingzhi.robot t" />
         <option value="package:com.xingzhi.robot " />
+        <option value="package:com.xingzhi.robot" />
+        <option value="package:com.xingzhi.robot S" />
+        <option value="package:com.xingzhi.robot tag:okhttp.OkHttpClient " />
+        <option value="package:com.xingzhi.robot tag:O" />
         <option value="package:com.xingzhi.robot tag:WTongRepository tag:MQTT" />
         <option value="package:com.xingzhi.robot tag:WTongRepository tag:M" />
         <option value="package:com.xingzhi.robot tag:WTongRepository t" />
@@ -29,10 +33,6 @@
         <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status level:debug" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status l" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -m" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode " />
-        <option value="package:com.xingzhi.robot -tag:StrictMode tag:WTongRepository " />
-        <option value="package:com.xingzhi.robot -tag:StrictMode tag:W" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode t" />
       </list>
     </option>
   </component>

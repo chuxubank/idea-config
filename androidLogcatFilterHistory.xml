@@ -10,12 +10,15 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.assaabloy.yale handshake" />
+    <option name="mostRecentlyUsed" value="package:mine tag:Luna " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Luna " />
+        <option value="package:mine tag:L" />
+        <option value="package:mine t" />
+        <option value="package:com.assaabloy.yale" />
         <option value="package:com.assaabloy.yale handshake" />
         <option value="package:com.assaabloy.yale " />
-        <option value="package:com.assaabloy.yale" />
         <option value="package:com.assaabloy.yale h" />
         <option value="package:com.xingzhi.robot tag:SelfCheckViewModel " />
         <option value="package:com.xingzhi.robot tag:S" />
@@ -30,9 +33,6 @@
         <option value="package:com.xingzhi.robot tag:WTongRepository t" />
         <option value="package:com.xingzhi.robot tag:WTongRepository " />
         <option value="package:com.xingzhi.robot tag:W" />
-        <option value=" -tag:StrictMode" />
-        <option value="package:com.aaecosys.apac_leo" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status " />
       </list>
     </option>
   </component>

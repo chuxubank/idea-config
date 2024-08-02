@@ -10,13 +10,18 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo " />
+    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository  " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.aaecosys.apac_leo " />
+        <option value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository  " />
+        <option value="package:com.aaecosys.apac_leo tag:X " />
+        <option value="package:com.aaecosys.apac_leo tag:x " />
+        <option value="package:com.aaecosys.apac_leo tag:s " />
+        <option value="package:com.aaecosys.apac_leo tag:XMVIDEOSTREAMINGREPOSITORY " />
         <option value="package:com.aaecosys.apac_leo tag:X" />
-        <option value="package:com.aaecosys.apac_leo tag:R" />
         <option value="package:com.aaecosys.apac_leo t" />
+        <option value="package:com.aaecosys.apac_leo " />
+        <option value="package:com.aaecosys.apac_leo tag:R" />
         <option value="package:mine tag:Luna " />
         <option value="package:mine tag:L" />
         <option value="package:mine t" />
@@ -28,11 +33,6 @@
         <option value="package:com.xingzhi.robot tag:S" />
         <option value="package:com.xingzhi.robot t" />
         <option value="package:com.xingzhi.robot " />
-        <option value="package:com.xingzhi.robot" />
-        <option value="package:com.xingzhi.robot S" />
-        <option value="package:com.xingzhi.robot tag:okhttp.OkHttpClient " />
-        <option value="package:com.xingzhi.robot tag:O" />
-        <option value="package:com.xingzhi.robot tag:WTongRepository tag:MQTT" />
       </list>
     </option>
   </component>

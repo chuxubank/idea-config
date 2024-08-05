@@ -4,6 +4,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1722736227512">Explain: FATAL EXCEPTION: DefaultDispatcher-worker-1
+Process: com.xingzhi.robot, PID: 900
+java.nio.file.AccessDeniedException: /storage/emulated/0
+at sun.nio.fs.LinuxWatchService$Poller.implRegister(LinuxWatchService.java:282)
+at sun.nio.fs.AbstractPoller.processRequests(AbstractPoller.java:260) with tag AndroidRuntime</historyEntry>
         <historyEntry timestamp="1721897830749">Explain: FATAL EXCEPTION: Thread-3
 Process: com.xingzhi.robot, PID: 22887
 pk.farimarwat.anrspy.agent.ANRSpyException: Method: nSyncAndDrawFrame is blocking main thread for at least 3500 ms

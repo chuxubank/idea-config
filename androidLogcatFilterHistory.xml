@@ -2,6 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState tag:ControlListViewModel " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter " />
         <option value="package:com.xingzhi.robot -tag:StrictMode" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status" />
         <option value="package:mine tag:com.august.luna.model.Lock tag:com.august.luna.lockmanager.SeamlessController tag:com.august.luna.lockmanager.LockFragment " />
@@ -10,29 +13,28 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo  tag:okhttp.OkHttpClient" />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState tag:C" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState t" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:A" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo t" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m." />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -t" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:S" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -t" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -S" />
+        <option value="package:com.xingzhi.robot" />
+        <option value="package:com.aaecosys.apac_leo tag:XmWifiSetupViewModel " />
+        <option value="package:com.aaecosys.apac_leo tag:X" />
+        <option value="package:com.aaecosys.apac_leo t" />
+        <option value="package:com.aaecosys.apac_leo" />
         <option value="package:com.aaecosys.apac_leo " />
         <option value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository " />
         <option value="package:com.aaecosys.apac_leo tag:V" />
-        <option value="package:com.aaecosys.apac_leo t" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode tag:OrionStarPluginDataSource " />
-        <option value="package:com.xingzhi.robot -tag:StrictMode tag:O" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode t" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode tag:C" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode tag:CheckLicenseUseCase " />
-        <option value="package:com.xingzhi.robot -tag:StrictMode tag:L" />
-        <option value="package:com.xingzhi.robot -tag:" />
-        <option value="package:com.xingzhi.robot -t" />
-        <option value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository  " />
-        <option value="package:com.aaecosys.apac_leo tag:X " />
-        <option value="package:com.aaecosys.apac_leo tag:x " />
-        <option value="package:com.aaecosys.apac_leo tag:s " />
-        <option value="package:com.aaecosys.apac_leo tag:XMVIDEOSTREAMINGREPOSITORY " />
-        <option value="package:com.aaecosys.apac_leo tag:X" />
-        <option value="package:com.aaecosys.apac_leo tag:R" />
-        <option value="package:mine tag:Luna " />
       </list>
     </option>
   </component>

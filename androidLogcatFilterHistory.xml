@@ -13,9 +13,13 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode Jank" />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot tag:LocalFileHelper " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot tag:LocalFileHelper " />
+        <option value="package:com.xingzhi.robot tag:Loc" />
+        <option value="package:com.xingzhi.robot tag:L" />
+        <option value="package:com.xingzhi.robot t" />
         <option value="package:com.xingzhi.robot -tag:StrictMode Jank" />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:RobotDroidNavHost tag:ControlListViewModel " />
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:RobotDroidNavHost tag:C" />
@@ -32,10 +36,6 @@
         <option value="package:com.xingzhi.robot -tag:StrictMode tag:C" />
         <option value="package:com.xingzhi.robot -tag:StrictMode level:error" />
         <option value="package:com.xingzhi.robot -tag:StrictMode level:error tag:A" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode level:error ta" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode level:error t" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode level:error " />
-        <option value="package:com.xingzhi.robot -tag:StrictMode l" />
       </list>
     </option>
   </component>

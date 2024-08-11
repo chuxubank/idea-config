@@ -2,10 +2,10 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.xingzhi.robot -tag:StrictMode" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState tag:ControlListViewModel " />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo " />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter " />
-        <option value="package:com.xingzhi.robot -tag:StrictMode" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -message~:/status" />
         <option value="package:mine tag:com.august.luna.model.Lock tag:com.august.luna.lockmanager.SeamlessController tag:com.august.luna.lockmanager.LockFragment " />
         <option value="package:mine tag:CoreExecutor -tag:okhttp.OkHttpClient tag:AccessSaveManager " />
@@ -13,28 +13,29 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter " />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode Jank" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState tag:C" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState t" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState " />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:A" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo t" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m." />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -t" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:S" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -t" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -S" />
-        <option value="package:com.xingzhi.robot" />
-        <option value="package:com.aaecosys.apac_leo tag:XmWifiSetupViewModel " />
-        <option value="package:com.aaecosys.apac_leo tag:X" />
-        <option value="package:com.aaecosys.apac_leo t" />
-        <option value="package:com.aaecosys.apac_leo" />
-        <option value="package:com.aaecosys.apac_leo " />
-        <option value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository " />
-        <option value="package:com.aaecosys.apac_leo tag:V" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode Jank" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:RobotDroidNavHost tag:ControlListViewModel " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:RobotDroidNavHost tag:C" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:RobotDroidNavHost t" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:RobotDroidNavHost " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:N" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode t" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode rob" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode r" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:ControlListViewModel tag:R" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:ControlListViewModel t" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:ControlListViewModel " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode tag:C" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode level:error" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode level:error tag:A" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode level:error ta" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode level:error t" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode level:error " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode l" />
       </list>
     </option>
   </component>

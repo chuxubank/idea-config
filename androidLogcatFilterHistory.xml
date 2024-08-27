@@ -14,15 +14,19 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository " />
+    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.aaecosys.apac_leo level:error " />
+        <option value="package:com.aaecosys.apac_leo le" />
+        <option value="package:com.aaecosys.apac_leo" />
+        <option value="package:com.aaecosys.apac_leo chip1FirmwareVersion" />
+        <option value="package:com.aaecosys.apac_leo 0.3.8" />
         <option value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository " />
         <option value="package:com.aaecosys.apac_leo tag:X" />
         <option value="package:com.aaecosys.apac_leo t" />
         <option value="package:com.aaecosys.apac_leo " />
         <option value="package:com.aaecosys.apac_leo tag:XmV" />
-        <option value="package:com.aaecosys.apac_leo" />
         <option value="package:com.xingzhi.robot" />
         <option value="package:mine tag:CoroutineExceptionHandler " />
         <option value="package:mine tag:C" />
@@ -33,10 +37,6 @@
         <option value="package:com.xingzhi.robot tag:LicenseViewModel " />
         <option value="package:com.xingzhi.robot tag:L" />
         <option value="package:com.xingzhi.robot t" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; License" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; L" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:C" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; t" />
       </list>
     </option>
   </component>

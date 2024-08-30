@@ -14,9 +14,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo" />
+    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.LockFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.LockFragment " />
+        <option value="package:com.aaecosys.apac_leo tag:L" />
+        <option value="package:com.aaecosys.apac_leo ta" />
         <option value="package:com.aaecosys.apac_leo" />
         <option value="package:mine" />
         <option value="package:com.aaecosys.apac_leo level:error " />
@@ -34,9 +37,6 @@
         <option value="package:mine t" />
         <option value="package:mine C" />
         <option value="package:mine " />
-        <option value="package:mine CoHandler" />
-        <option value="package:com.xingzhi.robot tag:LicenseViewModel " />
-        <option value="package:com.xingzhi.robot tag:L" />
       </list>
     </option>
   </component>

@@ -14,29 +14,29 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel tag:com.aaecosystem.luna.ui.main.house.lock.LockFragment " />
+    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.aaecosys.apac_leo" />
+        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.LockFragment" />
+        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.LockFragment tag:L" />
+        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.LockFragment t" />
+        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.LockFragment tag:V" />
+        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.LockFragment " />
+        <option value="package:com.aaecosys.apac_leo tag:L" />
+        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.SeamlessController" />
+        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.SeamlessController Fetching status" />
+        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.SeamlessController Fetching s" />
+        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.SeamlessController F" />
+        <option value="package:com.aaecosys.apac_leo tag:Sea" />
+        <option value="package:com.aaecosys.apac_leo tag:S" />
+        <option value="package:com.aaecosys.apac_leo t" />
+        <option value="package:com.aaecosys.apac_leo " />
         <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel tag:com.aaecosystem.luna.ui.main.house.lock.LockFragment " />
         <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel tag:L" />
         <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel t" />
         <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
-        <option value="package:com.aaecosys.apac_leo tag:L" />
         <option value="package:com.aaecosys.apac_leo tag" />
-        <option value="package:mine tag:XmVideoStreamingRepository tag:EventTriggerTimeViewModel " />
-        <option value="package:mine tag:XmVideoStreamingRepository tag:E" />
-        <option value="package:mine tag:XmVideoStreamingRepository tag:X" />
-        <option value="package:mine tag:XmVideoStreamingRepository t" />
-        <option value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository tag:EventTriggerTimeViewModel " />
-        <option value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository tag:E" />
-        <option value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository tag:V" />
-        <option value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository t" />
-        <option value="package:com.aaecosys.apac_leo tag:XmVideoStreamingRepository " />
-        <option value="package:com.aaecosys.apac_leo tag:X" />
-        <option value="package:com.aaecosys.apac_leo t" />
-        <option value="package:mine tag:XmVideoStreamingRepository " />
-        <option value="package:mine tag:X" />
-        <option value="package:mine t" />
       </list>
     </option>
   </component>

@@ -14,16 +14,20 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:RemoteDeviceRepository " />
+    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateViewModel " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:RemoteDeviceRepository " />
-        <option value="package:mine tag:R" />
-        <option value="package:mine t" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:L" />
-        <option value="package:mine tag" />
+        <option value="package:mine tag:V" />
+        <option value="package:mine t" />
+        <option value="p" />
         <option value="package:mine " />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel tag:R " />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel t " />
+        <option value="package:mine tag:RemoteDeviceRepository " />
+        <option value="package:mine tag:R" />
+        <option value="package:mine tag" />
         <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
         <option value="package:com.aaecosys.apac_leo tag:L" />
         <option value="package:com.aaecosys.apac_leo t" />
@@ -33,10 +37,6 @@
         <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.SeamlessController " />
         <option value="package:com.aaecosys.apac_leo tag:S" />
         <option value="package:com.aaecosys.apac_leo ta" />
-        <option value="package:com.aaecosys.apac_leo" />
-        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.LockFragment " />
-        <option value="package:com.aaecosys.apac_leo tag:" />
-        <option value="package:com.aaecosys.apac_leo tag" />
       </list>
     </option>
   </component>

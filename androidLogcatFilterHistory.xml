@@ -14,9 +14,16 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateViewModel " />
+    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateViewModel  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LockFirmwareUpdateViewModel  " />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel level:verbose " />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel level" />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel lev" />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel l" />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel level:t" />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel level:v" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:L" />
         <option value="package:mine tag:V" />
@@ -30,13 +37,6 @@
         <option value="package:mine tag" />
         <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
         <option value="package:com.aaecosys.apac_leo tag:L" />
-        <option value="package:com.aaecosys.apac_leo t" />
-        <option value="package:com.aaecosys.apac_leo " />
-        <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel" />
-        <option value="package:com.aaecosys.apac_leo tag:V" />
-        <option value="package:com.aaecosys.apac_leo tag:com.aaecosystem.luna.ui.main.house.lock.SeamlessController " />
-        <option value="package:com.aaecosys.apac_leo tag:S" />
-        <option value="package:com.aaecosys.apac_leo ta" />
       </list>
     </option>
   </component>

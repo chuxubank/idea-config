@@ -14,9 +14,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateViewModel  " />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot tag:StubRobotDataSource " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot tag:StubRobotDataSource " />
+        <option value="package:com.xingzhi.robot tag:S" />
+        <option value="package:com.xingzhi.robot t" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel  " />
         <option value="package:mine tag:LockFirmwareUpdateViewModel level:verbose " />
         <option value="package:mine tag:LockFirmwareUpdateViewModel level" />
@@ -34,9 +37,6 @@
         <option value="package:mine tag:LockFirmwareUpdateViewModel t " />
         <option value="package:mine tag:RemoteDeviceRepository " />
         <option value="package:mine tag:R" />
-        <option value="package:mine tag" />
-        <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
-        <option value="package:com.aaecosys.apac_leo tag:L" />
       </list>
     </option>
   </component>

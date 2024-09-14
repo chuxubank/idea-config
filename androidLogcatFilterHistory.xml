@@ -14,9 +14,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot tag:StubRobotDataSource " />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot tag:StubRobotDataSource tag:LocalFileHelper " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot tag:StubRobotDataSource tag:LocalFileHelper " />
+        <option value="package:com.xingzhi.robot tag:StubRobotDataSource tag:L" />
+        <option value="package:com.xingzhi.robot tag:StubRobotDataSource t" />
         <option value="package:com.xingzhi.robot tag:StubRobotDataSource " />
         <option value="package:com.xingzhi.robot tag:S" />
         <option value="package:com.xingzhi.robot t" />
@@ -34,9 +37,6 @@
         <option value="p" />
         <option value="package:mine " />
         <option value="package:mine tag:LockFirmwareUpdateViewModel tag:R " />
-        <option value="package:mine tag:LockFirmwareUpdateViewModel t " />
-        <option value="package:mine tag:RemoteDeviceRepository " />
-        <option value="package:mine tag:R" />
       </list>
     </option>
   </component>

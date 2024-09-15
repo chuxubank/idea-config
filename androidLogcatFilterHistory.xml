@@ -14,9 +14,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License" />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License tag:Robot" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License tag:Robot" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License tag:R" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License t" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:L" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; t" />
@@ -24,8 +27,6 @@
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; l" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot;" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License tag:RobotRepositoryImpl " />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License tag:R" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License t" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:C" />
         <option value="package:com.xingzhi.robot" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License tag:RobotR" />
@@ -36,7 +37,6 @@
         <option value="package:com.xingzhi.robot tag:StubRobotDataSource tag:L" />
         <option value="package:com.xingzhi.robot tag:StubRobotDataSource t" />
         <option value="package:com.xingzhi.robot tag:StubRobotDataSource " />
-        <option value="package:com.xingzhi.robot tag:S" />
       </list>
     </option>
   </component>

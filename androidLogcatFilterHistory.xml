@@ -14,9 +14,14 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot tag:StubRobotDataSource tag:LocalFileHelper " />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:Robot" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:R" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; t" />
+        <option value="package:com.xingzhi.robot" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:RobotDataSource" />
         <option value="package:com.xingzhi.robot tag:StubRobotDataSource tag:LocalFileHelper " />
         <option value="package:com.xingzhi.robot tag:StubRobotDataSource tag:L" />
         <option value="package:com.xingzhi.robot tag:StubRobotDataSource t" />
@@ -32,11 +37,6 @@
         <option value="package:mine tag:LockFirmwareUpdateViewModel level:v" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:L" />
-        <option value="package:mine tag:V" />
-        <option value="package:mine t" />
-        <option value="p" />
-        <option value="package:mine " />
-        <option value="package:mine tag:LockFirmwareUpdateViewModel tag:R " />
       </list>
     </option>
   </component>

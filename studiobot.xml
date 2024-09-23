@@ -4,6 +4,38 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1727099456055">2 type arguments expected for inline fun &lt;reified T : Any, reified E : Any&gt; ApiResponse&lt;out T&gt;.toAuResult(defaultIfEmpty: T? = ..., transformError: (httpCode: Int, originalError: Throwable, errorResponse: E) -&gt; Throwable = ...): AuResult&lt;T&gt;</historyEntry>
+        <historyEntry timestamp="1727095543827">Change previous code to asAuResult&lt;ErrorResponse&gt;() type</historyEntry>
+        <historyEntry timestamp="1727095224337">Not enough information to infer type variable E</historyEntry>
+        <historyEntry timestamp="1727095062184">Make suggestions to improve this code:
+inline fun &lt;reified T : Any, reified E: Any&gt; ApiResponse&lt;out T&gt;.toAuResult(
+    defaultIfEmpty: T? = null,
+    errorBodyResponse: KClass&lt;E&gt;? = null,
+    transformError: (code: Int, error: Throwable, errorResponse: E?) -&gt; Throwable? = { _, _, _ -&gt; null },
+): AuResult&lt;T&gt; =
+    when (this) {
+        is ApiEmptyResponse -&gt; when {
+            defaultIfEmpty != null -&gt; AuResult.Success(defaultIfEmpty)
+
+            T::class == Unit::class -&gt; AuResult.Success(Unit as T)
+
+            else -&gt; AuResult.Failure(NullPointerException(&quot;Response body is empty&quot;))
+        }
+
+        is ApiSuccessResponse -&gt; AuResult.Success(body)
+
+        is ApiErrorResponse -&gt; AuResult.Failure(
+            errorBodyResponse?.let {
+                kotlin.runCatching {
+                    GsonSingleton.get().fromJson(errorBody?.string(), it.java)
+                }
+                    .fold(
+                        onFailure = { error },
+                        onSuccess = { transformError(code, error, it) ?: error },
+                    )
+            } ?: error,
+        )
+    }</historyEntry>
         <historyEntry timestamp="1722736227512">Explain: FATAL EXCEPTION: DefaultDispatcher-worker-1
 Process: com.xingzhi.robot, PID: 900
 java.nio.file.AccessDeniedException: /storage/emulated/0

@@ -14,9 +14,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateViewModel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine remoteoperate/" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:LockFirmwareUpdateViewMode" />
         <option value="package:mine tag:Lo" />
@@ -35,8 +36,6 @@
         <option value="package:com.xingzhi.robot" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License tag:RobotR" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:Robot" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:R" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:RobotDataSource" />
       </list>
     </option>
   </component>

@@ -4,6 +4,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1728480773919">How to use Crossfade inside a AnimatedContent</historyEntry>
         <historyEntry timestamp="1728460230403">Explain: Failed to check firmware update
 com.google.gson.JsonSyntaxException: Failed parsing '1726304337601' as Date; at path $.updateInfo[0].lastUpgradedAt
 at com.google.gson.internal.bind.DateTypeAdapter.deserializeToDate(DateTypeAdapter.java:90)

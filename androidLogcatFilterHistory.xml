@@ -14,9 +14,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateViewModel tag:LockFirmwareCheckScreen  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LockFirmwareUpdateViewModel tag:LockFirmwareCheckScreen  " />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel t  " />
         <option value="package:mine" />
         <option value="package:mine tag:VideoStreamEntranceViewModel " />
         <option value="package:mine tag:Entran" />
@@ -35,8 +37,6 @@
         <option value="package:mine remoteoperate/" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:LockFirmwareUpdateViewMode" />
-        <option value="package:mine tag:Lo" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; tag:License tag:Robot" />
       </list>
     </option>
   </component>

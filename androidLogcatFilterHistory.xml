@@ -14,14 +14,14 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:VideoStreamEntranceViewModel " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:VideoStreamEntranceViewModel " />
         <option value="package:mine tag:Entran" />
         <option value="package:mine tag:E" />
         <option value="package:mine t" />
-        <option value="package:mine" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel   " />
         <option value="package:mine tag:L  " />
         <option value="package:mine LockFirmwareUpdateActivity" />

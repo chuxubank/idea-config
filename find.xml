@@ -1,7 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="AND-12508 [Android][OTA] Wifi OTA - happy path" />
     <option name="defaultScopeName" value="AND-12508 [Android][OTA] Wifi OTA - happy path" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="AND-12508 [Android][OTA] Wifi OTA - happy path" />
     <mask>!*.txt</mask>
     <mask>!*.xml</mask>

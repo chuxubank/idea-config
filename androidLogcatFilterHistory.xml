@@ -14,9 +14,9 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:CheckAndInstallFirmwareUpdates" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:CheckAndInstallFirmwareUpdates" />
         <option value="package:mine t" />
         <option value="package:mine" />
@@ -29,7 +29,6 @@
         <option value="package:mine tag:LockFirmwareUpdateViewModel   " />
         <option value="package:mine tag:L  " />
         <option value="package:mine LockFirmwareUpdateActivity" />
-        <option value="package:mine " />
         <option value="package:mine tag:L" />
         <option value="package:mine tag:XmVideoStreamingRepository  " />
         <option value="package:mine tag:X " />

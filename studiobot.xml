@@ -4,12 +4,105 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
-        <historyEntry timestamp="1728480773919">How to use Crossfade inside a AnimatedContent</historyEntry>
-        <historyEntry timestamp="1728460230403">Explain: Failed to check firmware update
-com.google.gson.JsonSyntaxException: Failed parsing '1726304337601' as Date; at path $.updateInfo[0].lastUpgradedAt
-at com.google.gson.internal.bind.DateTypeAdapter.deserializeToDate(DateTypeAdapter.java:90)
-at com.google.gson.internal.bind.DateTypeAdapter.read(DateTypeAdapter.java:75)
-at com.google.gson.internal.bind.DateTypeAdapter.read(DateTypeAdapter.java:46) with tag LockFirmwareUpdateViewModel</historyEntry>
+        <historyEntry timestamp="1728546779255">runCatching {
+            withTimeout(FIRMWARE_UPDATE_EACH_CHIP_DURATION * initialUpdateNeededChipInfoList.size) {
+                supervisorScope {
+                    select {
+                        async {
+                            remoteDeviceRepository.waitOtaComplete(lock).first()
+                        }.onAwait { result -&gt;
+                            LOG.debug(&quot;Get ota result from mqtt: {}&quot;, result)
+                            initialUpdateNeededChipInfoList.filter { initial -&gt;
+                                result.chips.find { it.chip == initial.chip }?.status == FirmwareUpdateStatus.FAILED
+                            }
+                        }
+                        async {
+                            coRetry(
+                                maxAttempts = Int.MAX_VALUE,
+                                delayMs = FIRMWARE_UPDATE_POLL_INTERVAL.inWholeMilliseconds,
+                                input = Unit,
+                                producer = {
+                                    updateFirmwareInfoState(lock)
+                                    getCurrentFirmwareInfoList()
+                                },
+                                retryWhen = { _, result -&gt;
+                                    result.any { it.status == FirmwareStatus.UPGRADING }
+                                },
+                            )
+                        }.onAwait { result -&gt;
+                            LOG.debug(&quot;Get ota result from poll: {}&quot;, result)
+                            getFailedChipInfoList(initialUpdateNeededChipInfoList, result)
+                        }
+                    }
+                }
+            }
+        }.fold(
+            onFailure = {
+                LOG.error(&quot;Failed to get firmware update result, maybe timeout&quot;, it)
+                checkFinalUpdateResult(
+                    isRemote = true,
+                    lock = lock,
+                )
+            },
+            onSuccess = {
+                onLockFirmwareUpdateComplete(
+                    isRemote = true,
+                    lockId = lock.id,
+                    failedChipList = it,
+                )
+            },
+        )
+
+runCatching {
+            withTimeout(FIRMWARE_UPDATE_EACH_CHIP_DURATION * initialUpdateNeededChipInfoList.size) {
+                supervisorScope {
+                    select {
+                        async {
+                            remoteDeviceRepository.waitOtaComplete(lock).first()
+                        }.onAwait { result -&gt;
+                            LOG.debug(&quot;Get ota result from mqtt: {}&quot;, result)
+                            initialUpdateNeededChipInfoList.filter { initial -&gt;
+                                result.chips.find { it.chip == initial.chip }?.status == FirmwareUpdateStatus.FAILED
+                            }
+                        }
+                        async {
+                            coRetry(
+                                maxAttempts = Int.MAX_VALUE,
+                                delayMs = FIRMWARE_UPDATE_POLL_INTERVAL.inWholeMilliseconds,
+                                input = Unit,
+                                producer = {
+                                    updateFirmwareInfoState(lock)
+                                    getCurrentFirmwareInfoList()
+                                },
+                                retryWhen = { _, result -&gt;
+                                    result.any { it.status == FirmwareStatus.UPGRADING }
+                                },
+                            )
+                        }.onAwait { result -&gt;
+                            LOG.debug(&quot;Get ota result from poll: {}&quot;, result)
+                            getFailedChipInfoList(initialUpdateNeededChipInfoList, result)
+                        }
+                    }
+                }
+            }
+        }.fold(
+            onFailure = {
+                LOG.error(&quot;Failed to get firmware update result, maybe timeout&quot;, it)
+                checkFinalUpdateResult(
+                    isRemote = true,
+                    lock = lock,
+                )
+            },
+            onSuccess = {
+                onLockFirmwareUpdateComplete(
+                    isRemote = true,
+                    lockId = lock.id,
+                    failedChipList = it,
+                )
+            },
+        )
+
+&quot;Get ota result from poll:&quot; print but not call onSuccess</historyEntry>
       </list>
     </option>
   </component>

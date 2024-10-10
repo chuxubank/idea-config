@@ -14,12 +14,13 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:LockFirmwareUpdateViewModel " />
+    <option name="mostRecentlyUsed" value="package:mine tag:CheckAndInstallFirmwareUpdates" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:LockFirmwareUpdateViewModel " />
-        <option value="package:mine" />
+        <option value="package:mine tag:CheckAndInstallFirmwareUpdates" />
         <option value="package:mine t" />
+        <option value="package:mine" />
+        <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:LockFirmwareUpdateViewModel tag:LockFirmwareCheckScreen  " />
         <option value="package:mine tag:LockFirmwareUpdateViewModel t  " />
         <option value="package:mine tag:VideoStreamEntranceViewModel " />
@@ -36,7 +37,6 @@
         <option value="package:mine r " />
         <option value="package:mine tag:x " />
         <option value="package:mine remoteoperate/" />
-        <option value="package:mine tag:LockFirmwareUpdateViewMode" />
       </list>
     </option>
   </component>

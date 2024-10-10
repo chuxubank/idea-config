@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="AND-12508 [Android][OTA] Wifi OTA - happy path" />
-    <option name="defaultScopeName" value="AND-12508 [Android][OTA] Wifi OTA - happy path" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="AND-12508 [Android][OTA] Wifi OTA - happy path" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>!*.txt</mask>
     <mask>!*.xml</mask>
     <mask>!*.json</mask>

@@ -14,14 +14,14 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine CheckAndInstallFirmwareUpdates" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine CheckAndInstallFirmwareUpdates" />
         <option value="package:mine " />
         <option value="package:mine tag:CheckAndInstallFirmwareUpdates" />
         <option value="package:mine t" />
-        <option value="package:mine" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:LockFirmwareUpdateViewModel tag:LockFirmwareCheckScreen  " />
         <option value="package:mine tag:LockFirmwareUpdateViewModel t  " />

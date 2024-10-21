@@ -17,6 +17,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine /c" />
         <option value="package:mine currentFirmwareVersion" />
         <option value="package:mine" />
         <option value="package:mine CheckAndInstallFirmwareUpdates" />
@@ -35,7 +36,6 @@
         <option value="package:mine tag:XmVideoStreamingRepository  " />
         <option value="package:mine tag:X " />
         <option value="package:mine t " />
-        <option value="package:mine r " />
       </list>
     </option>
   </component>

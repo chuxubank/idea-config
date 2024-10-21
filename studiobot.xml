@@ -4,6 +4,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1729497004611">Explain: Failed to get Mqtt Credentials
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String com.aaecosystem.luna.model.credentials.CredentialsData$MqttData.getUsername()' on a null object reference
+at com.aaecosystem.luna.dagger.RxDataStreamModule$CredentialRepo.getMqttCredentials(RxDataStreamModule.kt:115)
+at com.aaecosystem.luna.network.dataStream.RxMqtt2$CommandHandler.handleMessage(RxMqtt2.kt:93)
+at android.os.Handler.dispatchMessage(Handler.java:103) with tag com.aaecosystem.luna.network.dataStream.RxMqtt2</historyEntry>
         <historyEntry timestamp="1728893716444">Hello</historyEntry>
         <historyEntry timestamp="1728893666428">Hello</historyEntry>
         <historyEntry timestamp="1728893651695">Hello</historyEntry>

@@ -14,8 +14,13 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine -tag:RxMqtt2 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:RxMqtt2 " />
+        <option value="package:mine -tag:R" />
+        <option value="package:mine -tag:M" />
+        <option value="package:mine -t" />
         <option value="package:mine " />
         <option value="package:mine /c" />
         <option value="package:mine currentFirmwareVersion" />
@@ -32,10 +37,6 @@
         <option value="package:mine tag:LockFirmwareUpdateViewModel   " />
         <option value="package:mine tag:L  " />
         <option value="package:mine LockFirmwareUpdateActivity" />
-        <option value="package:mine tag:L" />
-        <option value="package:mine tag:XmVideoStreamingRepository  " />
-        <option value="package:mine tag:X " />
-        <option value="package:mine t " />
       </list>
     </option>
   </component>

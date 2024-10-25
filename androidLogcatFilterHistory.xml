@@ -14,13 +14,20 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo" />
+    <option name="mostRecentlyUsed" value="package:mine messagingProtocol" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine messagingProtocol" />
+        <option value="package:mine " />
+        <option value="package:mine tag:Mqtt" />
+        <option value="package:mine tag:M" />
+        <option value="package:mine t" />
+        <option value="package:mine tag:RxMqtt2" />
+        <option value="package:mine ta" />
+        <option value="package:mine Successfully retrieved credentials" />
         <option value="package:com.aaecosys.apac_leo" />
         <option value="package:com.aaecosys.apac_leo o" />
         <option value="package:com.aaecosys.apac_leo ta" />
-        <option value="package:mine " />
         <option value="package:mine tag:com.aaecosystem.luna.ble2.BackgroundSyncTask " />
         <option value="package:mine tag:B" />
         <option value="package:mine tag:R" />
@@ -30,13 +37,6 @@
         <option value="package:mine -tag:M" />
         <option value="package:mine -t" />
         <option value="package:mine /c" />
-        <option value="package:mine currentFirmwareVersion" />
-        <option value="package:mine" />
-        <option value="package:mine CheckAndInstallFirmwareUpdates" />
-        <option value="package:mine tag:CheckAndInstallFirmwareUpdates" />
-        <option value="package:mine t" />
-        <option value="package:mine tag:LockFirmwareUpdateViewModel " />
-        <option value="package:mine tag:LockFirmwareUpdateViewModel tag:LockFirmwareCheckScreen  " />
       </list>
     </option>
   </component>

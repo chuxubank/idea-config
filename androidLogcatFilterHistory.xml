@@ -14,9 +14,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
+    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.aaecosys.apac_leo" />
+        <option value="package:com.aaecosys.apac_leo o" />
+        <option value="package:com.aaecosys.apac_leo ta" />
         <option value="package:mine " />
         <option value="package:mine tag:com.aaecosystem.luna.ble2.BackgroundSyncTask " />
         <option value="package:mine tag:B" />
@@ -34,9 +37,6 @@
         <option value="package:mine t" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:LockFirmwareUpdateViewModel tag:LockFirmwareCheckScreen  " />
-        <option value="package:mine tag:LockFirmwareUpdateViewModel t  " />
-        <option value="package:mine tag:VideoStreamEntranceViewModel " />
-        <option value="package:mine tag:Entran" />
       </list>
     </option>
   </component>

@@ -14,11 +14,14 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine messagingProtocol" />
+    <option name="mostRecentlyUsed" value="package:mine tag:com.aaecosystem.luna.ble2.backgroundsynctask " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine messagingProtocol" />
+        <option value="package:mine tag:com.aaecosystem.luna.ble2.backgroundsynctask " />
+        <option value="package:mine tag:b" />
+        <option value="package:mine tag" />
         <option value="package:mine " />
+        <option value="package:mine messagingProtocol" />
         <option value="package:mine tag:Mqtt" />
         <option value="package:mine tag:M" />
         <option value="package:mine t" />
@@ -31,12 +34,9 @@
         <option value="package:mine tag:com.aaecosystem.luna.ble2.BackgroundSyncTask " />
         <option value="package:mine tag:B" />
         <option value="package:mine tag:R" />
-        <option value="package:mine tag" />
         <option value="package:mine -tag:RxMqtt2 " />
         <option value="package:mine -tag:R" />
         <option value="package:mine -tag:M" />
-        <option value="package:mine -t" />
-        <option value="package:mine /c" />
       </list>
     </option>
   </component>

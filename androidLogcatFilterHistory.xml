@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
         <option value="package:com.xingzhi.robot -tag:StrictMode" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState tag:ControlListViewModel " />
@@ -14,9 +15,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
+    <option name="mostRecentlyUsed" value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:M" />
+        <option value="package:mine -ta" />
         <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
         <option value="package:com.aaecosys.apac_leo tag:L" />
         <option value="package:com.aaecosys.apac_leo t" />
@@ -24,8 +27,6 @@
         <option value="package:mine tag:L" />
         <option value="package:mine ta" />
         <option value="package:mine t" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
-        <option value="package:mine -tag:M" />
         <option value="package:mine -t" />
         <option value="package:mine tag:com.aaecosystem.luna.ble2.backgroundsynctask " />
         <option value="package:mine tag:b" />
@@ -36,7 +37,6 @@
         <option value="package:mine tag:M" />
         <option value="package:mine tag:RxMqtt2" />
         <option value="package:mine Successfully retrieved credentials" />
-        <option value="package:com.aaecosys.apac_leo" />
       </list>
     </option>
   </component>

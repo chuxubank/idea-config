@@ -4,6 +4,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1730856361017">Hello</historyEntry>
         <historyEntry timestamp="1730856272828">Hello</historyEntry>
         <historyEntry timestamp="1729497004611">Explain: Failed to get Mqtt Credentials
 java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String com.aaecosystem.luna.model.credentials.CredentialsData$MqttData.getUsername()' on a null object reference

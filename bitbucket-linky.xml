@@ -10,10 +10,7 @@
   </component>
   <component name="Instance" id="664f7bb4-5b1f-4c00-b7d9-e1595da3fd8b" version="2023.1.304" />
   <component name="UsageLog">
-    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-11-08T03:03:25.613998Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2024-11-08T03:07:54.135800Z">
+    <event name="OpenCommit" place="Vcs.Log.ContextMenu" timestamp="2024-11-11T06:06:50.775405Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
   </component>

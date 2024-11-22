@@ -17,6 +17,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:com.aaecosys.apac_leo" />
         <option value="package:mine " />
         <option value="package:mine -tag:M" />
         <option value="package:mine -ta" />

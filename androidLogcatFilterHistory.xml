@@ -15,9 +15,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo tag:LunaEventV3" />
+    <option name="mostRecentlyUsed" value="package:mine tag:Xu" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Xu" />
+        <option value="package:mine tag:X" />
+        <option value="package:mine t" />
         <option value="package:com.aaecosys.apac_leo tag:LunaEventV3" />
         <option value="package:com.aaecosys.apac_leo tag:L" />
         <option value="package:com.aaecosys.apac_leo t" />
@@ -33,11 +36,8 @@
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:L" />
         <option value="package:mine ta" />
-        <option value="package:mine t" />
         <option value="package:mine -t" />
         <option value="package:mine tag:com.aaecosystem.luna.ble2.backgroundsynctask " />
-        <option value="package:mine tag:b" />
-        <option value="package:mine tag" />
       </list>
     </option>
   </component>

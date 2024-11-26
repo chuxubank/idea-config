@@ -15,18 +15,19 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo tag:Xu" />
+    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo tag:LunaEventV3 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.aaecosys.apac_leo tag:LunaEventV3 " />
+        <option value="package:com.aaecosys.apac_leo tag:L" />
+        <option value="package:com.aaecosys.apac_leo t" />
+        <option value="package:com.aaecosys.apac_leo" />
         <option value="package:com.aaecosys.apac_leo tag:Xu" />
         <option value="package:com.aaecosys.apac_leo tag:X" />
-        <option value="package:com.aaecosys.apac_leo t" />
         <option value="package:mine tag:Xu" />
         <option value="package:mine tag:X" />
         <option value="package:mine t" />
         <option value="package:com.aaecosys.apac_leo tag:LunaEventV3" />
-        <option value="package:com.aaecosys.apac_leo tag:L" />
-        <option value="package:com.aaecosys.apac_leo" />
         <option value="package:com.aaecosys.apac_leo " />
         <option value="package:com.aaecosys.apac_leo c" />
         <option value="package:com.xingzhi.robot" />
@@ -37,7 +38,6 @@
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:L" />
         <option value="package:mine ta" />
-        <option value="package:mine -t" />
       </list>
     </option>
   </component>

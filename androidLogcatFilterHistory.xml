@@ -15,16 +15,20 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.xingzhi.robot" />
         <option value="package:com.aaecosys.apac_leo" />
+        <option value="package:com.aaecosys.apac_leo tag:X" />
+        <option value="package:com.aaecosys.apac_leo t" />
+        <option value="package:com.aaecosys.apac_leo " />
+        <option value="package:com.aaecosys.apac_leo c" />
+        <option value="package:com.xingzhi.robot" />
         <option value="package:mine " />
         <option value="package:mine -tag:M" />
         <option value="package:mine -ta" />
         <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
         <option value="package:com.aaecosys.apac_leo tag:L" />
-        <option value="package:com.aaecosys.apac_leo t" />
         <option value="package:mine tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine tag:L" />
         <option value="package:mine ta" />
@@ -34,9 +38,6 @@
         <option value="package:mine tag:b" />
         <option value="package:mine tag" />
         <option value="package:mine messagingProtocol" />
-        <option value="package:mine tag:Mqtt" />
-        <option value="package:mine tag:M" />
-        <option value="package:mine tag:RxMqtt2" />
       </list>
     </option>
   </component>

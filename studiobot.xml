@@ -4,6 +4,10 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1732680785476">Explain the following code: 
+unitTests.all {
+it.minHeapSize = &quot;512m&quot;
+it.maxHeapSize = &quot;1024m&quot;</historyEntry>
         <historyEntry timestamp="1732675911169">Explain the following code: 
 isReturnDefaultValues</historyEntry>
         <historyEntry timestamp="1732674488157">ManageEntryCodeViewModelTest &gt; verify the pattern and number of digits condition STANDARD_ERROR

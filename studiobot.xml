@@ -4,6 +4,21 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1732675911169">Explain the following code: 
+isReturnDefaultValues</historyEntry>
+        <historyEntry timestamp="1732674488157">ManageEntryCodeViewModelTest &gt; verify the pattern and number of digits condition STANDARD_ERROR
+    Properties file org/powermock/extensions/configuration.properties is found in 2 places: 
+    ConfigurationSource{location='/Users/xuchu1/Developer/AA/luna/app/build/intermediates/java_res/yaleDebugUnitTest/out/org/powermock/extensions/configuration.properties}
+    ConfigurationSource{location='/Users/xuchu1/Developer/AA/luna/core/test-util/build/intermediates/java_res/debug/out/org/powermock/extensions/configuration.properties}. Which one will be used is undefined. Please, remove duplicated configuration file (or second PowerMock jar file) from class path to have stable tests.Properties file org/powermock/extensions/configuration.properties is found in 2 places: 
+    ConfigurationSource{location='/Users/xuchu1/Developer/AA/luna/app/build/intermediates/java_res/yaleDebugUnitTest/out/org/powermock/extensions/configuration.properties}
+OpenJDK 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+    ConfigurationSource{location='/Users/xuchu1/Developer/AA/luna/core/test-util/build/intermediates/java_res/debug/out/org/powermock/extensions/configuration.properties}. Which one will be used is undefined. Please, remove duplicated configuration file (or second PowerMock jar file) from class path to have stable tests.SLF4J: Class path contains multiple SLF4J providers.
+    SLF4J: Found provider [org.slf4j.nop.NOPServiceProvider@1437415c]
+    SLF4J: Found provider [org.slf4j.impl.LoggerServiceProvider@2a976006]
+    SLF4J: See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+    SLF4J: Actual provider is of type [org.slf4j.nop.NOPServiceProvider@1437415c]
+
+解释一下</historyEntry>
         <historyEntry timestamp="1732412212211">Hello</historyEntry>
         <historyEntry timestamp="1732165983171">Hello</historyEntry>
         <historyEntry timestamp="1731457994116">Hello</historyEntry>

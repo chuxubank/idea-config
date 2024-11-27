@@ -6,12 +6,18 @@
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="enabledOptions">
+      <map>
+        <entry key="kotlin.lambdas.hints#hints.lambda.receivers.parameters" value="true" />
+      </map>
+    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="compose.state.read" value="false" />
         <entry key="devkit.threading" value="false" />
         <entry key="java.implicit.types" value="false" />
         <entry key="java.method.chains" value="true" />
+        <entry key="kotlin.lambdas.hints" value="true" />
       </map>
     </option>
   </component>

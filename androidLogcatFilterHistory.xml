@@ -19,6 +19,7 @@
     <option name="mostRecentlyUsed" value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel" />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel package:" />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel package:com.aaecosys.apac_leo " />
@@ -36,7 +37,6 @@
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 -t" />
         <option value="package:mine -tag:R" />
         <option value="package:mine -ta" />
-        <option value="package:mine " />
         <option value="package:com.aaecosys.apac_leo tag:LunaEventV3 " />
         <option value="package:com.aaecosys.apac_leo tag:L" />
       </list>

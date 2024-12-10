@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
         <option value="package:com.xingzhi.robot -tag:StrictMode" />
@@ -15,8 +16,20 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel " />
+        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:L" />
+        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub t" />
+        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:p" />
+        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -t" />
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 -tag:EMASN" />
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 -tag:E" />
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 -tag:N" />
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 -t" />
+        <option value="package:mine -tag:R" />
+        <option value="package:mine -ta" />
         <option value="package:mine " />
         <option value="package:com.aaecosys.apac_leo tag:LunaEventV3 " />
         <option value="package:com.aaecosys.apac_leo tag:L" />
@@ -26,17 +39,6 @@
         <option value="package:com.aaecosys.apac_leo tag:X" />
         <option value="package:mine tag:Xu" />
         <option value="package:mine tag:X" />
-        <option value="package:mine t" />
-        <option value="package:com.aaecosys.apac_leo tag:LunaEventV3" />
-        <option value="package:com.aaecosys.apac_leo " />
-        <option value="package:com.aaecosys.apac_leo c" />
-        <option value="package:com.xingzhi.robot" />
-        <option value="package:mine -tag:M" />
-        <option value="package:mine -ta" />
-        <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
-        <option value="package:mine tag:LockFirmwareUpdateViewModel " />
-        <option value="package:mine tag:L" />
-        <option value="package:mine ta" />
       </list>
     </option>
   </component>

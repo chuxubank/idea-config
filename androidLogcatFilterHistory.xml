@@ -16,9 +16,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
+    <option name="mostRecentlyUsed" value="package:mine handshake" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine handshake" />
+        <option value="package:mine h" />
         <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
         <option value="package:com.aaecosys.apac_leo tag:L" />
         <option value="package:com.aaecosys.apac_leo tag:l" />
@@ -37,8 +39,6 @@
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -t" />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 -tag:EMASN" />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 -tag:E" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 -tag:N" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 -t" />
       </list>
     </option>
   </component>

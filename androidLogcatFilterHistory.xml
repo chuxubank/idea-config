@@ -16,9 +16,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub " />
+    <option name="mostRecentlyUsed" value="package:mine tag:RxAliMqtt " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:RxAliMqtt " />
+        <option value="package:mine tag:R" />
+        <option value="package:mine t" />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub " />
         <option value="package:mine handshake" />
         <option value="package:mine h" />
@@ -36,9 +39,6 @@
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel " />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:L" />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub t" />
-        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:p" />
-        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -t" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 -tag:EMASN" />
       </list>
     </option>
   </component>

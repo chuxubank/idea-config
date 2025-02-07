@@ -1,6 +1,5 @@
 <application>
   <component name="KotlinRefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
-    <option name="MOVE_DELETE_EMPTY_SOURCE_FILES" value="false" />
   </component>
 </application>

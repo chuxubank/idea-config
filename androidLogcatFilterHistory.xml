@@ -16,29 +16,29 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub" />
+    <option name="mostRecentlyUsed" value="package:mine tag:com.aaecosystem.luna.Luna tag:ChinaPrivacyConsentHandler " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:com.aaecosystem.luna.Luna tag:ChinaPrivacyConsentHandler " />
+        <option value="package:mine tag:com.aaecosystem.luna.Luna o tag:ChinaPrivacyConsentHandler " />
+        <option value="package:mine tag:com.aaecosystem.luna.Luna tag:P" />
+        <option value="package:mine tag:com.aaecosystem.luna.Luna t" />
+        <option value="package:mine tag:com.aaecosystem.luna.Luna " />
+        <option value="package:mine tag:L" />
+        <option value="package:mine t" />
+        <option value="package:mine " />
+        <option value="package:mine init w" />
+        <option value="package:mine i" />
+        <option value="package:mine" />
         <option value="package:mine -tag:" />
         <option value="package:mine -t" />
-        <option value="package:mine " />
         <option value="package:mine tag:RxAliMqtt " />
         <option value="package:mine tag:R" />
-        <option value="package:mine t" />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub " />
         <option value="package:mine handshake" />
         <option value="package:mine h" />
         <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
         <option value="package:com.aaecosys.apac_leo tag:L" />
-        <option value="package:com.aaecosys.apac_leo tag:l" />
-        <option value="package:com.aaecosys.apac_leo t" />
-        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel" />
-        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel package:" />
-        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel package:com.aaecosys.apac_leo " />
-        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel package:l" />
-        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel package:a" />
-        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel pa" />
-        <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub tag:LockFirmwareUpdateViewModel " />
       </list>
     </option>
   </component>

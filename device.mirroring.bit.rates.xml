@@ -12,15 +12,11 @@
         <entry key="ONYX|Leaf3C|arm64-v8a|30">
           <value>
             <BitRateTracker>
-              <option name="bitRate" value="5000000" />
+              <option name="bitRate" value="2000000" />
               <candidates>
                 <CandidateBitRate>
-                  <option name="bitRate" value="2000000" />
-                  <option name="score" value="668" />
-                </CandidateBitRate>
-                <CandidateBitRate>
                   <option name="bitRate" value="1000000" />
-                  <option name="score" value="334" />
+                  <option name="score" value="588" />
                 </CandidateBitRate>
               </candidates>
             </BitRateTracker>

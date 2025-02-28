@@ -16,9 +16,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:com.aaecosystem.luna.Luna tag:GlobalPrivacyConsentHandler " />
+    <option name="mostRecentlyUsed" value="package:mine capabilities" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine capabilities" />
+        <option value="package:mine capability" />
         <option value="package:mine " />
         <option value="package:mine tag:com.aaecosystem.luna.Luna tag:GlobalPrivacyConsentHandler " />
         <option value="package:mine tag:com.aaecosystem.luna.Luna tag:P" />
@@ -37,8 +39,6 @@
         <option value="package:mine tag:R" />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub " />
         <option value="package:mine handshake" />
-        <option value="package:mine h" />
-        <option value="package:com.aaecosys.apac_leo tag:LockFirmwareUpdateViewModel " />
       </list>
     </option>
   </component>

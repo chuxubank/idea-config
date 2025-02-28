@@ -16,17 +16,18 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine capabilities" />
+    <option name="mostRecentlyUsed" value="package:mine tag:com.aaecosystem.luna.model.Lock " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:com.aaecosystem.luna.model.Lock " />
+        <option value="package:mine tag:L" />
+        <option value="package:mine t" />
+        <option value="package:mine " />
         <option value="package:mine capabilities" />
         <option value="package:mine capability" />
-        <option value="package:mine " />
         <option value="package:mine tag:com.aaecosystem.luna.Luna tag:GlobalPrivacyConsentHandler " />
         <option value="package:mine tag:com.aaecosystem.luna.Luna tag:P" />
         <option value="package:mine tag:com.aaecosystem.luna.Luna t" />
-        <option value="package:mine tag:L" />
-        <option value="package:mine t" />
         <option value="package:mine tag:com.aaecosystem.luna.Luna " />
         <option value="package:mine tag:com.aaecosystem.luna.Luna tag:ChinaPrivacyConsentHandler " />
         <option value="package:mine tag:com.aaecosystem.luna.Luna o tag:ChinaPrivacyConsentHandler " />
@@ -38,7 +39,6 @@
         <option value="package:mine tag:RxAliMqtt " />
         <option value="package:mine tag:R" />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub " />
-        <option value="package:mine handshake" />
       </list>
     </option>
   </component>

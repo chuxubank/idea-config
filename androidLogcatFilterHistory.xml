@@ -16,18 +16,19 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine IterateChildrenExtension" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine IterateChildrenExtension" />
+        <option value="package:mine " />
+        <option value="package:mine tag:com.aaecosystem.luna.ui.settings.LockSettingsActivity " />
+        <option value="package:mine tag:L" />
         <option value="package:mine t" />
+        <option value="package:mine Get s" />
+        <option value="package:mine G" />
+        <option value="package:mine IterateChildrenExtension" />
         <option value="package:mine" />
         <option value="package:mine [Settings.UpdateFlow]" />
-        <option value="package:mine tag:com.aaecosystem.luna.ui.settings.LockSettingsActivity " />
         <option value="package:mine tag:Lo" />
-        <option value="package:mine " />
         <option value="package:mine tag:com.aaecosystem.luna.model.Lock " />
-        <option value="package:mine tag:L" />
         <option value="package:mine capabilities" />
         <option value="package:mine capability" />
         <option value="package:mine tag:com.aaecosystem.luna.Luna tag:GlobalPrivacyConsentHandler " />
@@ -37,8 +38,6 @@
         <option value="package:mine tag:com.aaecosystem.luna.Luna tag:ChinaPrivacyConsentHandler " />
         <option value="package:mine tag:com.aaecosystem.luna.Luna o tag:ChinaPrivacyConsentHandler " />
         <option value="package:mine init w" />
-        <option value="package:mine i" />
-        <option value="package:mine -tag:" />
       </list>
     </option>
   </component>

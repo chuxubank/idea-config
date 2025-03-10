@@ -4,6 +4,21 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1741597240169">Why is SwitchCompat is never reachable?</historyEntry>
+        <historyEntry timestamp="1741596598179">Make suggestions to improve this code:
+```kotlin
+/**
+ * Set view's color
+ */
+@Suppress(&quot;DEPRECATION&quot;)
+private fun View.setColor(color: Int) {
+    when (this) {
+        is RippleTitleValueView -&gt; this.setColor(color)
+        is TextView -&gt; this.setTextColor(color)
+        is SwitchCompat -&gt; this.setTextColor(Color.RED)
+    }
+}
+```</historyEntry>
         <historyEntry timestamp="1732714958599">Make suggestions to improve this code:
 rememberRipple</historyEntry>
         <historyEntry timestamp="1732680785476">Explain the following code: 

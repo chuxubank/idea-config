@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
         <option value="package:com.xingzhi.robot -tag:StrictMode" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState tag:ControlListViewModel " />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo " />
@@ -16,12 +16,19 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:com.aaecosystem.luna.ui.settings.LockSettingsActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:com.aaecosystem.luna.ui.settings.LockSettingsActivity " />
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:L" />
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 ta" />
+        <option value="package:mine -tag:R" />
+        <option value="package:mine -t" />
+        <option value="package:mine t" />
+        <option value="package:mine R" />
         <option value="package:mine " />
         <option value="package:mine tag:com.aaecosystem.luna.ui.settings.LockSettingsActivity " />
         <option value="package:mine tag:L" />
-        <option value="package:mine t" />
         <option value="package:mine Get s" />
         <option value="package:mine G" />
         <option value="package:mine IterateChildrenExtension" />
@@ -32,12 +39,6 @@
         <option value="package:mine capabilities" />
         <option value="package:mine capability" />
         <option value="package:mine tag:com.aaecosystem.luna.Luna tag:GlobalPrivacyConsentHandler " />
-        <option value="package:mine tag:com.aaecosystem.luna.Luna tag:P" />
-        <option value="package:mine tag:com.aaecosystem.luna.Luna t" />
-        <option value="package:mine tag:com.aaecosystem.luna.Luna " />
-        <option value="package:mine tag:com.aaecosystem.luna.Luna tag:ChinaPrivacyConsentHandler " />
-        <option value="package:mine tag:com.aaecosystem.luna.Luna o tag:ChinaPrivacyConsentHandler " />
-        <option value="package:mine init w" />
       </list>
     </option>
   </component>

@@ -16,9 +16,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:com.aaecosystem.luna.ui.settings.LockSettingsActivity " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:com.aaecosystem.luna.ui.settings.LockSettingsActivity " />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:L" />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 ta" />
@@ -32,7 +33,6 @@
         <option value="package:mine Get s" />
         <option value="package:mine G" />
         <option value="package:mine IterateChildrenExtension" />
-        <option value="package:mine" />
         <option value="package:mine [Settings.UpdateFlow]" />
         <option value="package:mine tag:Lo" />
         <option value="package:mine tag:com.aaecosystem.luna.model.Lock " />

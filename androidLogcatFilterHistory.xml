@@ -16,9 +16,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 handshake" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2" />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 handshake" />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 h" />
         <option value="package:mine -tag:M" />
@@ -38,7 +39,6 @@
         <option value="package:mine R" />
         <option value="package:mine Get s" />
         <option value="package:mine IterateChildrenExtension" />
-        <option value="package:mine [Settings.UpdateFlow]" />
       </list>
     </option>
   </component>

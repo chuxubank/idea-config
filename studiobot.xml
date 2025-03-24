@@ -4,6 +4,39 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1742785397416">I'm getting the following error while building my project. The error is: cannot find symbol method save(UserData[])
+```
+$ ./gradlew :app:compileYaleDebugJavaWithJavac
+/Users/xuchu1/Developer/AA/luna/app/src/main/java/com/aaecosystem/luna/model/Lock.java:1066: error: cannot find symbol
+        DatabaseSyncProxy.save(lockUserData.toArray(new UserData[0]));
+                         ^
+  symbol:   method save(UserData[])
+  location: class DatabaseSyncProxy
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1742785263555">If a I have a class extand BaseModel, can data.javaClass get the real class type?</historyEntry>
+        <historyEntry timestamp="1742784925483">List&lt;UserData&gt; lockUserData = new ArrayList&lt;&gt;(lockUserInfoData.size());
+        for (int i = 0; i &lt; lockUserInfoData.size(); i++) {
+            UserData userData = new UserData(lockUserInfoData.get(i));
+            User inDB = User.getFromDB(userData.getUserID());
+            if (inDB == null) {
+                lockUserData.add(userData);
+            }
+        }
+
+change list to array</historyEntry>
+        <historyEntry timestamp="1742784750386">@Table(database = ModelDatabase.class)
+public class UserData extends BaseModel {</historyEntry>
+        <historyEntry timestamp="1742784650582">@SuppressLint(&quot;CheckResult&quot;)
+    @Deprecated(&quot;This is Rxjava compatibility function, will need to migrate to coroutine-based api&quot;)
+    @JvmStatic
+    fun &lt;T : BaseModel&gt; save(vararg data: T) = kotlin.runCatching {
+        rxSingle {
+            DatabaseSyncUtility.save(*data)
+        }.blockingGet()
+    }.onFailure {
+        LOG.error(&quot;Error save data&quot;, it)
+    }</historyEntry>
         <historyEntry timestamp="1742784506949">I'm getting the following error while building my project. The error is: cannot find symbol method save(UserData[])
 ```
 $ ./gradlew :app:compileYaleDebugJavaWithJavac

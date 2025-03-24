@@ -4,6 +4,16 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1742784506949">I'm getting the following error while building my project. The error is: cannot find symbol method save(UserData[])
+```
+$ ./gradlew :app:compileYaleDebugJavaWithJavac
+/Users/xuchu1/Developer/AA/luna/app/src/main/java/com/aaecosystem/luna/model/Lock.java:1066: error: cannot find symbol
+        DatabaseSyncProxy.save(lockUserData.toArray(new UserData[0]));
+                         ^
+  symbol:   method save(UserData[])
+  location: class DatabaseSyncProxy
+```
+How do I fix this?</historyEntry>
         <historyEntry timestamp="1741597240169">Why is SwitchCompat is never reachable?</historyEntry>
         <historyEntry timestamp="1741596598179">Make suggestions to improve this code:
 ```kotlin

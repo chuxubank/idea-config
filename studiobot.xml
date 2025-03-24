@@ -4,6 +4,16 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1742786687106">I'm getting the following error while building my project. The error is: cannot find symbol method saveAll(Class&lt;UserData&gt;,List&lt;UserData&gt;)
+```
+$ ./gradlew :app:compileYaleDebugJavaWithJavac
+/Users/xuchu1/Developer/AA/luna/app/src/main/java/com/aaecosystem/luna/model/Lock.java:1066: error: cannot find symbol
+        DatabaseSyncProxy.saveAll(UserData.class, lockUserData);
+                         ^
+  symbol:   method saveAll(Class&lt;UserData&gt;,List&lt;UserData&gt;)
+  location: class DatabaseSyncProxy
+```
+How do I fix this?</historyEntry>
         <historyEntry timestamp="1742785397416">I'm getting the following error while building my project. The error is: cannot find symbol method save(UserData[])
 ```
 $ ./gradlew :app:compileYaleDebugJavaWithJavac

@@ -19,6 +19,7 @@
     <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.xingzhi.robot" />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:Database tag:Lock " />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:Database tag:Lock" />
@@ -38,7 +39,6 @@
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 handshake" />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 h" />
         <option value="package:mine -tag:M" />
-        <option value="package:mine -tag:R" />
       </list>
     </option>
   </component>

@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub" />
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
         <option value="package:com.xingzhi.robot -tag:StrictMode" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState tag:ControlListViewModel " />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo " />
@@ -19,26 +19,26 @@
     <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.xingzhi.robot" />
+        <option value="package:com.xingzhi.robot " />
+        <option value="package:com.xingzhi.robot level:debug " />
+        <option value="package:com.xingzhi.robot leve" />
         <option value="package:mine " />
+        <option value="package:mine tag:PCRepository " />
+        <option value="package:mine tag:P" />
+        <option value="package:mine tag:R" />
+        <option value="package:mine t" />
+        <option value="package:com.xingzhi.robot" />
+        <option value="package:mine P" />
+        <option value="package:com.xingzhi.robot tag:PCRepository " />
+        <option value="package:com.xingzhi.robot tag:P" />
+        <option value="package:com.xingzhi.robot tag:R" />
+        <option value="package:com.xingzhi.robot t" />
+        <option value="package:mine tag:PC" />
+        <option value="package:mine tag:DebugViewModel " />
+        <option value="package:mine tag:D" />
+        <option value="package:com.xingzhi.robot tag:C" />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:Database tag:Lock " />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:Database tag:Lock" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:Databas tag:L" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:Databas tag:J" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:Databas t" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:Databas" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:D" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 t" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:DatabaseSyncProxy tag:DatabaseSyncUtility " />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:DatabaseSyncProxy tag:D" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:DatabaseSyncProxy t" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:S" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:DatabaseSyncProxy " />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 tag:P" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 handshake" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 h" />
-        <option value="package:mine -tag:M" />
       </list>
     </option>
   </component>

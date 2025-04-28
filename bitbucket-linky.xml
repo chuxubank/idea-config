@@ -9,4 +9,18 @@
     <lookup />
   </component>
   <component name="Instance" id="664f7bb4-5b1f-4c00-b7d9-e1595da3fd8b" version="2023.1.304" />
+  <component name="UsageLog">
+    <event name="CopyLinkToFile" place="Vcs.FileHistory.ContextMenu" timestamp="2025-04-28T09:14:19.869584Z">
+      <attribute name="editor">false</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+    <event name="OpenFile" place="Vcs.FileHistory.ContextMenu" timestamp="2025-04-28T09:14:25.185143Z">
+      <attribute name="editor">false</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
+  </component>
 </application>

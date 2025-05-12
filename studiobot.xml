@@ -4,6 +4,18 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1747018193984">Explain the following code: 
+```kotlin
+if (result.value.upgradeVersion == Prefs.getUpgradeTargetVersion() &amp;&amp; result.value.upgradeType != UpgradeType.UPGRADE) {
+    val upgradeIgnoreOrLaterTime = Prefs.getUpgradeIgnoreOrLaterTime()
+    val laterTime = TimeUnit.DAYS.toMillis(7L)
+    val currentTime = System.currentTimeMillis()
+    val remainTime = currentTime - upgradeIgnoreOrLaterTime
+    if (upgradeIgnoreOrLaterTime == -1L || remainTime &lt; laterTime) {
+        result.value.upgradeType = UpgradeType.OK
+    }
+}
+```</historyEntry>
         <historyEntry timestamp="1742786687106">I'm getting the following error while building my project. The error is: cannot find symbol method saveAll(Class&lt;UserData&gt;,List&lt;UserData&gt;)
 ```
 $ ./gradlew :app:compileYaleDebugJavaWithJavac

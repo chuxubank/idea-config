@@ -8,9 +8,9 @@
           <option name="name" value="aaecosystem" />
           <option name="scopes">
             <list>
+              <option value="read:jira-user" />
               <option value="read:jira-work" />
               <option value="write:jira-work" />
-              <option value="read:jira-user" />
             </list>
           </option>
           <option name="url" value="https://aaecosystem.atlassian.net" />

@@ -4,6 +4,7 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1749092001037">给 BackgroundSyncTask 添加一个方法，使得我可以等待当前 task 借书</historyEntry>
         <historyEntry timestamp="1748246778288">阅读现有代码，使用 plantuml，描述如何进行 China 和 Global 的代码隔离和插件化。</historyEntry>
       </list>
     </option>

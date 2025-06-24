@@ -19,6 +19,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag:UniversalDeviceSetupViewModel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.assaabloy.yale" />
         <option value="package:mine tag:UniversalDeviceSetupViewModel " />
         <option value="package:mine tag:U" />
         <option value="package:mine t" />
@@ -38,7 +39,6 @@
         <option value="package:com.xingzhi.robot t" />
         <option value="package:mine tag:PC" />
         <option value="package:mine tag:DebugViewModel " />
-        <option value="package:mine tag:D" />
       </list>
     </option>
   </component>

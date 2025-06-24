@@ -16,13 +16,14 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:UserSettingsActivity " />
+    <option name="mostRecentlyUsed" value="package:mine tag:UniversalDeviceSetupViewModel " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:UserSettingsActivity " />
+        <option value="package:mine tag:UniversalDeviceSetupViewModel " />
         <option value="package:mine tag:U" />
         <option value="package:mine t" />
         <option value="package:mine " />
+        <option value="package:mine tag:UserSettingsActivity " />
         <option value="package:com.xingzhi.robot " />
         <option value="package:com.xingzhi.robot level:debug " />
         <option value="package:com.xingzhi.robot leve" />
@@ -38,7 +39,6 @@
         <option value="package:mine tag:PC" />
         <option value="package:mine tag:DebugViewModel " />
         <option value="package:mine tag:D" />
-        <option value="package:com.xingzhi.robot tag:C" />
       </list>
     </option>
   </component>

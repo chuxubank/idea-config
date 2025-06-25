@@ -16,9 +16,12 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:UniversalDeviceSetupViewModel " />
+    <option name="mostRecentlyUsed" value="package:com.assaabloy.yale tag:HouseSettings" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.assaabloy.yale tag:HouseSettings" />
+        <option value="package:com.assaabloy.yale tag:H" />
+        <option value="package:com.assaabloy.yale tag" />
         <option value="package:com.assaabloy.yale" />
         <option value="package:mine tag:UniversalDeviceSetupViewModel " />
         <option value="package:mine tag:U" />
@@ -36,9 +39,6 @@
         <option value="package:com.xingzhi.robot tag:PCRepository " />
         <option value="package:com.xingzhi.robot tag:P" />
         <option value="package:com.xingzhi.robot tag:R" />
-        <option value="package:com.xingzhi.robot t" />
-        <option value="package:mine tag:PC" />
-        <option value="package:mine tag:DebugViewModel " />
       </list>
     </option>
   </component>

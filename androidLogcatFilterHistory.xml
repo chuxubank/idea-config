@@ -16,9 +16,10 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.assaabloy.yale tag:HouseSettings" />
+    <option name="mostRecentlyUsed" value="package:com.assaabloy.yale " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.assaabloy.yale " />
         <option value="package:com.assaabloy.yale tag:HouseSettings" />
         <option value="package:com.assaabloy.yale tag:HouseSettings level:v" />
         <option value="package:com.assaabloy.yale tag:HouseSettings l" />
@@ -38,7 +39,6 @@
         <option value="package:mine tag:P" />
         <option value="package:mine tag:R" />
         <option value="package:com.xingzhi.robot" />
-        <option value="package:mine P" />
       </list>
     </option>
   </component>

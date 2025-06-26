@@ -16,5 +16,8 @@
     <event name="OpenPullRequest" place="unknown" timestamp="2025-06-26T02:53:36.141244Z">
       <attribute name="bitbucket">cloud</attribute>
     </event>
+    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2025-06-26T03:24:33.606329Z">
+      <attribute name="bitbucket">cloud</attribute>
+    </event>
   </component>
 </application>

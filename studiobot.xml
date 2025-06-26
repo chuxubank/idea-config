@@ -5,6 +5,16 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1750901883606">Explain: FATAL EXCEPTION: main
+Process: com.assaabloy.yale, PID: 30338
+java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Void
+at com.aaecosystem.luna.main.house.settings.HouseSettingsViewModel$house$1.invoke(Unknown Source:0)
+at kotlinx.coroutines.flow.FlowKt__TransformKt$onEach$$inlined$unsafeTransform$1$2.emit(Emitters.kt:50) with tag AndroidRuntime</historyEntry>
+        <historyEntry timestamp="1750901594644">Explain: at androidx.compose.ui.platform.AndroidUiDispatcher.performTrampolineDispatch(AndroidUiDispatcher.android.kt:81)
+at androidx.compose.ui.platform.AndroidUiDispatcher.access$performTrampolineDispatch(AndroidUiDispatcher.android.kt:41)
+at androidx.compose.ui.platform.AndroidUiDispatcher$dispatchCallback$1.run(AndroidUiDispatcher.android.kt:57)
+at android.os.Handler.handleCallback(Handler.java:959)
+at android.os.Handler.dispatchMessage(Handler.java:100) with tag AndroidRuntime</historyEntry>
         <historyEntry timestamp="1749092001037">给 BackgroundSyncTask 添加一个方法，使得我可以等待当前 task 借书</historyEntry>
         <historyEntry timestamp="1748246778288">阅读现有代码，使用 plantuml，描述如何进行 China 和 Global 的代码隔离和插件化。</historyEntry>
       </list>

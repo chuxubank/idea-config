@@ -5,6 +5,11 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1751532209689">Explain: FATAL EXCEPTION: main
+Process: com.assaabloy.yale, PID: 4851
+kotlinx.serialization.MissingFieldException: Field 'houseId' is required for type with serial name 'com.aaecosystem.luna.main.house.settings.navigation.HouseSettingsRoute', but it was missing
+at kotlinx.serialization.internal.PluginExceptionsKt.throwMissingFieldException(PluginExceptions.kt:20)
+at com.aaecosystem.luna.main.house.settings.navigation.HouseSettingsRoute.&lt;init&gt;(HouseSettingsNavigation.kt:12) with tag AndroidRuntime</historyEntry>
         <historyEntry timestamp="1750901883606">Explain: FATAL EXCEPTION: main
 Process: com.assaabloy.yale, PID: 30338
 java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Void

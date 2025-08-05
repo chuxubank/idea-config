@@ -5,6 +5,67 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754354286372">Explain the following code: 
+```java
+public Flowable&lt;Lock&gt; openBLConnection(@Nullable User asUser,
+                                       final AAEcosystemBluetoothManager.ConnectionOptions getGetConnectionOptions) {
+    LOG.debug(&quot;openBLConnection for lock {}&quot;, identifier);
+    if (asUser == null) {
+        asUser = User.currentUser();
+    }
+    final User user = asUser;
+
+    if (bluetoothUpdatesSubject == null) {
+        /// Create a signal that will pass all of the information about the lock's bluetooth state
+        // to the subscriber.
+        bluetoothUpdatesSubject = BehaviorProcessor.create();
+        bluetoothUpdatesSubject.onNext(this);
+    }
+
+    return Flowable.create(subscriber -&gt; {
+        /// First make sure that the information for this lock is available in the PeripheralInfoCache
+        /// that the AAEcosystemBluetoothManager depends on.
+        LockInfo info = PeripheralInfoCache.getInstance().getLockInfo(identifier);
+        if (info == null) {
+            info = createLockInfo();
+            PeripheralInfoCache.getInstance().putPeripheralInfo(info);
+        }
+
+        try {
+            bluetoothUpdatesSubject.subscribe(subscriber::onNext);
+        } catch (Exception e) {
+            bluetoothUpdatesSubject.onError(e);
+        }
+        CompatBluetoothProxy.getInstance()
+                .addListener(Lock.this); // so we get updates on progress during getStreamConnection
+        LOG.info(&quot;Getting Bluetooth connection from openBLConnection Observable for lock {}&quot;,
+                AAEcosystemUtils.idLogHash(Lock.this.getID()));
+        CompatBluetoothProxy.getInstance()
+                .getConnection(identifier, getGetConnectionOptions, Lock.this);
+    }, BackpressureStrategy.LATEST);
+}
+```</historyEntry>
+        <historyEntry timestamp="1754354008059">Explain the following code: 
+```java
+lock.getBluetoothConnectionOnce(null)
+.delaySubscription(300, TimeUnit.MILLISECONDS)
+.retry((retryCount, throwable) -&gt; {
+    LOG.debug(&quot;Connection to {} failed due to {}. This was attempt #{}&quot;, AAEcosystemUtils.idLogHash(lock.getID()), throwable.getLocalizedMessage(), retryCount);
+    AuAux.debugNotif(this, &quot;Connection failed at attempt &quot; + retryCount, ++AuAux.debugNotifId);
+    if (retryCount &gt;= 360 &amp;&amp; !completed &amp;&amp; !giveUpTime.isBeforeNow()) {
+        new LunaEvent(&quot;Auto-Unlock&quot;).putCustomAttribute(&quot;UNLOCK_OP&quot;, &quot;Failure to connect&quot;).logThis();
+    }
+    return retryCount &lt; 360 &amp;&amp; !completed &amp;&amp; giveUpTime.isAfterNow();
+})
+.onErrorResumeNext(throwable -&gt; {
+    LOG.error(&quot;AutoOpen get Connection is failed, &quot;, throwable);
+    new LunaEvent(&quot;Auto-Unlock&quot;).putCustomAttribute(&quot;UNLOCK_OP&quot;, &quot;Failure within 15 mins&quot;).logThis();
+    AutoUnlockModel autoUnlockModel = new AutoUnlockModel(lock.getID(), lock.getModuleSerialNumber(), lock.getSku(), lock.getBattery());
+    AutoUnlockKibanaMetrics.autoUnlockMetrics(AutoUnlockEventType.AG_AUTO_UNLOCK_BLUETOOTH_CONNECTION_FAILURE, autoUnlockModel);
+    return Single.just(lock);
+})
+.blockingGet();
+```</historyEntry>
         <historyEntry timestamp="1751532209689">Explain: FATAL EXCEPTION: main
 Process: com.assaabloy.yale, PID: 4851
 kotlinx.serialization.MissingFieldException: Field 'houseId' is required for type with serial name 'com.aaecosystem.luna.main.house.settings.navigation.HouseSettingsRoute', but it was missing

@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub" />
         <option value="package:com.xingzhi.robot -tag:StrictMode" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState tag:ControlListViewModel " />
@@ -16,29 +16,29 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:HouseSettingsViewModel tag:ModelChangeOnSubscribe " />
+    <option name="mostRecentlyUsed" value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:" />
+        <option value="package:mine" />
+        <option value="package:mine [BLE] Error:" />
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 a" />
+        <option value="package:mine -tag:M" />
+        <option value="package:mine -t" />
+        <option value="package:mine tag:Geo tag:AutoUnlock tag:AU" />
+        <option value="package:mine tag:Geo tag:AutoUnlock tag:A" />
+        <option value="package:mine tag:Geo tag:AutoUnlock t" />
+        <option value="package:mine tag:Geo tag:A" />
+        <option value="package:mine tag:Geo t" />
+        <option value="package:mine tag:Geo" />
+        <option value="package:mine tag:G" />
+        <option value="package:mine tag:com.aaecosystem.luna.autounlock.GeofenceBroadcastReceiver " />
+        <option value="package:mine t" />
         <option value="package:mine tag:HouseSettingsViewModel tag:ModelChangeOnSubscribe " />
         <option value="package:mine tag:HouseSettingsViewModel tag:M" />
         <option value="package:mine tag:HouseSettingsViewModel t" />
         <option value="package:mine tag:HouseSettingsViewModel " />
-        <option value="package:mine tag:H" />
-        <option value="package:mine tag" />
-        <option value="package:mine " />
-        <option value="package:mine tag:L" />
-        <option value="package:mine ta" />
-        <option value="package:com.assaabloy.yale tag:HouseSettingsViewModel " />
-        <option value="package:com.assaabloy.yale tag:HouseS" />
-        <option value="package:com.assaabloy.yale tag:H" />
-        <option value="package:com.assaabloy.yale t" />
-        <option value="package:com.assaabloy.yale " />
-        <option value="package:com.assaabloy.yale tag:HouseSettings" />
-        <option value="package:com.assaabloy.yale tag:HouseSettings level:v" />
-        <option value="package:com.assaabloy.yale tag:HouseSettings l" />
-        <option value="package:com.assaabloy.yale tag:HouseSettings t" />
-        <option value="package:com.assaabloy.yale tag" />
-        <option value="package:com.assaabloy.yale" />
       </list>
     </option>
   </component>

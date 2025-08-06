@@ -4,6 +4,46 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754465439546">I'm getting the following error while building my project. The error is: KSP failed with exit code: PROCESSING_ERROR
+```
+Execution failed for task ':app:kspYaleDebugKotlin'.
+&gt; A failure occurred while executing com.google.devtools.ksp.gradle.KspAAWorkerAction
+   &gt; KSP failed with exit code: PROCESSING_ERROR
+
+* Try:
+&gt; Run with --info or --debug option to get more log output.
+&gt; Run with --scan to get full insights.
+&gt; Get more help at https://help.gradle.org.
+
+* Exception is:
+...
+Caused by: java.lang.Exception: KSP failed with exit code: PROCESSING_ERROR
+	at com.google.devtools.ksp.gradle.KspAAWorkerAction.execute(KspAATask.kt:606)
+	at org.gradle.workers.internal.DefaultWorkerServer.execute(DefaultWorkerServer.java:63)
+	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:66)
+	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:62)
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1754464983472">I'm getting the following error while building my project. The error is: unexpected jvm signature V
+```
+Execution failed for task ':core:db:kspDebugKotlin'.
+&gt; A failure occurred while executing com.google.devtools.ksp.gradle.KspAAWorkerAction
+   &gt; unexpected jvm signature V
+
+* Try:
+&gt; Run with --info or --debug option to get more log output.
+&gt; Run with --scan to get full insights.
+&gt; Get more help at https://help.gradle.org.
+
+* Exception is:
+...
+Caused by: java.lang.IllegalStateException: unexpected jvm signature V
+	at androidx.room.compiler.processing.javac.kotlin.JvmDescriptorUtilsKt.typeNameFromJvmSignature(JvmDescriptorUtils.kt:105)
+	at androidx.room.compiler.processing.ksp.KSTypeJavaPoetExtKt.asJTypeName(KSTypeJavaPoetExt.kt:110)
+	at androidx.room.compiler.processing.ksp.KSTypeJavaPoetExtKt.asJTypeName(KSTypeJavaPoetExt.kt:194)
+	at androidx.room.compiler.processing.ksp.KSTypeJavaPoetExtKt.asJTypeName(KSTypeJavaPoetExt.kt:170)
+```
+How do I fix this?</historyEntry>
         <historyEntry timestamp="1754463121739">Yes, do it</historyEntry>
         <historyEntry timestamp="1754462991123">Read CameraLiveStreamViewModel and see the code</historyEntry>
         <historyEntry timestamp="1754462903291">I'm getting the following error while building my project. The error is: [ksp] dagger.internal.codegen.base.DaggerSuperficialValidation$ValidationException$UnexpectedException:

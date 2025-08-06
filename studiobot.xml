@@ -1,10 +1,53 @@
 <application>
   <component name="StudioBotSettings">
     <option name="contextSharingModeV2" value="AlwaysShare" />
-    <option name="dasherProductVariant" value="Free" />
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754463121739">Yes, do it</historyEntry>
+        <historyEntry timestamp="1754462991123">Read CameraLiveStreamViewModel and see the code</historyEntry>
+        <historyEntry timestamp="1754462903291">I'm getting the following error while building my project. The error is: [ksp] dagger.internal.codegen.base.DaggerSuperficialValidation$ValidationException$UnexpectedException:
+```
+$ ./gradlew :app:kspGatemanDebugKotlin
+[ksp] dagger.internal.codegen.base.DaggerSuperficialValidation$ValidationException$UnexpectedException:
+  Validation trace:
+    =&gt; element (CLASS): com.aaecosystem.luna.cameras.livestream.viewmodel.CameraLiveStreamViewModel
+    =&gt; element (FIELD): audioManagerEvents
+	at dagger.internal.codegen.base.DaggerSuperficialValidation$ValidationException.from(DaggerSuperficialValidation.java:538)
+	at dagger.internal.codegen.base.DaggerSuperficialValidation$ValidationException.access$100(DaggerSuperficialValidation.java:502)
+	at dagger.internal.codegen.base.DaggerSuperficialValidation.validateTypeOf(DaggerSuperficialValidation.java:144)
+	at dagger.internal.codegen.base.DaggerSuperficialValidation.validateElement(DaggerSuperficialValidation.java:308)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at dagger.internal.codegen.base.DaggerSuperficialValidation.validateElements(DaggerSuperficialValidation.java:252)
+...
+Caused by: java.lang.NullPointerException
+	at com.google.devtools.ksp.symbol.impl.kotlin.KSDeclarationImpl$simpleName$2.invoke(KSDeclarationImpl.kt:35)
+	at com.google.devtools.ksp.symbol.impl.kotlin.KSDeclarationImpl$simpleName$2.invoke(KSDeclarationImpl.kt:34)
+	at kotlin.SynchronizedLazyImpl.getValue(LazyJVM.kt:83)
+	at com.google.devtools.ksp.symbol.impl.kotlin.KSDeclarationImpl.getSimpleName(KSDeclarationImpl.kt:34)
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1754462903291">I'm getting the following error while building my project. The error is: [ksp] dagger.internal.codegen.base.DaggerSuperficialValidation$ValidationException$UnexpectedException:
+```
+$ ./gradlew :app:kspGatemanDebugKotlin
+[ksp] dagger.internal.codegen.base.DaggerSuperficialValidation$ValidationException$UnexpectedException:
+  Validation trace:
+    =&gt; element (CLASS): com.aaecosystem.luna.cameras.livestream.viewmodel.CameraLiveStreamViewModel
+    =&gt; element (FIELD): audioManagerEvents
+	at dagger.internal.codegen.base.DaggerSuperficialValidation$ValidationException.from(DaggerSuperficialValidation.java:538)
+	at dagger.internal.codegen.base.DaggerSuperficialValidation$ValidationException.access$100(DaggerSuperficialValidation.java:502)
+	at dagger.internal.codegen.base.DaggerSuperficialValidation.validateTypeOf(DaggerSuperficialValidation.java:144)
+	at dagger.internal.codegen.base.DaggerSuperficialValidation.validateElement(DaggerSuperficialValidation.java:308)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at dagger.internal.codegen.base.DaggerSuperficialValidation.validateElements(DaggerSuperficialValidation.java:252)
+...
+Caused by: java.lang.NullPointerException
+	at com.google.devtools.ksp.symbol.impl.kotlin.KSDeclarationImpl$simpleName$2.invoke(KSDeclarationImpl.kt:35)
+	at com.google.devtools.ksp.symbol.impl.kotlin.KSDeclarationImpl$simpleName$2.invoke(KSDeclarationImpl.kt:34)
+	at kotlin.SynchronizedLazyImpl.getValue(LazyJVM.kt:83)
+	at com.google.devtools.ksp.symbol.impl.kotlin.KSDeclarationImpl.getSimpleName(KSDeclarationImpl.kt:34)
+```
+How do I fix this?</historyEntry>
         <historyEntry timestamp="1754354286372">Explain the following code: 
 ```java
 public Flowable&lt;Lock&gt; openBLConnection(@Nullable User asUser,

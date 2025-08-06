@@ -4,6 +4,47 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754468083010">Read BaseRecyclerFragment and tell me how to modify</historyEntry>
+        <historyEntry timestamp="1754467645186">I'm getting the following error while building my project. The error is: type argument VM#1 is not within bounds of type-variable VM#2
+where VM#1,K#1,V#1,VM#2,K#2,V#2 are type-variables:
+VM#1 extends IRecyclerDataObservable&lt;ListContainer&lt;ListItemModel&lt;K#1,V#1&gt;&gt;&gt;,UserActionObserver&lt;K#1,V#1&gt; declared in class Hilt_AlarmAccessScheduleFragment
+K#1 extends Object declared in class Hilt_AlarmAccessScheduleFragment
+V#1 extends Object declared in class Hilt_AlarmAccessScheduleFragment
+VM#2 extends IRecyclerDataObservable&lt;ListContainer&lt;ListItemModel&lt;K#2,? extends V#2&gt;&gt;&gt;,UserA
+```
+$ ./gradlew :app:compileYaleDebugJavaWithJavac
+/Users/xuchu1/Developer/AA/luna/app/build/generated/ksp/yaleDebug/java/com/aaecosystem/luna/ui/settings/accessManagement/alarmaccessschedule/view/Hilt_AlarmAccessScheduleFragment.java:31: error: type argument VM#1 is not within bounds of type-variable VM#2
+public abstract class Hilt_AlarmAccessScheduleFragment&lt;K, V, VH extends BaseListItemModelViewHolder&lt;K, V&gt;, VM extends IRecyclerDataObservable&lt;BaseRecyclerFragment.ListContainer&lt;ListItemModel&lt;K, V&gt;&gt;&gt; &amp; UserActionObserver&lt;K, V&gt;&gt; extends BaseRecyclerFragment&lt;K, V, VH, VM&gt; implements GeneratedComponentManagerHolder {
+                                                                                                                                                                                                                                                                          ^
+  where VM#1,K#1,V#1,VM#2,K#2,V#2 are type-variables:
+    VM#1 extends IRecyclerDataObservable&lt;ListContainer&lt;ListItemModel&lt;K#1,V#1&gt;&gt;&gt;,UserActionObserver&lt;K#1,V#1&gt; declared in class Hilt_AlarmAccessScheduleFragment
+    K#1 extends Object declared in class Hilt_AlarmAccessScheduleFragment
+    V#1 extends Object declared in class Hilt_AlarmAccessScheduleFragment
+    VM#2 extends IRecyclerDataObservable&lt;ListContainer&lt;ListItemModel&lt;K#2,? extends V#2&gt;&gt;&gt;,UserActionObserver&lt;K#2,V#2&gt; declared in class BaseRecyclerFragment
+    K#2 extends Object declared in class BaseRecyclerFragment
+    V#2 extends Object declared in class BaseRecyclerFragment
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1754467645186">I'm getting the following error while building my project. The error is: type argument VM#1 is not within bounds of type-variable VM#2
+where VM#1,K#1,V#1,VM#2,K#2,V#2 are type-variables:
+VM#1 extends IRecyclerDataObservable&lt;ListContainer&lt;ListItemModel&lt;K#1,V#1&gt;&gt;&gt;,UserActionObserver&lt;K#1,V#1&gt; declared in class Hilt_AlarmAccessScheduleFragment
+K#1 extends Object declared in class Hilt_AlarmAccessScheduleFragment
+V#1 extends Object declared in class Hilt_AlarmAccessScheduleFragment
+VM#2 extends IRecyclerDataObservable&lt;ListContainer&lt;ListItemModel&lt;K#2,? extends V#2&gt;&gt;&gt;,UserA
+```
+$ ./gradlew :app:compileYaleDebugJavaWithJavac
+/Users/xuchu1/Developer/AA/luna/app/build/generated/ksp/yaleDebug/java/com/aaecosystem/luna/ui/settings/accessManagement/alarmaccessschedule/view/Hilt_AlarmAccessScheduleFragment.java:31: error: type argument VM#1 is not within bounds of type-variable VM#2
+public abstract class Hilt_AlarmAccessScheduleFragment&lt;K, V, VH extends BaseListItemModelViewHolder&lt;K, V&gt;, VM extends IRecyclerDataObservable&lt;BaseRecyclerFragment.ListContainer&lt;ListItemModel&lt;K, V&gt;&gt;&gt; &amp; UserActionObserver&lt;K, V&gt;&gt; extends BaseRecyclerFragment&lt;K, V, VH, VM&gt; implements GeneratedComponentManagerHolder {
+                                                                                                                                                                                                                                                                          ^
+  where VM#1,K#1,V#1,VM#2,K#2,V#2 are type-variables:
+    VM#1 extends IRecyclerDataObservable&lt;ListContainer&lt;ListItemModel&lt;K#1,V#1&gt;&gt;&gt;,UserActionObserver&lt;K#1,V#1&gt; declared in class Hilt_AlarmAccessScheduleFragment
+    K#1 extends Object declared in class Hilt_AlarmAccessScheduleFragment
+    V#1 extends Object declared in class Hilt_AlarmAccessScheduleFragment
+    VM#2 extends IRecyclerDataObservable&lt;ListContainer&lt;ListItemModel&lt;K#2,? extends V#2&gt;&gt;&gt;,UserActionObserver&lt;K#2,V#2&gt; declared in class BaseRecyclerFragment
+    K#2 extends Object declared in class BaseRecyclerFragment
+    V#2 extends Object declared in class BaseRecyclerFragment
+```
+How do I fix this?</historyEntry>
         <historyEntry timestamp="1754466643491">I'm getting the following error while building my project. The error is: [ksp] Ambiguous getter for Property(element=ruleID, name=ruleID, type=String?, affinity=TEXT, collate=null, columnName=ruleID, defaultValue=null, parent=null, indexed=false, nonNull=false). All of the following match: getRuleID, getRuleID. You can @Ignore the ones that you don't want to match.
 ```
 $ ./gradlew :app:kspYaleDebugKotlin

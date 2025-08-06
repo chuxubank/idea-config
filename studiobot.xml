@@ -4,6 +4,22 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754466643491">I'm getting the following error while building my project. The error is: [ksp] Ambiguous getter for Property(element=ruleID, name=ruleID, type=String?, affinity=TEXT, collate=null, columnName=ruleID, defaultValue=null, parent=null, indexed=false, nonNull=false). All of the following match: getRuleID, getRuleID. You can @Ignore the ones that you don't want to match.
+```
+$ ./gradlew :app:kspYaleDebugKotlin
+[ksp] Ambiguous getter for Property(element=ruleID, name=ruleID, type=String?, affinity=TEXT, collate=null, columnName=ruleID, defaultValue=null, parent=null, indexed=false, nonNull=false). All of the following match: getRuleID, getRuleID. You can @Ignore the ones that you don't want to match.
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1754466643490">I'm getting the following error while building my project. The error is: [ksp] Ambiguous getter for Property(element=ruleID, name=ruleID, type=String?, affinity=TEXT, collate=null, columnName=ruleID, defaultValue=null, parent=null, indexed=false, nonNull=false). All of the following match: getRuleID, getRuleID. You can @Ignore the ones that you don't want to match.
+```
+$ ./gradlew :app:kspYaleDebugKotlin
+[ksp] Ambiguous getter for Property(element=ruleID, name=ruleID, type=String?, affinity=TEXT, collate=null, columnName=ruleID, defaultValue=null, parent=null, indexed=false, nonNull=false). All of the following match: getRuleID, getRuleID. You can @Ignore the ones that you don't want to match.
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1754465832428">e: [ksp] Cannot figure out how to save this property into database. You can consider adding a type converter for it. - modelAdapter in com.raizlabs.android.dbflow.structure.BaseModel
+e: [ksp] Cannot find setter for property. - modelAdapter in com.raizlabs.android.dbflow.structure.BaseModel
+e: [ksp] Cannot figure out how to read this property from a statement. - modelAdapter in com.raizlabs.android.dbflow.structure.BaseModel
+e: [ksp] Cannot find setter for property. - modelAdapter in com.raizlabs.android.dbflow.structure.BaseModel</historyEntry>
         <historyEntry timestamp="1754465439546">I'm getting the following error while building my project. The error is: KSP failed with exit code: PROCESSING_ERROR
 ```
 Execution failed for task ':app:kspYaleDebugKotlin'.

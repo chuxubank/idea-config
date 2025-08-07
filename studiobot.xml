@@ -4,6 +4,16 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754557354458">Explain: Failed to get service from broker.
+java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
+at android.os.Parcel.createExceptionOrNull(Parcel.java:3340)
+at android.os.Parcel.createException(Parcel.java:3324)
+at android.os.Parcel.readException(Parcel.java:3307) with tag GoogleApiManager</historyEntry>
+        <historyEntry timestamp="1754557354458">Explain: Failed to get service from broker.
+java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
+at android.os.Parcel.createExceptionOrNull(Parcel.java:3340)
+at android.os.Parcel.createException(Parcel.java:3324)
+at android.os.Parcel.readException(Parcel.java:3307) with tag GoogleApiManager</historyEntry>
         <historyEntry timestamp="1754468083010">Read BaseRecyclerFragment and tell me how to modify</historyEntry>
         <historyEntry timestamp="1754467645186">I'm getting the following error while building my project. The error is: type argument VM#1 is not within bounds of type-variable VM#2
 where VM#1,K#1,V#1,VM#2,K#2,V#2 are type-variables:
@@ -222,7 +232,6 @@ at androidx.compose.ui.platform.AndroidUiDispatcher$dispatchCallback$1.run(Andro
 at android.os.Handler.handleCallback(Handler.java:959)
 at android.os.Handler.dispatchMessage(Handler.java:100) with tag AndroidRuntime</historyEntry>
         <historyEntry timestamp="1749092001037">给 BackgroundSyncTask 添加一个方法，使得我可以等待当前 task 借书</historyEntry>
-        <historyEntry timestamp="1748246778288">阅读现有代码，使用 plantuml，描述如何进行 China 和 Global 的代码隔离和插件化。</historyEntry>
       </list>
     </option>
   </component>

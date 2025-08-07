@@ -16,12 +16,17 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
-        <option value="package:" />
         <option value="package:mine" />
+        <option value="package:mine tag:R" />
+        <option value="package:mine tag:M" />
+        <option value="package:mine t" />
+        <option value="package:mine m" />
+        <option value="package:mine ta" />
+        <option value="package:" />
         <option value="package:mine [BLE] Error:" />
         <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 a" />
         <option value="package:mine -tag:M" />
@@ -34,11 +39,6 @@
         <option value="package:mine tag:Geo" />
         <option value="package:mine tag:G" />
         <option value="package:mine tag:com.aaecosystem.luna.autounlock.GeofenceBroadcastReceiver " />
-        <option value="package:mine t" />
-        <option value="package:mine tag:HouseSettingsViewModel tag:ModelChangeOnSubscribe " />
-        <option value="package:mine tag:HouseSettingsViewModel tag:M" />
-        <option value="package:mine tag:HouseSettingsViewModel t" />
-        <option value="package:mine tag:HouseSettingsViewModel " />
       </list>
     </option>
   </component>

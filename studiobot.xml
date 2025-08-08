@@ -4,6 +4,16 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754616635718">Explain: Could not instantiate com.aaecosystem.luna.database.sync.ConcreteDatabaseSyncWorker
+java.lang.NoSuchMethodException: com.aaecosystem.luna.database.sync.ConcreteDatabaseSyncWorker.&lt;init&gt; [class android.content.Context, class androidx.work.WorkerParameters]
+at java.lang.Class.getConstructor0(Class.java:3385)
+at java.lang.Class.getDeclaredConstructor(Class.java:3067)
+at androidx.work.WorkerFactory.createWorkerWithDefaultFallback(WorkerFactory.java:94) with tag WM-WorkerFactory</historyEntry>
+        <historyEntry timestamp="1754616635718">Explain: Could not instantiate com.aaecosystem.luna.database.sync.ConcreteDatabaseSyncWorker
+java.lang.NoSuchMethodException: com.aaecosystem.luna.database.sync.ConcreteDatabaseSyncWorker.&lt;init&gt; [class android.content.Context, class androidx.work.WorkerParameters]
+at java.lang.Class.getConstructor0(Class.java:3385)
+at java.lang.Class.getDeclaredConstructor(Class.java:3067)
+at androidx.work.WorkerFactory.createWorkerWithDefaultFallback(WorkerFactory.java:94) with tag WM-WorkerFactory</historyEntry>
         <historyEntry timestamp="1754557354458">Explain: Failed to get service from broker.
 java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
 at android.os.Parcel.createExceptionOrNull(Parcel.java:3340)
@@ -231,7 +241,6 @@ at androidx.compose.ui.platform.AndroidUiDispatcher.access$performTrampolineDisp
 at androidx.compose.ui.platform.AndroidUiDispatcher$dispatchCallback$1.run(AndroidUiDispatcher.android.kt:57)
 at android.os.Handler.handleCallback(Handler.java:959)
 at android.os.Handler.dispatchMessage(Handler.java:100) with tag AndroidRuntime</historyEntry>
-        <historyEntry timestamp="1749092001037">给 BackgroundSyncTask 添加一个方法，使得我可以等待当前 task 借书</historyEntry>
       </list>
     </option>
   </component>

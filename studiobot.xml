@@ -4,6 +4,16 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1754893104656">Explain: FATAL EXCEPTION: OkHttp Dispatcher
+Process: com.assaabloy.yale, PID: 26938
+java.lang.IllegalArgumentException: unexpected host: https://static-api.aaecosystem.com/
+at okhttp3.HttpUrl$Builder.host(HttpUrl.kt:961)
+at com.aaecosystem.luna.network.http.StaticHostInterceptor.intercept(StaticHostInterceptor.kt:14) with tag AndroidRuntime</historyEntry>
+        <historyEntry timestamp="1754616635718">Explain: Could not instantiate com.aaecosystem.luna.database.sync.ConcreteDatabaseSyncWorker
+java.lang.NoSuchMethodException: com.aaecosystem.luna.database.sync.ConcreteDatabaseSyncWorker.&lt;init&gt; [class android.content.Context, class androidx.work.WorkerParameters]
+at java.lang.Class.getConstructor0(Class.java:3385)
+at java.lang.Class.getDeclaredConstructor(Class.java:3067)
+at androidx.work.WorkerFactory.createWorkerWithDefaultFallback(WorkerFactory.java:94) with tag WM-WorkerFactory</historyEntry>
         <historyEntry timestamp="1754616635718">Explain: Could not instantiate com.aaecosystem.luna.database.sync.ConcreteDatabaseSyncWorker
 java.lang.NoSuchMethodException: com.aaecosystem.luna.database.sync.ConcreteDatabaseSyncWorker.&lt;init&gt; [class android.content.Context, class androidx.work.WorkerParameters]
 at java.lang.Class.getConstructor0(Class.java:3385)
@@ -236,11 +246,6 @@ Process: com.assaabloy.yale, PID: 30338
 java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Void
 at com.aaecosystem.luna.main.house.settings.HouseSettingsViewModel$house$1.invoke(Unknown Source:0)
 at kotlinx.coroutines.flow.FlowKt__TransformKt$onEach$$inlined$unsafeTransform$1$2.emit(Emitters.kt:50) with tag AndroidRuntime</historyEntry>
-        <historyEntry timestamp="1750901594644">Explain: at androidx.compose.ui.platform.AndroidUiDispatcher.performTrampolineDispatch(AndroidUiDispatcher.android.kt:81)
-at androidx.compose.ui.platform.AndroidUiDispatcher.access$performTrampolineDispatch(AndroidUiDispatcher.android.kt:41)
-at androidx.compose.ui.platform.AndroidUiDispatcher$dispatchCallback$1.run(AndroidUiDispatcher.android.kt:57)
-at android.os.Handler.handleCallback(Handler.java:959)
-at android.os.Handler.dispatchMessage(Handler.java:100) with tag AndroidRuntime</historyEntry>
       </list>
     </option>
   </component>

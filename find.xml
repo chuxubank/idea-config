@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="AND-17427 [Android][CI/CD] Speed up the trigger pr build" />
-    <option name="defaultScopeName" value="AND-17427 [Android][CI/CD] Speed up the trigger pr build" />
-    <option name="SEARCH_SCOPE" value="AND-17427 [Android][CI/CD] Speed up the trigger pr build" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>!*.txt</mask>
     <mask>!*.xml</mask>
     <mask>!*.json</mask>

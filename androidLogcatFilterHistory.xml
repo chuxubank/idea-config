@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
+        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 " />
         <option value="package:mine -tag:RxMqtt2 -tag:EMASN -tag:pubnub" />
         <option value="package:com.xingzhi.robot -tag:StrictMode" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:SipLogAdapter -tag:m.xingzhi.robo tag:RobotDroidAppState tag:ControlListViewModel " />
@@ -16,10 +16,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine -S" />
         <option value="package:mine" />
         <option value="package:mine tag:R" />
         <option value="package:mine tag:M" />
@@ -38,7 +39,6 @@
         <option value="package:mine tag:Geo t" />
         <option value="package:mine tag:Geo" />
         <option value="package:mine tag:G" />
-        <option value="package:mine tag:com.aaecosystem.luna.autounlock.GeofenceBroadcastReceiver " />
       </list>
     </option>
   </component>

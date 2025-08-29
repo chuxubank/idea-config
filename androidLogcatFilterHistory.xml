@@ -16,9 +16,11 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; -tag:ControlRemoteMediator " />
+    <option name="mostRecentlyUsed" value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xingzhi.robot" />
+        <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot;" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; -tag:ControlRemoteMediator " />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; -tag:C" />
         <option value="package:com.xingzhi.robot -tag:StrictMode -tag:&quot;RobotDroid Jank&quot; -t" />
@@ -37,8 +39,6 @@
         <option value="package:mine -tag:M" />
         <option value="package:mine -t" />
         <option value="package:mine tag:Geo tag:AutoUnlock tag:AU" />
-        <option value="package:mine tag:Geo tag:AutoUnlock tag:A" />
-        <option value="package:mine tag:Geo tag:AutoUnlock t" />
       </list>
     </option>
   </component>

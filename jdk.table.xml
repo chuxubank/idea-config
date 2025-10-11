@@ -49,7 +49,7 @@
     <jdk version="2">
       <name value="17" />
       <type value="JavaSDK" />
-      <version value="Eclipse Temurin 21.0.8 - aarch64" />
+      <version value="Oracle OpenJDK 17 - aarch64" />
       <homePath value="$USER_HOME$/.sdkman/candidates/java/current" />
       <roots>
         <annotationsPath>
@@ -91,6 +91,7 @@
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.editpad" type="simple" />
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.hotspot.agent" type="simple" />
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.httpserver" type="simple" />
+            <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.incubator.foreign" type="simple" />
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.incubator.vector" type="simple" />
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.internal.ed" type="simple" />
             <root url="jrt://$USER_HOME$/.sdkman/candidates/java/current!/jdk.internal.jvmstat" type="simple" />

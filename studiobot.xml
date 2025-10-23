@@ -4,6 +4,9 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1761209747770">Use  @CoroutineTest.kt</historyEntry>
+        <historyEntry timestamp="1761209692740">Hello</historyEntry>
+        <historyEntry timestamp="1761207475725">Add unit test for current class</historyEntry>
         <historyEntry timestamp="1761040429965">Explain: FATAL EXCEPTION: main  
 Process: com.assaabloy.yale, PID: 24213  
 java.lang.IllegalStateException: ViewTreeLifecycleOwner not found from androidx.compose.ui.platform.ComposeView{b55d65 V.E...... ......I. 0,0-0,0}  

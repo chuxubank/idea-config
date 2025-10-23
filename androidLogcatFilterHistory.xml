@@ -16,9 +16,14 @@
         <option value="package:mine tag:okhttp.OkHttpClient " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:com.aaecosystem.luna.main.websocket.usecase.RegisterWebSocketUseCase " />
+    <option name="mostRecentlyUsed" value="package:mine tag:TEST" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:TEST" />
+        <option value="package:mine tag:T" />
+        <option value="package:mine tag" />
+        <option value="package:mine tag:RootedDeviceDialogHelper " />
+        <option value="package:mine tag:R" />
         <option value="package:mine -tag:com.aaecosystem.luna.main.websocket.usecase.RegisterWebSocketUseCase " />
         <option value="package:mine -tag:W" />
         <option value="package:mine -ta" />
@@ -31,14 +36,9 @@
         <option value="package:mine " />
         <option value="package:mine -S" />
         <option value="package:mine" />
-        <option value="package:mine tag:R" />
         <option value="package:mine tag:M" />
         <option value="package:mine t" />
         <option value="package:mine m" />
-        <option value="package:mine ta" />
-        <option value="package:" />
-        <option value="package:mine [BLE] Error:" />
-        <option value="package:mine -tag:com.aaecosystem.luna.network.dataStream.RxMqtt2 a" />
       </list>
     </option>
   </component>

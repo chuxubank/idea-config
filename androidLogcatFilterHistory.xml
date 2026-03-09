@@ -1,13 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine le" />
+        <option value="package:mine l" />
+        <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
+        <option value="package:mine tag:HandGame tag:ScriptContainer t" />
+        <option value="package:mine tag:HandGame tag:ScriptContainer " />
         <option value="package:mine " />
+        <option value="package:mine t" />
         <option value="package:mine tag:HandGame " />
         <option value="package:mine tag:H" />
-        <option value="package:mine t" />
         <option value="package:mine  tag:HttpClient" />
-        <option value="package:mine tag:HandGame tag:ScriptContainer " />
         <option value="tag:HandGame tag:ScriptContainer " />
         <option value="package:mine GuessWinCount_" />
         <option value="package:mine tag:HandGame" />

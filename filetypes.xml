@@ -6,6 +6,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp4" type="Native" />
+      <mapping ext="woff2" type="Native" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
       <mapping ext="xcscheme" type="XML" />
       <mapping ext="gpx" type="XML" />

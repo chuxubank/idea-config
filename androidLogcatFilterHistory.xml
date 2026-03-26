@@ -8,6 +8,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine getRecommendedTags" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:Track " />
         <option value="package:mine tag:ChatRepository syncLocal" />

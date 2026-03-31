@@ -10,6 +10,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag:Track " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Track -tag:AudioTrack " />
         <option value="package:mine game.script.habit_guide.0.show" />
         <option value="package:mine" />
         <option value="package:mine level:error " />

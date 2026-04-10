@@ -7,9 +7,11 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:Track " />
+    <option name="mostRecentlyUsed" value="package:com.infinityvalley.iva" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.infinityvalley.iva" />
+        <option value="package:com.infinityvalley.iva " />
         <option value="package:mine tag:Track -tag:AudioTrack " />
         <option value="package:mine game.script.habit_guide.0.show" />
         <option value="package:mine" />
@@ -17,7 +19,6 @@
         <option value="package:mine getRecommendedTags" />
         <option value="package:mine tag:ChatRepository syncLocal" />
         <option value="package:com.wuxiangu.cmp.test" />
-        <option value="package:com.infinityvalley.iva" />
         <option value="package:com.infinityvalley.iva level:error " />
         <option value="package:com.infinityvalley.iva l" />
         <option value="package:com.infinityvalley.iva  " />
@@ -29,7 +30,6 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer " />
         <option value="package:mine t" />
         <option value="package:mine tag:HandGame " />
-        <option value="package:mine tag:H" />
       </list>
     </option>
   </component>

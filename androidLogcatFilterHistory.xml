@@ -7,10 +7,15 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine tag:AppInit  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:AppInit  " />
+        <option value="package:mine tag:AccountManager" />
+        <option value="package:mine freshUserProfile" />
         <option value="package:mine level:error " />
+        <option value="package:mine current app state" />
+        <option value="package:mine current " />
         <option value="package:mine tag:App" />
         <option value="package:mine tag:AppInit " />
         <option value="package:com.infinityvalley.iva" />
@@ -25,11 +30,6 @@
         <option value="package:com.infinityvalley.iva l" />
         <option value="package:com.infinityvalley.iva  " />
         <option value="package:com. " />
-        <option value="package:c " />
-        <option value="package:mine le" />
-        <option value="package:mine l" />
-        <option value="package:mine tag:HandGame tag:ScriptContainer t" />
-        <option value="package:mine tag:HandGame tag:ScriptContainer " />
       </list>
     </option>
   </component>

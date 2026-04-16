@@ -8,7 +8,6 @@
   <action id="ActivatescrcpyToolWindow">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
-  <action id="ChangesView.SetDefault" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="g" />
   </action>

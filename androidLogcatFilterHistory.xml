@@ -7,9 +7,10 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity tag:SplashActivity tag:PermissionHelper " />
+    <option name="mostRecentlyUsed" value="package:com.infinityvalley.iva " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.infinityvalley.iva " />
         <option value="package:mine tag:MainActivity tag:SplashActivity tag:PermissionHelper " />
         <option value="package:mine level:error " />
         <option value="package:mine tag:UE" />
@@ -27,7 +28,6 @@
         <option value="package:mine current " />
         <option value="package:mine tag:App" />
         <option value="package:mine tag:AppInit " />
-        <option value="package:com.infinityvalley.iva " />
         <option value="package:mine tag:Track -tag:AudioTrack " />
         <option value="package:mine game.script.habit_guide.0.show" />
       </list>

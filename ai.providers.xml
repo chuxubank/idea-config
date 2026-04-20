@@ -9,13 +9,199 @@
         <ProviderDetails>
           <option name="description" value="Google AI Studio" />
           <option name="providerType" value="AI_STUDIO" />
-          <option name="providerData" value="&lt;AIStudioProviderData&gt;&#10;  &lt;option name=&quot;apiKey&quot; value=&quot;&quot; /&gt;&#10;&lt;/AIStudioProviderData&gt;" />
+          <option name="providerData" value="&lt;AIStudioProviderData&gt;&#10;  &lt;option name=&quot;defaultApiKey&quot; value=&quot;&quot; /&gt;&#10;&lt;/AIStudioProviderData&gt;" />
         </ProviderDetails>
         <ProviderDetails>
           <option name="description" value="IV" />
-          <option name="lastUpdatedTimestamp" value="1773050972525" />
+          <option name="lastUpdatedTimestamp" value="1776659293537" />
+          <option name="modelList">
+            <list>
+              <ModelDetails>
+                <option name="identifier" value="claude-haiku-4-5-20251001" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-haiku-4-5-20251001" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-4-5-20251101" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-5-20251101" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="claude-opus-4-6" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-6" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="claude-opus-4-7" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-7" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-sonnet-4-5-20250929" />
+                <option name="inputTokenLimit" value="1000000" />
+                <option name="name" value="claude-sonnet-4-5-20250929" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="claude-sonnet-4-6" />
+                <option name="inputTokenLimit" value="1000000" />
+                <option name="name" value="claude-sonnet-4-6" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="deepseek-v3.2" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v3.2" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v3.2-exp" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v3.2-exp" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gemini-2.5-flash" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gemini-2.5-flash" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gemini-2.5-pro" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gemini-2.5-pro" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gemini-3-flash-preview" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gemini-3-flash-preview" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gemini-3-pro-preview" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gemini-3-pro-preview" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="gemini-3.1-pro-preview" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gemini-3.1-pro-preview" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-4o" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gpt-4o" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.1-chat" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.1-chat" />
+                <option name="outputTokenLimit" value="128000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.2-chat" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.2-chat" />
+                <option name="outputTokenLimit" value="128000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.3-chat" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.3-chat" />
+                <option name="outputTokenLimit" value="128000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="gpt-5.3-codex" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.3-codex" />
+                <option name="outputTokenLimit" value="128000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="gpt-5.4" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.4" />
+                <option name="outputTokenLimit" value="128000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.4-mini" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.4-mini" />
+                <option name="outputTokenLimit" value="128000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.4-nano" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.4-nano" />
+                <option name="outputTokenLimit" value="128000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="MiniMax-M2.7" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="MiniMax-M2.7" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="qwen3.6-flash" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="qwen3.6-flash" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="qwen3.6-plus" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="qwen3.6-plus" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+            </list>
+          </option>
           <option name="providerType" value="REMOTE" />
-          <option name="providerData" value="&lt;RemoteProviderData&gt;&#10;  &lt;option name=&quot;apiKey&quot; value=&quot;&quot; /&gt;&#10;  &lt;option name=&quot;apiKeyHeader&quot; value=&quot;&quot; /&gt;&#10;  &lt;option name=&quot;url&quot; value=&quot;https://llm.invalley.co&quot; /&gt;&#10;  &lt;option name=&quot;schema&quot; value=&quot;anthropic&quot; /&gt;&#10;&lt;/RemoteProviderData&gt;" />
+          <option name="providerData" value="&lt;RemoteProviderData&gt;&#10;  &lt;option name=&quot;apiKey&quot; value=&quot;&quot; /&gt;&#10;  &lt;option name=&quot;apiKeyHeader&quot; value=&quot;&quot; /&gt;&#10;  &lt;option name=&quot;url&quot; value=&quot;http://llm.invalley.co/v1&quot; /&gt;&#10;  &lt;option name=&quot;schema&quot; value=&quot;openai&quot; /&gt;&#10;&lt;/RemoteProviderData&gt;" />
         </ProviderDetails>
       </list>
     </option>

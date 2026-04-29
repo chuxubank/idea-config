@@ -1,0 +1,5 @@
+<application>
+  <component name="ContextCompressionSettings">
+    <option name="compressionTokenThresholdPercentage" value="75" />
+  </component>
+</application>

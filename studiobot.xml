@@ -8,6 +8,19 @@
       </ModelIdState>
     </option>
     <option name="contextSharingModeV2" value="AlwaysShare" />
+    <option name="modelOverrides">
+      <map>
+        <entry key="NextEditPrediction">
+          <value>
+            <ModelIdState>
+              <option name="groupName" value="IV CC" />
+              <option name="id" value="claude-haiku-4-5-20251001" />
+              <option name="providerName" value="openai" />
+            </ModelIdState>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="onboardedVersion" value="3" />
     <option name="previewAttachingEnabled" value="true" />
   </component>

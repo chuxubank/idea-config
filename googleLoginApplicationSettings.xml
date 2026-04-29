@@ -6,10 +6,10 @@
         <entry key="chuxubank@gmail.com">
           <value>
             <set>
-              <option value="Backup and Sync" />
-              <option value="GiAS" />
+              <option value="AiCode" />
               <option value="User Info" />
               <option value="Notifications" />
+              <option value="Backup and Sync" />
               <option value="Gemini" />
             </set>
           </value>

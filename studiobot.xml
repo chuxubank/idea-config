@@ -2,8 +2,9 @@
   <component name="StudioBotSettings">
     <option name="chatModelId">
       <ModelIdState>
-        <option name="id" value="&lt;Default&gt;" />
-        <option name="providerName" value="AICode" />
+        <option name="groupName" value="IV Codex" />
+        <option name="id" value="gpt-5.5" />
+        <option name="providerName" value="openai" />
       </ModelIdState>
     </option>
     <option name="contextSharingModeV2" value="AlwaysShare" />

@@ -3,13 +3,15 @@
     <option name="favorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine -tag:qdgralloc -tag:binder" />
         <option value="package:mine tag:Track " />
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:qdgralloc -tag:binder" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:qdgralloc" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:com.infinityvalley.iva" />
@@ -29,7 +31,6 @@
         <option value="package:mine tag:App" />
         <option value="package:mine tag:AppInit " />
         <option value="package:mine tag:Track -tag:AudioTrack " />
-        <option value="package:mine game.script.habit_guide.0.show" />
       </list>
     </option>
   </component>

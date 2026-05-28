@@ -8,9 +8,10 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:qdgralloc -tag:binder" />
+    <option name="mostRecentlyUsed" value="package:mine tag:HttpClient " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HttpClient " />
         <option value="package:mine -tag:qdgralloc" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
@@ -30,7 +31,6 @@
         <option value="package:mine current " />
         <option value="package:mine tag:App" />
         <option value="package:mine tag:AppInit " />
-        <option value="package:mine tag:Track -tag:AudioTrack " />
       </list>
     </option>
   </component>

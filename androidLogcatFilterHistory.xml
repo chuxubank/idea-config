@@ -2,16 +2,17 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine tag:HttpClient " />
         <option value="package:mine " />
+        <option value="package:mine tag:HttpClient " />
         <option value="package:mine -tag:qdgralloc -tag:binder" />
         <option value="package:mine tag:Track " />
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:qdgralloc -tag:binder -tag:Sentry -tag:OTEL" />
+    <option name="mostRecentlyUsed" value="package:mine navEventId" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine navEventId" />
         <option value="package:mine -tag:qdgralloc -tag:binder -tag:Sentry -tag:OTEL" />
         <option value="package:mine" />
         <option value="package:mine -tag:qdgralloc" />
@@ -31,7 +32,6 @@
         <option value="package:mine current app state" />
         <option value="package:mine current " />
         <option value="package:mine tag:App" />
-        <option value="package:mine tag:AppInit " />
       </list>
     </option>
   </component>

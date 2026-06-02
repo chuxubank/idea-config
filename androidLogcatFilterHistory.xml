@@ -9,6 +9,7 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine -tag:qdgralloc -tag:binder" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine navEventId" />

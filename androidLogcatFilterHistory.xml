@@ -9,9 +9,10 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:HttpClient " />
+    <option name="mostRecentlyUsed" value="package:mine tag:AppViewModel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:AppViewModel " />
         <option value="package:mine" />
         <option value="package:mine √√" />
         <option value="package:mine navEventId" />
@@ -31,7 +32,6 @@
         <option value="package:mine tag:AccountManager" />
         <option value="package:mine freshUserProfile" />
         <option value="package:mine current app state" />
-        <option value="package:mine current " />
       </list>
     </option>
   </component>

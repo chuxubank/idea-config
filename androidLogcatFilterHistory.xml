@@ -9,11 +9,12 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:HttpClient " />
+    <option name="mostRecentlyUsed" value="package:mine tag:ChatRepository " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:HomeViewModel-Greeting" />
+        <option value="package:mine tag:ChatRepository " />
         <option value="package:mine tag:" />
+        <option value="package:mine tag:HomeViewModel-Greeting" />
         <option value="package:mine tag:Home" />
         <option value="package:com.infinityvalley.iva tag:ivb " />
         <option value="package:com.infinityvalley.iva " />
@@ -31,7 +32,6 @@
         <option value="package:mine tag:MainActivity " />
         <option value="package:com.infinityvalley.iva level:error " />
         <option value="package:mine tag:AppInit | tag:SplashViewModel " />
-        <option value="package:mine tag:AppInit" />
       </list>
     </option>
   </component>

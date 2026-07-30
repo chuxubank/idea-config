@@ -10,11 +10,13 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:HttpClient " />
+    <option name="mostRecentlyUsed" value="package:mine tag:ImageLoad " />
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:ImageLoad " />
         <option value="package:com.infinityvalley.iva " />
+        <option value="package:com.infinityvalley.iva tag:ue" />
+        <option value="package:com.infinityvalley.iva  " />
         <option value="package:mine tag:UPush" />
         <option value="package:mine tag:Umeng " />
         <option value="package:mine tag:ChatRepository " />
@@ -31,8 +33,6 @@
         <option value="package:mine level:error " />
         <option value="package:com.infinityvalley.iva" />
         <option value="package:mine tag:MainActivity tag:SplashActivity tag:PermissionHelper " />
-        <option value="package:mine tag:UE" />
-        <option value="package:mine tag:MainActivity tag:SplashActivity " />
       </list>
     </option>
   </component>

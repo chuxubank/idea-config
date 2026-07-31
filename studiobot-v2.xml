@@ -1,0 +1,19 @@
+<application>
+  <component name="StudioBotSettingsV2">
+    <option name="currentModelSetId" value="00000000-0000-0000-0000-000000000000" />
+    <option name="modelSets">
+      <list>
+        <ModelSetState>
+          <option name="id" value="00000000-0000-0000-0000-000000000000" />
+        </ModelSetState>
+      </list>
+    </option>
+    <option name="newModelsAvailableProviders">
+      <list>
+        <option value="IV" />
+        <option value="IV Codex" />
+        <option value="IV CC" />
+      </list>
+    </option>
+  </component>
+</application>

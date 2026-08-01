@@ -125,6 +125,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v3.2-atlas" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v3.2-atlas" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="deepseek-v3.2-aws" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v3.2-aws" />
@@ -168,6 +176,14 @@
                 <option name="identifier" value="deepseek-v4-flash" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v4-flash" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v4-flash-0731" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v4-flash-0731" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -360,6 +376,14 @@
                 <option name="identifier" value="doubao-seedance-2-0-mini-260615" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="doubao-seedance-2-0-mini-260615" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="doubao-seedance-2-5-260628" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="doubao-seedance-2-5-260628" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>

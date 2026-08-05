@@ -201,6 +201,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v4-flash-0731-thinking" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v4-flash-0731-thinking" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="deepseek-v4-flash-thinking" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v4-flash-thinking" />
@@ -903,6 +911,27 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.2" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.2" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.2-2025-12-11" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.2-2025-12-11" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.2-pro" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.2-pro" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="gpt-5.3-codex" />
                 <option name="inputTokenLimit" value="400000" />
                 <option name="name" value="gpt-5.3-codex" />
@@ -1085,6 +1114,30 @@
                 <option name="identifier" value="claude-sonnet-5" />
                 <option name="inputTokenLimit" value="200000" />
                 <option name="name" value="claude-sonnet-5" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2024-01-01T00:00:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.6-luna" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="gpt-5.6-luna" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2024-01-01T00:00:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.6-sol" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="gpt-5.6-sol" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2024-01-01T00:00:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.6-terra" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="gpt-5.6-terra" />
                 <option name="outputTokenLimit" value="64000" />
                 <option name="releaseDate" value="2024-01-01T00:00:00Z" />
               </ModelDetails>

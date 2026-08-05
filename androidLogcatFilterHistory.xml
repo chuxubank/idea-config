@@ -2,17 +2,18 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine tag:Track " />
         <option value="package:mine tag:HttpClient " />
         <option value="package:mine " />
         <option value="package:mine tag:UPush tag:Umeng tag:UMConfigure" />
         <option value="package:mine -tag:qdgralloc -tag:binder -tag:Sentry " />
-        <option value="package:mine tag:Track " />
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:HttpClient " />
+    <option name="mostRecentlyUsed" value="package:mine tag:Track -message:上传" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Track -message:上传" />
         <option value="package:mine tag:ImageLoad " />
         <option value="package:com.infinityvalley.iva " />
         <option value="package:com.infinityvalley.iva tag:ue" />
@@ -32,7 +33,6 @@
         <option value="package:mine -tag:qdgralloc" />
         <option value="package:mine level:error " />
         <option value="package:com.infinityvalley.iva" />
-        <option value="package:mine tag:MainActivity tag:SplashActivity tag:PermissionHelper " />
       </list>
     </option>
   </component>

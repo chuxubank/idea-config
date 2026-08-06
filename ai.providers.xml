@@ -178,9 +178,9 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
-                <option name="identifier" value="deepseek-v3.2-tx" />
+                <option name="identifier" value="deepseek-v3.2-xpu" />
                 <option name="inputTokenLimit" value="16384" />
-                <option name="name" value="deepseek-v3.2-tx" />
+                <option name="name" value="deepseek-v3.2-xpu" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -889,6 +889,14 @@
                 <option name="identifier" value="time-subject-reviewer-aliyun" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="time-subject-reviewer-aliyun" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v3.2-tx" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v3.2-tx" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>

@@ -42,6 +42,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="ck-fp8" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="ck-fp8" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="claude-fable-5" />
                 <option name="inputTokenLimit" value="200000" />
                 <option name="name" value="claude-fable-5" />
@@ -933,9 +941,23 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.2-chat-latest" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.2-chat-latest" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="gpt-5.2-pro" />
                 <option name="inputTokenLimit" value="400000" />
                 <option name="name" value="gpt-5.2-pro" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.2-pro-2025-12-11" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.2-pro-2025-12-11" />
                 <option name="outputTokenLimit" value="128000" />
               </ModelDetails>
               <ModelDetails>
@@ -947,9 +969,23 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.3-codex-spark" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.3-codex-spark" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="gpt-5.4" />
                 <option name="inputTokenLimit" value="400000" />
                 <option name="name" value="gpt-5.4" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.4-2026-03-05" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.4-2026-03-05" />
                 <option name="outputTokenLimit" value="128000" />
               </ModelDetails>
               <ModelDetails>
@@ -970,6 +1006,13 @@
                 <option name="identifier" value="gpt-5.5" />
                 <option name="inputTokenLimit" value="400000" />
                 <option name="name" value="gpt-5.5" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.6" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.6" />
                 <option name="outputTokenLimit" value="128000" />
               </ModelDetails>
               <ModelDetails>

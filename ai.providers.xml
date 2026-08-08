@@ -679,6 +679,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="memory-extractor-fp8" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="memory-extractor-fp8" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="memory-reranker-aliyun" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="memory-reranker-aliyun" />
@@ -830,6 +838,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="qwen3.7-flash" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="qwen3.7-flash" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="qwen3.7-max" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="qwen3.7-max" />
@@ -849,6 +865,14 @@
                 <option name="identifier" value="qwen3.7-plus-thinking" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="qwen3.7-plus-thinking" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="qwen3.8-max" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="qwen3.8-max" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>

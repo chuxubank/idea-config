@@ -1,4 +1,7 @@
 <application>
+  <component name="ProjectViewFileNesting">
+    <nesting-rules />
+  </component>
   <component name="UISettings">
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
   </component>

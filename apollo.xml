@@ -1,0 +1,5 @@
+<application>
+  <component name="com.apollographql.ijplugin.settings.AppSettingsState">
+    <option name="hasShownTelemetryOptOutDialog" value="true" />
+  </component>
+</application>

@@ -178,6 +178,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v3.2-kiro" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v3.2-kiro" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="deepseek-v3.2-ptu" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v3.2-ptu" />
@@ -1197,6 +1205,14 @@
                 <option name="identifier" value="claude-sonnet-5" />
                 <option name="inputTokenLimit" value="200000" />
                 <option name="name" value="claude-sonnet-5" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2024-01-01T00:00:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-3.2" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="deepseek-3.2" />
                 <option name="outputTokenLimit" value="64000" />
                 <option name="releaseDate" value="2024-01-01T00:00:00Z" />
               </ModelDetails>

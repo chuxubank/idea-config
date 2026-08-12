@@ -13,6 +13,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag:HttpClient " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.infinityvalley.iva.demo" />
         <option value="package:mine tag:HttpClient-ImageLoader " />
         <option value="package:com.infinityvalley.iva " />
         <option value="package:mine tag:ImageLoad " />
@@ -32,7 +33,6 @@
         <option value="package:mine -tag:qdgralloc -tag:binder -tag:Sentry -tag:OTEL" />
         <option value="package:mine -tag:qdgralloc" />
         <option value="package:mine level:error " />
-        <option value="package:com.infinityvalley.iva" />
       </list>
     </option>
   </component>

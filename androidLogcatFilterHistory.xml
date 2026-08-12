@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine tag:HttpClient " />
+        <option value="package:mine " />
         <option value="package:mine tag:Track -message:上传" />
         <option value="package:mine tag:UPush tag:Umeng tag:UMConfigure" />
         <option value="package:mine -tag:qdgralloc -tag:binder -tag:Sentry " />

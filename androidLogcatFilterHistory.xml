@@ -10,9 +10,10 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:BackgroundVideoPlayer " />
+    <option name="mostRecentlyUsed" value="package:mine tag:HttpClient tag:BackgroundVideoPlayer " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HttpClient tag:BackgroundVideoPlayer " />
         <option value="package:mine tag:BackgroundVideoPlayer " />
         <option value="package:com.infinityvalley.iva.demo" />
         <option value="package:mine tag:HttpClient-ImageLoader " />
@@ -32,7 +33,6 @@
         <option value="package:mine √√" />
         <option value="package:mine navEventId" />
         <option value="package:mine -tag:qdgralloc -tag:binder -tag:Sentry -tag:OTEL" />
-        <option value="package:mine -tag:qdgralloc" />
       </list>
     </option>
   </component>

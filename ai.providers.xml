@@ -257,6 +257,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v4-pro-0813-thinking" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v4-pro-0813-thinking" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="deepseek-v4-pro-thinking" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v4-pro-thinking" />

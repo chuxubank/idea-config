@@ -878,6 +878,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="qwen3.7-flash-thinking" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="qwen3.7-flash-thinking" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="qwen3.7-max" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="qwen3.7-max" />

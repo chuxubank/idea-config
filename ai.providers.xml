@@ -1242,6 +1242,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="claude-sonnet-5-thinking" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-sonnet-5-thinking" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2024-01-01T00:00:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="codex-auto-review" />
                 <option name="inputTokenLimit" value="200000" />
                 <option name="name" value="codex-auto-review" />

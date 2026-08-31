@@ -561,6 +561,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="glm-5.3-flash-thinking" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="glm-5.3-flash-thinking" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="glm-5.3-thinking" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="glm-5.3-thinking" />

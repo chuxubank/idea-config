@@ -11,9 +11,12 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track " />
+    <option name="mostRecentlyUsed" value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track" />
+        <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track tag:script" />
+        <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track tag:Script" />
         <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder" />
         <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio" />
         <option value="package:com.infinityvalley.iva -tag:sentry" />
@@ -31,8 +34,6 @@
         <option value="package:mine tag:ChatRepository " />
         <option value="package:mine tag:" />
         <option value="package:mine tag:HomeViewModel-Greeting" />
-        <option value="package:mine tag:Home" />
-        <option value="package:com.infinityvalley.iva tag:ivb " />
       </list>
     </option>
   </component>

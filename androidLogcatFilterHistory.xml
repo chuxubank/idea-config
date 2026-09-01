@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track " />
         <option value="package:mine tag:HttpClient " />
         <option value="package:mine " />
         <option value="package:mine tag:Track -message:上传" />
@@ -10,9 +11,12 @@
         <option value="package:mine tag:HandGame tag:ScriptContainer tag:ScriptContext" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:HttpClient " />
+    <option name="mostRecentlyUsed" value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder" />
+        <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio" />
+        <option value="package:com.infinityvalley.iva -tag:sentry" />
         <option value="tag:HttpClient " />
         <option value="package:com.infinityvalley.iva " />
         <option value="package:mine tag:BackgroundVideoPlayer " />
@@ -29,10 +33,6 @@
         <option value="package:mine tag:HomeViewModel-Greeting" />
         <option value="package:mine tag:Home" />
         <option value="package:com.infinityvalley.iva tag:ivb " />
-        <option value="package:mine tag:AppViewModel " />
-        <option value="package:mine" />
-        <option value="package:mine √√" />
-        <option value="package:mine navEventId" />
       </list>
     </option>
   </component>

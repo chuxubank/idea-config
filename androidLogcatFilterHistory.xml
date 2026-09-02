@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track " />
         <option value="package:mine tag:HttpClient " />
-        <option value="package:mine " />
         <option value="package:mine tag:Track -message:上传" />
         <option value="package:mine tag:UPush tag:Umeng tag:UMConfigure" />
         <option value="package:mine -tag:qdgralloc -tag:binder -tag:Sentry " />
@@ -15,12 +15,16 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track" />
+        <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track tag:rtcmodule tag:RtcCaption" />
+        <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track tag:rtcmodule " />
+        <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track tag:rtc" />
+        <option value="package:mine" />
+        <option value="tag:HttpClient " />
         <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track tag:script" />
         <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder -tag:OTEL -tag:track tag:Script" />
         <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio -tag:binder" />
         <option value="package:com.infinityvalley.iva -tag:sentry -tag:ivb -tag:Audio" />
         <option value="package:com.infinityvalley.iva -tag:sentry" />
-        <option value="tag:HttpClient " />
         <option value="package:com.infinityvalley.iva " />
         <option value="package:mine tag:BackgroundVideoPlayer " />
         <option value="package:mine tag:HttpClient tag:BackgroundVideoPlayer " />
@@ -30,10 +34,6 @@
         <option value="package:com.infinityvalley.iva tag:ue" />
         <option value="package:com.infinityvalley.iva  " />
         <option value="package:mine tag:UPush" />
-        <option value="package:mine tag:Umeng " />
-        <option value="package:mine tag:ChatRepository " />
-        <option value="package:mine tag:" />
-        <option value="package:mine tag:HomeViewModel-Greeting" />
       </list>
     </option>
   </component>

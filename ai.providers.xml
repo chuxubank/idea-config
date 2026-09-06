@@ -15,9 +15,38 @@
           <option name="providerType" value="GEMINI_ENTERPRISE" />
         </ProviderDetails>
         <ProviderDetails>
+          <option name="description" value="Gemini" />
+          <option name="providerType" value="GEMINI_ENTERPRISE_V2" />
+        </ProviderDetails>
+        <ProviderDetails>
           <option name="description" value="Google AI Studio" />
           <option name="providerType" value="AI_STUDIO" />
           <option name="providerData" value="&lt;AIStudioProviderData&gt;&#10;  &lt;option name=&quot;defaultApiKey&quot; value=&quot;&quot; /&gt;&#10;&lt;/AIStudioProviderData&gt;" />
+        </ProviderDetails>
+        <ProviderDetails>
+          <option name="description" value="Gemma" />
+          <option name="modelList">
+            <list>
+              <ModelDetails>
+                <option name="identifier" value="google/gemma-4-4b-it" />
+                <option name="name" value="Gemma 4 4B" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="google/gemma-4-12B-it" />
+                <option name="name" value="Gemma 4 12B" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="google/gemma-4-26b-it" />
+                <option name="name" value="Gemma 4 26B" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="google/gemma-4-31B-it" />
+                <option name="name" value="Gemma 4 31B" />
+              </ModelDetails>
+            </list>
+          </option>
+          <option name="providerType" value="GEMMA" />
+          <option name="providerData" value="&lt;GemmaProviderData&gt;&#10;  &lt;option name=&quot;contextLength&quot; value=&quot;16384&quot; /&gt;&#10;  &lt;option name=&quot;inactivityTimeoutMinutes&quot; value=&quot;30&quot; /&gt;&#10;  &lt;option name=&quot;parallelRequestProcessing&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;showDownloadAction&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;storageLocation&quot; value=&quot;/Users/misaka/.android/models&quot; /&gt;&#10;&lt;/GemmaProviderData&gt;" />
         </ProviderDetails>
         <ProviderDetails>
           <option name="description" value="IV" />
@@ -1069,23 +1098,9 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
-                <option name="identifier" value="gpt-5.2-chat-latest" />
-                <option name="inputTokenLimit" value="400000" />
-                <option name="name" value="gpt-5.2-chat-latest" />
-                <option name="outputTokenLimit" value="128000" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="enabled" value="false" />
                 <option name="identifier" value="gpt-5.2-pro" />
                 <option name="inputTokenLimit" value="400000" />
                 <option name="name" value="gpt-5.2-pro" />
-                <option name="outputTokenLimit" value="128000" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="enabled" value="false" />
-                <option name="identifier" value="gpt-5.2-pro-2025-12-11" />
-                <option name="inputTokenLimit" value="400000" />
-                <option name="name" value="gpt-5.2-pro-2025-12-11" />
                 <option name="outputTokenLimit" value="128000" />
               </ModelDetails>
               <ModelDetails>
@@ -1097,23 +1112,9 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
-                <option name="identifier" value="gpt-5.3-codex-spark" />
-                <option name="inputTokenLimit" value="400000" />
-                <option name="name" value="gpt-5.3-codex-spark" />
-                <option name="outputTokenLimit" value="128000" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="enabled" value="false" />
                 <option name="identifier" value="gpt-5.4" />
                 <option name="inputTokenLimit" value="400000" />
                 <option name="name" value="gpt-5.4" />
-                <option name="outputTokenLimit" value="128000" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="enabled" value="false" />
-                <option name="identifier" value="gpt-5.4-2026-03-05" />
-                <option name="inputTokenLimit" value="400000" />
-                <option name="name" value="gpt-5.4-2026-03-05" />
                 <option name="outputTokenLimit" value="128000" />
               </ModelDetails>
               <ModelDetails>
@@ -1137,13 +1138,6 @@
                 <option name="outputTokenLimit" value="128000" />
               </ModelDetails>
               <ModelDetails>
-                <option name="enabled" value="false" />
-                <option name="identifier" value="gpt-5.6" />
-                <option name="inputTokenLimit" value="400000" />
-                <option name="name" value="gpt-5.6" />
-                <option name="outputTokenLimit" value="128000" />
-              </ModelDetails>
-              <ModelDetails>
                 <option name="identifier" value="gpt-5.6-luna" />
                 <option name="inputTokenLimit" value="400000" />
                 <option name="name" value="gpt-5.6-luna" />
@@ -1159,6 +1153,55 @@
                 <option name="identifier" value="gpt-5.6-terra" />
                 <option name="inputTokenLimit" value="400000" />
                 <option name="name" value="gpt-5.6-terra" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-6" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gpt-6" />
+                <option name="outputTokenLimit" value="16384" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-6-astra" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gpt-6-astra" />
+                <option name="outputTokenLimit" value="16384" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.2-chat-latest" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.2-chat-latest" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.2-pro-2025-12-11" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.2-pro-2025-12-11" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.3-codex-spark" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.3-codex-spark" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.4-2026-03-05" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.4-2026-03-05" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-5.6" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.6" />
                 <option name="outputTokenLimit" value="128000" />
               </ModelDetails>
             </list>
@@ -1356,10 +1399,6 @@
           </option>
           <option name="providerType" value="REMOTE" />
           <option name="providerData" value="&lt;RemoteProviderData&gt;&#10;  &lt;option name=&quot;apiKey&quot; value=&quot;&quot; /&gt;&#10;  &lt;option name=&quot;apiKeyHeader&quot; value=&quot;&quot; /&gt;&#10;  &lt;option name=&quot;url&quot; value=&quot;http://llm.invalley.co&quot; /&gt;&#10;  &lt;option name=&quot;schema&quot; value=&quot;anthropic&quot; /&gt;&#10;&lt;/RemoteProviderData&gt;" />
-        </ProviderDetails>
-        <ProviderDetails>
-          <option name="description" value="Gemini" />
-          <option name="providerType" value="GEMINI_ENTERPRISE_V2" />
         </ProviderDetails>
       </list>
     </option>

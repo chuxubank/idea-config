@@ -183,14 +183,6 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
-                <option name="identifier" value="deepseek-v3.2-aws" />
-                <option name="inputTokenLimit" value="16384" />
-                <option name="name" value="deepseek-v3.2-aws" />
-                <option name="outputTokenLimit" value="16384" />
-                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="enabled" value="false" />
                 <option name="identifier" value="deepseek-v3.2-bp" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v3.2-bp" />
@@ -210,22 +202,6 @@
                 <option name="identifier" value="deepseek-v3.2-exp" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v3.2-exp" />
-                <option name="outputTokenLimit" value="16384" />
-                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="enabled" value="false" />
-                <option name="identifier" value="deepseek-v3.2-kiro" />
-                <option name="inputTokenLimit" value="16384" />
-                <option name="name" value="deepseek-v3.2-kiro" />
-                <option name="outputTokenLimit" value="16384" />
-                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="enabled" value="false" />
-                <option name="identifier" value="deepseek-v3.2-ptu" />
-                <option name="inputTokenLimit" value="16384" />
-                <option name="name" value="deepseek-v3.2-ptu" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -313,6 +289,14 @@
                 <option name="identifier" value="deepseek-v4-pro-thinking" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v4-pro-thinking" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v4.1-flash" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v4.1-flash" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -590,6 +574,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="glm-5.3" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="glm-5.3" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="glm-5.3-flash-thinking" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="glm-5.3-flash-thinking" />
@@ -815,6 +807,22 @@
                 <option name="identifier" value="MiniMax/MiniMax-M3" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="MiniMax/MiniMax-M3" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="qwen-image-3.0" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="qwen-image-3.0" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="qwen-image-3.0-pro" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="qwen-image-3.0-pro" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -1054,6 +1062,30 @@
                 <option name="identifier" value="time-subject-reviewer-aliyun" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="time-subject-reviewer-aliyun" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v3.2-aws" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v3.2-aws" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v3.2-kiro" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v3.2-kiro" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v3.2-ptu" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v3.2-ptu" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>

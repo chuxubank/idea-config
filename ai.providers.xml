@@ -79,14 +79,6 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
-                <option name="identifier" value="claude-fable-5" />
-                <option name="inputTokenLimit" value="200000" />
-                <option name="name" value="claude-fable-5" />
-                <option name="outputTokenLimit" value="64000" />
-                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="enabled" value="false" />
                 <option name="identifier" value="claude-haiku-4-5-20251001" />
                 <option name="inputTokenLimit" value="200000" />
                 <option name="name" value="claude-haiku-4-5-20251001" />
@@ -183,6 +175,14 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v3.2-azure" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v3.2-azure" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="deepseek-v3.2-bp" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v3.2-bp" />
@@ -202,6 +202,14 @@
                 <option name="identifier" value="deepseek-v3.2-exp" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v3.2-exp" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v3.2-gether" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v3.2-gether" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -254,14 +262,6 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
-                <option name="identifier" value="deepseek-v4-flash-vision-exp" />
-                <option name="inputTokenLimit" value="16384" />
-                <option name="name" value="deepseek-v4-flash-vision-exp" />
-                <option name="outputTokenLimit" value="16384" />
-                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="enabled" value="false" />
                 <option name="identifier" value="deepseek-v4-pro" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v4-pro" />
@@ -297,6 +297,14 @@
                 <option name="identifier" value="deepseek-v4.1-flash" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v4.1-flash" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v4.1-flash-thinking" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v4.1-flash-thinking" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -510,9 +518,25 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="gemini-2.5-flash-lite" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gemini-2.5-flash-lite" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="gemini-2.5-pro" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="gemini-2.5-pro" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gemini-3-flash-preview" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gemini-3-flash-preview" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -526,9 +550,25 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="gemini-3.1-flash-lite" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gemini-3.1-flash-lite" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="gemini-3.5-flash" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="gemini-3.5-flash" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gemini-3.5-flash-lite" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gemini-3.5-flash-lite" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -545,6 +585,14 @@
                 <option name="identifier" value="gemini-3.7-flash" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="gemini-3.7-flash" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gemini-3.8-flash" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gemini-3.8-flash" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -609,6 +657,14 @@
                 <option name="identifier" value="gpt-4o" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="gpt-4o" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="gpt-4o-mini" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="gpt-4o-mini" />
                 <option name="outputTokenLimit" value="16384" />
                 <option name="releaseDate" value="2021-07-20T10:40:00Z" />
               </ModelDetails>
@@ -1067,6 +1123,22 @@
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="claude-fable-5" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-fable-5" />
+                <option name="outputTokenLimit" value="64000" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="deepseek-v4-flash-vision-exp" />
+                <option name="inputTokenLimit" value="16384" />
+                <option name="name" value="deepseek-v4-flash-vision-exp" />
+                <option name="outputTokenLimit" value="16384" />
+                <option name="releaseDate" value="2021-07-20T10:40:00Z" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="deepseek-v3.2-aws" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="deepseek-v3.2-aws" />
@@ -1109,10 +1181,154 @@
             <list>
               <ModelDetails>
                 <option name="enabled" value="false" />
+                <option name="identifier" value="claude-haiku-4-5-20251001" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-haiku-4-5-20251001" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-haiku-4-5-20251001-thinking" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-haiku-4-5-20251001-thinking" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-4-5-20251101" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-5-20251101" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-4-5-20251101-thinking" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-5-20251101-thinking" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-4-6" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-6" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-4-6-thinking" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-6-thinking" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-4-7" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-7" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-4-7-thinking" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-7-thinking" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-4-8" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-8" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-4-8-thinking" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-4-8-thinking" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-5" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-5" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-opus-5-thinking" />
+                <option name="inputTokenLimit" value="200000" />
+                <option name="name" value="claude-opus-5-thinking" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-sonnet-4-5-20250929" />
+                <option name="inputTokenLimit" value="1000000" />
+                <option name="name" value="claude-sonnet-4-5-20250929" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-sonnet-4-5-20250929-thinking" />
+                <option name="inputTokenLimit" value="1000000" />
+                <option name="name" value="claude-sonnet-4-5-20250929-thinking" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-sonnet-4-6" />
+                <option name="inputTokenLimit" value="1000000" />
+                <option name="name" value="claude-sonnet-4-6" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-sonnet-4-6-thinking" />
+                <option name="inputTokenLimit" value="1000000" />
+                <option name="name" value="claude-sonnet-4-6-thinking" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-sonnet-5" />
+                <option name="inputTokenLimit" value="1000000" />
+                <option name="name" value="claude-sonnet-5" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="claude-sonnet-5-thinking" />
+                <option name="inputTokenLimit" value="1000000" />
+                <option name="name" value="claude-sonnet-5-thinking" />
+                <option name="outputTokenLimit" value="64000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
                 <option name="identifier" value="codex-auto-review" />
                 <option name="inputTokenLimit" value="16384" />
                 <option name="name" value="codex-auto-review" />
                 <option name="outputTokenLimit" value="16384" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="gpt-5.6-luna" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.6-luna" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="gpt-5.6-sol" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.6-sol" />
+                <option name="outputTokenLimit" value="128000" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="gpt-5.6-terra" />
+                <option name="inputTokenLimit" value="400000" />
+                <option name="name" value="gpt-5.6-terra" />
+                <option name="outputTokenLimit" value="128000" />
               </ModelDetails>
               <ModelDetails>
                 <option name="enabled" value="false" />
@@ -1167,24 +1383,6 @@
                 <option name="identifier" value="gpt-5.5" />
                 <option name="inputTokenLimit" value="400000" />
                 <option name="name" value="gpt-5.5" />
-                <option name="outputTokenLimit" value="128000" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="identifier" value="gpt-5.6-luna" />
-                <option name="inputTokenLimit" value="400000" />
-                <option name="name" value="gpt-5.6-luna" />
-                <option name="outputTokenLimit" value="128000" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="identifier" value="gpt-5.6-sol" />
-                <option name="inputTokenLimit" value="400000" />
-                <option name="name" value="gpt-5.6-sol" />
-                <option name="outputTokenLimit" value="128000" />
-              </ModelDetails>
-              <ModelDetails>
-                <option name="identifier" value="gpt-5.6-terra" />
-                <option name="inputTokenLimit" value="400000" />
-                <option name="name" value="gpt-5.6-terra" />
                 <option name="outputTokenLimit" value="128000" />
               </ModelDetails>
               <ModelDetails>
